@@ -12,43 +12,67 @@ print("Starting ETL Process...")
 
 # 1. Extraction
 # Determine paths based on execution directory
-data_file <- "data/synthetic_canteen_data.csv"
+data_file <- "data/rowData/merged_canteen_final.csv"
 db_file <- "data/canteen_dw.sqlite"
 schema_file <- "warehouse/schema.sql"
 
-if (!file.exists(data_file) && file.exists("../data/synthetic_canteen_data.csv")) {
-    data_file <- "../data/synthetic_canteen_data.csv"
-    db_file <- "../data/canteen_dw.sqlite"
-    schema_file <- "../warehouse/schema.sql"
+if (!file.exists(data_file) && file.exists("../data/rowData/merged_canteen_final.csv")) {
+  data_file <- "../data/rowData/merged_canteen_final.csv"
+  db_file <- "../data/canteen_dw.sqlite"
+  schema_file <- "../warehouse/schema.sql"
 } else if (!file.exists(data_file)) {
-    # Full paths fallback
-    data_file <- "C:/Users/amits/Data WareHouse Model/Smart_Canteen_Analytics/data/synthetic_canteen_data.csv"
-    db_file <- "C:/Users/amits/Data WareHouse Model/Smart_Canteen_Analytics/data/canteen_dw.sqlite"
-    schema_file <- "C:/Users/amits/Data WareHouse Model/Smart_Canteen_Analytics/warehouse/schema.sql"
+  # Full paths fallback
+  data_file <- "C:/Users/amits/Data WareHouse Model/Smart_Canteen_Analytics/data/rowData/merged_canteen_final.csv"
+  db_file <- "C:/Users/amits/Data WareHouse Model/Smart_Canteen_Analytics/data/canteen_dw.sqlite"
+  schema_file <- "C:/Users/amits/Data WareHouse Model/Smart_Canteen_Analytics/warehouse/schema.sql"
 }
 
 print(paste("Reading source data from:", data_file))
-raw_sales <- read.csv(data_file)
+raw_sales <- read.csv(data_file, stringsAsFactors = FALSE)
 
 # 2. Transformation & Cleaning
+# Load lubridate for dynamic date parsing
+if (!require("lubridate")) install.packages("lubridate")
+library(lubridate)
+
+# Make sure basic required columns exist. The new dataset columns are:
+# transaction_id, date, customer_type, weather, item_name, category, unit_cost, price, day_of_week, quantity, total_amount
+
 # Outlier handling for Price using IQR
-Q1 <- quantile(raw_sales$price, 0.25, na.rm=TRUE)
-Q3 <- quantile(raw_sales$price, 0.75, na.rm=TRUE)
+Q1 <- quantile(raw_sales$price, 0.25, na.rm = TRUE)
+Q3 <- quantile(raw_sales$price, 0.75, na.rm = TRUE)
 IQR_val <- Q3 - Q1
+
+# Parse mixed date formats (e.g., YYYY-MM-DD or DD-MM-YY)
+raw_sales$parsed_date <- parse_date_time(raw_sales$date, orders = c("ymd", "dmy", "mdy"))
+raw_sales$date_str <- as.character(as.Date(raw_sales$parsed_date))
+
 clean_sales <- raw_sales %>%
   filter(!is.na(item_name) & !is.na(quantity)) %>%
-  mutate(quantity = ifelse(quantity <= 0, 1, quantity)) %>%
-  filter(price >= (Q1 - 1.5 * IQR_val) & price <= (Q3 + 1.5 * IQR_val))
+  mutate(
+    quantity = ifelse(is.na(quantity) | quantity <= 0, 1, quantity),
+    price = ifelse(is.na(price), 0, price),
+    unit_cost = ifelse(is.na(unit_cost), 0, unit_cost),
+    total_amount = ifelse(is.na(total_amount), price * quantity, total_amount),
+    category = trimws(category),
+    item_name = trimws(item_name),
+    customer_type = trimws(customer_type),
+    weather = trimws(weather)
+  )
 
 print(paste("Cleaned rows:", nrow(clean_sales), "Original:", nrow(raw_sales)))
 
 # Create Dimensions Dataframes
 dim_item <- clean_sales %>%
   select(ItemName = item_name, Category = category, UnitCost = unit_cost, Price = price) %>%
-  distinct()
+  distinct() %>%
+  # handle duplicates where ItemName might have different prices
+  group_by(ItemName) %>%
+  slice(1) %>%
+  ungroup()
 
 dim_date <- clean_sales %>%
-  select(FullDate = date, DayOfWeek = day_of_week) %>%
+  select(FullDate = date_str, DayOfWeek = day_of_week) %>%
   distinct() %>%
   mutate(
     IsWeekend = ifelse(DayOfWeek %in% c("Saturday", "Sunday"), TRUE, FALSE),
@@ -59,6 +83,7 @@ dim_customer <- clean_sales %>%
   select(CustomerType = customer_type) %>%
   distinct()
 
+
 # 3. Loading
 # Connect to SQLite Data Warehouse
 print(paste("Connecting to Data Warehouse at:", db_file))
@@ -66,27 +91,27 @@ wh_con <- dbConnect(RSQLite::SQLite(), dbname = db_file)
 
 # Read and execute DDL
 if (file.exists(schema_file)) {
-    print("Reading and executing Schema...")
-    schema_queries <- readLines(schema_file)
-    queries_str <- paste(schema_queries, collapse = "\n")
-    queries_list <- strsplit(queries_str, ";")[[1]]
-    for (q in queries_list) {
-        clean_q <- trimws(q)
-        if (clean_q != "") {
-            dbExecute(wh_con, clean_q)
-        }
+  print("Reading and executing Schema...")
+  schema_queries <- readLines(schema_file)
+  queries_str <- paste(schema_queries, collapse = "\n")
+  queries_list <- strsplit(queries_str, ";")[[1]]
+  for (q in queries_list) {
+    clean_q <- trimws(q)
+    if (clean_q != "") {
+      dbExecute(wh_con, clean_q)
     }
+  }
 } else {
-    print("Warning: Schema SQL file not found. Ensuring tables exist via RSQLite...")
+  print("Warning: Schema SQL file not found. Ensuring tables exist via RSQLite...")
 }
 
 # Insert Dimension Data (handling auto-increment by inserting into empty table or matching)
 print("Clearing old data if exists...")
-tryCatch(dbExecute(wh_con, "DELETE FROM Fact_Sales"), error=function(e) print("Fact_Sales empty or missing"))
-tryCatch(dbExecute(wh_con, "DELETE FROM Dim_Item"), error=function(e) print("Dim_Item empty or missing"))
-tryCatch(dbExecute(wh_con, "DELETE FROM Dim_Date"), error=function(e) print("Dim_Date empty or missing"))
-tryCatch(dbExecute(wh_con, "DELETE FROM Dim_Customer"), error=function(e) print("Dim_Customer empty or missing"))
-tryCatch(dbExecute(wh_con, "DELETE FROM sqlite_sequence"), error=function(e) print("No sequences to clear"))
+tryCatch(dbExecute(wh_con, "DELETE FROM Fact_Sales"), error = function(e) print("Fact_Sales empty or missing"))
+tryCatch(dbExecute(wh_con, "DELETE FROM Dim_Item"), error = function(e) print("Dim_Item empty or missing"))
+tryCatch(dbExecute(wh_con, "DELETE FROM Dim_Date"), error = function(e) print("Dim_Date empty or missing"))
+tryCatch(dbExecute(wh_con, "DELETE FROM Dim_Customer"), error = function(e) print("Dim_Customer empty or missing"))
+tryCatch(dbExecute(wh_con, "DELETE FROM sqlite_sequence"), error = function(e) print("No sequences to clear"))
 
 dbWriteTable(wh_con, "Dim_Item", dim_item, append = TRUE, row.names = FALSE)
 dbWriteTable(wh_con, "Dim_Date", dim_date, append = TRUE, row.names = FALSE)
@@ -100,7 +125,7 @@ db_dim_customer <- dbGetQuery(wh_con, "SELECT CustomerKey, CustomerType FROM Dim
 # Map Keys to Fact Table
 fact_sales <- clean_sales %>%
   left_join(db_dim_item, by = c("item_name" = "ItemName")) %>%
-  left_join(db_dim_date, by = c("date" = "FullDate")) %>%
+  left_join(db_dim_date, by = c("date_str" = "FullDate")) %>%
   left_join(db_dim_customer, by = c("customer_type" = "CustomerType")) %>%
   select(
     DateKey,

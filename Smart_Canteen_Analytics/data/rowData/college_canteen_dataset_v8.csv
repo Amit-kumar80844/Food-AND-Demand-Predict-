@@ -1,0 +1,2321 @@
+Date,Time,Meal_Time,Student_ID,Item,Quantity,Actual_Item_Price,Price,Total_Amount,Payment_Mode,Weather,Rating,Taste,DayOfWeek
+15-09-2025,13:57,Lunch,34,Bisibele Bath,1,25,25,25,UPI,Sunny,3.7,Good,Monday
+15-09-2025,09:44,Breakfast,70,Coffee,2,15,15,30,UPI,Rainy,3.3,Average,Monday
+15-09-2025,13:06,Lunch,98,Chapati,1,25,25,25,UPI,Windy,4.5,Excellent,Monday
+15-09-2025,16:40,Evening Snacks,6,Coffee,2,50,50,100,UPI,Rainy,4.5,Excellent,Monday
+15-09-2025,12:03,Lunch,85,Dosa,1,15,15,15,UPI,Sunny,3.7,Good,Monday
+15-09-2025,18:36,Evening Snacks,47,Pani Puri,1,25,25,25,Cash,Sunny,3.8,Good,Monday
+15-09-2025,16:07,Evening Snacks,16,French Fries,3,90,90,270,UPI,Rainy,3.6,Average,Monday
+15-09-2025,13:42,Lunch,48,Tea,1,35,35,35,Cash,Sunny,4.1,Good,Monday
+15-09-2025,08:39,Breakfast,94,Chapati,2,45,45,90,UPI,Rainy,4.7,Excellent,Monday
+15-09-2025,15:05,Evening Snacks,27,Tea,2,90,90,180,UPI,Cloudy,4.3,Very Good,Monday
+15-09-2025,13:49,Lunch,46,Sandwich,2,15,15,30,UPI,Sunny,4.4,Very Good,Monday
+15-09-2025,19:42,Evening Snacks,35,Dosa,1,40,40,40,UPI,Rainy,4.3,Very Good,Monday
+15-09-2025,18:40,Evening Snacks,72,French Fries,1,50,50,50,UPI,Cloudy,4,Good,Monday
+15-09-2025,18:06,Evening Snacks,71,Coffee,1,15,15,15,UPI,Cloudy,4.4,Very Good,Monday
+15-09-2025,16:59,Evening Snacks,92,Pani Puri,2,35,35,70,Card,Rainy,4.3,Very Good,Monday
+15-09-2025,13:22,Lunch,20,Dosa,1,45,45,45,Cash,Sunny,4.6,Excellent,Monday
+15-09-2025,09:29,Breakfast,93,Dosa,1,25,25,25,UPI,Cloudy,3.8,Good,Monday
+15-09-2025,16:22,Evening Snacks,3,Coffee,1,90,90,90,UPI,Cloudy,3.3,Average,Monday
+15-09-2025,17:33,Evening Snacks,56,Bhel Puri,3,30,30,90,UPI,Sunny,4.4,Very Good,Monday
+15-09-2025,09:39,Breakfast,50,Tea,1,25,25,25,UPI,Sunny,4.1,Good,Monday
+15-09-2025,19:41,Evening Snacks,97,Dosa,1,40,40,40,UPI,Cloudy,3.9,Good,Monday
+15-09-2025,17:10,Evening Snacks,93,Poori,1,45,45,45,Cash,Rainy,3.9,Good,Monday
+15-09-2025,13:09,Lunch,94,Idly,1,40,40,40,UPI,Cloudy,5,Excellent,Monday
+15-09-2025,19:00,Evening Snacks,38,Bisibele Bath,1,50,50,50,UPI,Cloudy,3.7,Good,Monday
+15-09-2025,16:44,Evening Snacks,48,Pani Puri,1,45,45,45,UPI,Rainy,3.7,Good,Monday
+15-09-2025,16:04,Evening Snacks,43,Tea,1,50,50,50,Cash,Rainy,4,Good,Monday
+15-09-2025,18:59,Evening Snacks,5,Bhel Puri,1,30,30,30,UPI,Rainy,4.5,Excellent,Monday
+15-09-2025,17:14,Evening Snacks,27,Upma,1,30,30,30,Card,Cloudy,4.9,Excellent,Monday
+15-09-2025,17:49,Evening Snacks,51,Samosa,1,15,15,15,Cash,Cloudy,4.3,Very Good,Monday
+15-09-2025,12:18,Lunch,92,Bisibele Bath,1,40,40,40,UPI,Windy,3.5,Average,Monday
+15-09-2025,15:59,Evening Snacks,70,French Fries,1,30,30,30,UPI,Cloudy,4.8,Excellent,Monday
+15-09-2025,15:25,Evening Snacks,64,Pani Puri,1,15,15,15,UPI,Sunny,4,Good,Monday
+15-09-2025,13:22,Lunch,53,Ice Cream,1,15,15,15,UPI,Sunny,3.7,Good,Monday
+15-09-2025,17:21,Evening Snacks,50,Sandwich,1,45,45,45,UPI,Sunny,3.6,Average,Monday
+15-09-2025,16:04,Evening Snacks,2,Pani Puri,3,45,45,135,UPI,Cloudy,4.3,Very Good,Monday
+15-09-2025,17:53,Evening Snacks,76,Coffee,1,15,15,15,UPI,Rainy,4.1,Good,Monday
+15-09-2025,12:53,Lunch,68,Dosa,3,70,70,210,UPI,Sunny,4.1,Good,Monday
+15-09-2025,12:48,Lunch,34,Dosa,2,90,90,180,Cash,Sunny,4.5,Excellent,Monday
+15-09-2025,13:16,Lunch,1,Tea,3,12,12,36,UPI,Sunny,3.7,Good,Monday
+15-09-2025,18:40,Evening Snacks,18,Sandwich,3,15,15,45,UPI,Sunny,4.5,Excellent,Monday
+15-09-2025,09:17,Breakfast,82,Coffee,2,50,50,100,Card,Sunny,3.8,Good,Monday
+15-09-2025,15:13,Evening Snacks,51,French Fries,1,50,50,50,UPI,Sunny,4.9,Excellent,Monday
+15-09-2025,16:47,Evening Snacks,25,Bhel Puri,2,15,15,30,UPI,Rainy,4.2,Very Good,Monday
+15-09-2025,17:40,Evening Snacks,19,Samosa,3,15,15,45,UPI,Rainy,3.6,Average,Monday
+15-09-2025,12:35,Lunch,12,Ice Cream,1,50,50,50,UPI,Sunny,3.2,Average,Monday
+15-09-2025,19:58,Evening Snacks,53,Dosa,3,40,40,120,Card,Cloudy,4.3,Very Good,Monday
+15-09-2025,08:46,Breakfast,31,Idly,1,45,45,45,UPI,Cloudy,3.9,Good,Monday
+15-09-2025,18:49,Evening Snacks,67,Coffee,1,15,15,15,Cash,Cloudy,3.9,Good,Monday
+15-09-2025,09:35,Breakfast,6,Tea,1,90,90,90,UPI,Rainy,4.3,Very Good,Monday
+15-09-2025,17:14,Evening Snacks,78,Bisibele Bath,2,50,50,100,UPI,Rainy,4.4,Very Good,Monday
+15-09-2025,17:06,Evening Snacks,10,Dosa,2,40,40,80,UPI,Cloudy,4.5,Excellent,Monday
+15-09-2025,17:54,Evening Snacks,33,Tea,1,12,12,12,UPI,Rainy,3.5,Average,Monday
+15-09-2025,13:44,Lunch,56,Fried Rice,1,35,35,35,UPI,Sunny,4.6,Excellent,Monday
+15-09-2025,09:20,Breakfast,83,Dosa,2,90,90,180,UPI,Sunny,3.8,Good,Monday
+15-09-2025,16:07,Evening Snacks,15,French Fries,1,50,50,50,UPI,Cloudy,3.1,Average,Monday
+15-09-2025,13:10,Lunch,100,Juice,2,50,50,100,UPI,Sunny,3.5,Average,Monday
+15-09-2025,12:30,Lunch,95,Tea,3,30,30,90,UPI,Sunny,4.1,Good,Monday
+15-09-2025,12:05,Lunch,79,Coffee,1,30,30,30,Cash,Sunny,3.6,Average,Monday
+15-09-2025,12:13,Lunch,78,Dosa,1,50,50,50,UPI,Cloudy,4,Good,Monday
+15-09-2025,16:12,Evening Snacks,74,Juice,1,50,50,50,UPI,Rainy,4.1,Good,Monday
+15-09-2025,18:55,Evening Snacks,52,Samosa,1,15,15,15,Card,Cloudy,3.9,Good,Monday
+15-09-2025,16:13,Evening Snacks,49,Bhel Puri,3,45,45,135,Card,Cloudy,3.8,Good,Monday
+15-09-2025,16:46,Evening Snacks,38,Tea,3,25,25,75,UPI,Sunny,3.5,Average,Monday
+15-09-2025,15:46,Evening Snacks,32,Tea,3,50,50,150,UPI,Sunny,4,Good,Monday
+15-09-2025,12:13,Lunch,40,Juice,2,25,25,50,UPI,Sunny,3.2,Average,Monday
+15-09-2025,16:49,Evening Snacks,14,Juice,1,12,12,12,UPI,Rainy,3.7,Good,Monday
+15-09-2025,17:57,Evening Snacks,52,Sandwich,2,45,45,90,UPI,Cloudy,3.6,Average,Monday
+15-09-2025,17:00,Evening Snacks,72,Tea,1,90,90,90,UPI,Rainy,3.9,Good,Monday
+15-09-2025,13:21,Lunch,4,Dosa,2,90,90,180,Cash,Sunny,3.9,Good,Monday
+15-09-2025,13:35,Lunch,67,Fried Rice,1,50,50,50,UPI,Sunny,4.4,Very Good,Monday
+15-09-2025,13:25,Lunch,84,South Indian Thali,1,15,15,15,UPI,Cloudy,4.6,Excellent,Monday
+15-09-2025,19:13,Evening Snacks,97,Pani Puri,3,25,25,75,UPI,Rainy,3.6,Average,Monday
+15-09-2025,18:12,Evening Snacks,85,Coffee,2,40,40,80,UPI,Rainy,4.8,Excellent,Monday
+15-09-2025,19:57,Evening Snacks,19,Bisibele Bath,3,50,50,150,UPI,Cloudy,3.7,Good,Monday
+15-09-2025,15:45,Evening Snacks,85,Ice Cream,2,30,30,60,UPI,Sunny,4.1,Good,Monday
+15-09-2025,09:10,Breakfast,53,Idly,1,15,15,15,Cash,Cloudy,4.2,Very Good,Monday
+15-09-2025,09:46,Breakfast,55,Bisibele Bath,2,25,25,50,UPI,Cloudy,5,Excellent,Monday
+15-09-2025,19:55,Evening Snacks,41,Sandwich,3,45,45,135,UPI,Rainy,3.8,Good,Monday
+15-09-2025,13:58,Lunch,100,Chapati,1,40,40,40,UPI,Windy,3.3,Average,Monday
+15-09-2025,12:19,Lunch,66,Fried Rice,1,15,15,15,UPI,Sunny,4.6,Excellent,Monday
+16-09-2025,15:05,Evening Snacks,62,Bhel Puri,1,25,25,25,Card,Windy,3.7,Good,Tuesday
+16-09-2025,12:00,Lunch,77,Bisibele Bath,2,30,30,60,UPI,Cloudy,3.9,Good,Tuesday
+16-09-2025,18:39,Evening Snacks,98,Coffee,1,15,15,15,UPI,Rainy,3.6,Average,Tuesday
+16-09-2025,15:09,Evening Snacks,43,French Fries,3,25,25,75,UPI,Sunny,3.9,Good,Tuesday
+16-09-2025,08:08,Breakfast,83,Poori,2,80,80,160,UPI,Cloudy,3.7,Good,Tuesday
+16-09-2025,09:20,Breakfast,7,Dosa,1,25,25,25,UPI,Windy,4.3,Very Good,Tuesday
+16-09-2025,12:22,Lunch,75,Idly,1,25,25,25,UPI,Windy,4,Good,Tuesday
+16-09-2025,16:20,Evening Snacks,29,Tea,1,25,25,25,Cash,Rainy,3.7,Good,Tuesday
+16-09-2025,12:02,Lunch,37,Sandwich,2,90,90,180,UPI,Sunny,4.4,Very Good,Tuesday
+16-09-2025,13:31,Lunch,98,Bisibele Bath,2,40,40,80,UPI,Sunny,4.1,Good,Tuesday
+16-09-2025,19:32,Evening Snacks,12,Bisibele Bath,3,50,50,150,Card,Rainy,3.3,Average,Tuesday
+16-09-2025,19:40,Evening Snacks,21,Sandwich,1,40,40,40,UPI,Sunny,4.4,Very Good,Tuesday
+16-09-2025,19:34,Evening Snacks,3,Sandwich,1,45,45,45,UPI,Rainy,4.1,Good,Tuesday
+16-09-2025,19:52,Evening Snacks,26,Idly,1,25,25,25,UPI,Cloudy,4.6,Excellent,Tuesday
+16-09-2025,15:11,Evening Snacks,46,Tea,1,12,12,12,Cash,Sunny,4,Good,Tuesday
+16-09-2025,17:51,Evening Snacks,14,Juice,2,40,40,80,UPI,Sunny,3.7,Good,Tuesday
+16-09-2025,15:10,Evening Snacks,87,Bhel Puri,1,25,25,25,UPI,Sunny,3.9,Good,Tuesday
+16-09-2025,08:20,Breakfast,97,Idly,1,50,50,50,UPI,Cloudy,4.3,Very Good,Tuesday
+16-09-2025,13:05,Lunch,64,Veg Biryani,2,50,50,100,UPI,Cloudy,3.7,Good,Tuesday
+16-09-2025,15:44,Evening Snacks,58,Ice Cream,1,40,40,40,UPI,Sunny,3.8,Good,Tuesday
+16-09-2025,19:19,Evening Snacks,7,Bisibele Bath,3,50,50,150,Cash,Cloudy,3.9,Good,Tuesday
+16-09-2025,19:28,Evening Snacks,38,Idly,2,25,25,50,UPI,Sunny,3.5,Average,Tuesday
+16-09-2025,09:44,Breakfast,7,Idly,1,90,90,90,UPI,Sunny,3.7,Good,Tuesday
+16-09-2025,16:27,Evening Snacks,61,Pani Puri,2,50,50,100,UPI,Cloudy,4.1,Good,Tuesday
+16-09-2025,08:18,Breakfast,86,Coffee,2,45,45,90,UPI,Sunny,4.5,Excellent,Tuesday
+16-09-2025,12:23,Lunch,82,Idly,1,25,25,25,UPI,Sunny,4.1,Good,Tuesday
+16-09-2025,19:30,Evening Snacks,34,Dosa,1,40,40,40,UPI,Rainy,4,Good,Tuesday
+16-09-2025,18:47,Evening Snacks,95,Samosa,1,15,15,15,UPI,Rainy,3.7,Good,Tuesday
+16-09-2025,19:55,Evening Snacks,30,Upma,2,30,30,60,UPI,Sunny,4.4,Very Good,Tuesday
+16-09-2025,12:14,Lunch,88,North Indian Thali,3,35,35,105,UPI,Windy,4.2,Very Good,Tuesday
+16-09-2025,12:43,Lunch,95,Dosa,2,15,15,30,UPI,Sunny,3.7,Good,Tuesday
+16-09-2025,16:29,Evening Snacks,59,Bhel Puri,1,45,45,45,UPI,Cloudy,4.4,Very Good,Tuesday
+16-09-2025,18:43,Evening Snacks,67,Ice Cream,1,30,30,30,Card,Sunny,4.2,Very Good,Tuesday
+16-09-2025,17:03,Evening Snacks,70,Sandwich,2,45,45,90,UPI,Sunny,3.7,Good,Tuesday
+16-09-2025,09:47,Breakfast,42,Dosa,1,40,40,40,Cash,Rainy,4,Good,Tuesday
+16-09-2025,12:50,Lunch,2,Tea,1,30,30,30,Card,Cloudy,3.8,Good,Tuesday
+16-09-2025,12:57,Lunch,73,Tea,2,30,30,60,UPI,Sunny,5,Excellent,Tuesday
+16-09-2025,19:13,Evening Snacks,18,Idly,3,25,25,75,UPI,Rainy,4.2,Very Good,Tuesday
+16-09-2025,15:58,Evening Snacks,72,Pani Puri,1,15,15,15,UPI,Windy,4.1,Good,Tuesday
+16-09-2025,16:27,Evening Snacks,78,French Fries,3,30,30,90,UPI,Cloudy,4.2,Very Good,Tuesday
+16-09-2025,13:09,Lunch,17,Idly,1,25,25,25,UPI,Windy,4.6,Excellent,Tuesday
+16-09-2025,17:08,Evening Snacks,56,Pani Puri,3,25,25,75,Cash,Rainy,4,Good,Tuesday
+16-09-2025,16:28,Evening Snacks,83,Coffee,1,35,35,35,UPI,Cloudy,3.8,Good,Tuesday
+16-09-2025,13:17,Lunch,66,Sandwich,3,50,50,150,UPI,Sunny,4.3,Very Good,Tuesday
+16-09-2025,16:22,Evening Snacks,81,Bhel Puri,2,30,30,60,UPI,Rainy,3.9,Good,Tuesday
+16-09-2025,16:43,Evening Snacks,12,Sandwich,2,30,30,60,UPI,Rainy,3.6,Average,Tuesday
+16-09-2025,18:00,Evening Snacks,26,South Indian Thali,2,90,90,180,UPI,Cloudy,3.5,Average,Tuesday
+16-09-2025,19:48,Evening Snacks,58,Idly,3,25,25,75,UPI,Rainy,4.6,Excellent,Tuesday
+16-09-2025,12:09,Lunch,64,Idly,2,25,25,50,UPI,Sunny,4.1,Good,Tuesday
+16-09-2025,15:49,Evening Snacks,74,Juice,3,40,40,120,UPI,Sunny,3.8,Good,Tuesday
+16-09-2025,16:31,Evening Snacks,41,Bhel Puri,1,50,50,50,UPI,Rainy,3.9,Good,Tuesday
+16-09-2025,16:03,Evening Snacks,41,Pani Puri,3,50,50,150,Cash,Rainy,4.3,Very Good,Tuesday
+16-09-2025,15:51,Evening Snacks,48,Bhel Puri,1,40,40,40,UPI,Cloudy,3.9,Good,Tuesday
+16-09-2025,17:07,Evening Snacks,49,Sandwich,2,45,45,90,Cash,Sunny,3.4,Average,Tuesday
+16-09-2025,16:27,Evening Snacks,87,Juice,3,15,15,45,UPI,Sunny,4.1,Good,Tuesday
+16-09-2025,13:55,Lunch,48,Juice,3,40,40,120,UPI,Sunny,4.5,Excellent,Tuesday
+16-09-2025,13:59,Lunch,51,Juice,2,45,45,90,UPI,Sunny,4.5,Excellent,Tuesday
+16-09-2025,13:45,Lunch,82,North Indian Thali,1,15,15,15,UPI,Windy,3.8,Good,Tuesday
+16-09-2025,15:17,Evening Snacks,35,Sandwich,3,80,80,240,UPI,Cloudy,4.5,Excellent,Tuesday
+16-09-2025,17:56,Evening Snacks,14,Fried Rice,3,70,70,210,UPI,Rainy,4.1,Good,Tuesday
+16-09-2025,12:33,Lunch,24,North Indian Thali,1,30,30,30,UPI,Sunny,4.5,Excellent,Tuesday
+16-09-2025,19:03,Evening Snacks,50,Sandwich,1,40,40,40,UPI,Rainy,4.2,Very Good,Tuesday
+16-09-2025,17:43,Evening Snacks,89,Tea,1,12,12,12,UPI,Cloudy,3.4,Average,Tuesday
+16-09-2025,13:17,Lunch,29,South Indian Thali,1,30,30,30,UPI,Windy,4.7,Excellent,Tuesday
+16-09-2025,09:30,Breakfast,83,Dosa,1,50,50,50,UPI,Cloudy,4,Good,Tuesday
+16-09-2025,15:49,Evening Snacks,79,French Fries,1,15,15,15,UPI,Windy,4.2,Very Good,Tuesday
+16-09-2025,19:54,Evening Snacks,1,French Fries,1,50,50,50,UPI,Cloudy,3.5,Average,Tuesday
+16-09-2025,13:19,Lunch,74,North Indian Thali,3,30,30,90,UPI,Sunny,4.2,Very Good,Tuesday
+16-09-2025,17:28,Evening Snacks,7,Samosa,1,15,15,15,UPI,Sunny,4.4,Very Good,Tuesday
+16-09-2025,16:30,Evening Snacks,5,Pani Puri,1,15,15,15,UPI,Sunny,4.8,Excellent,Tuesday
+16-09-2025,17:53,Evening Snacks,38,Bisibele Bath,1,50,50,50,UPI,Cloudy,4.6,Excellent,Tuesday
+16-09-2025,09:45,Breakfast,94,Tea,1,30,30,30,UPI,Rainy,4.2,Very Good,Tuesday
+16-09-2025,13:53,Lunch,94,Bisibele Bath,2,50,50,100,UPI,Sunny,3.4,Average,Tuesday
+16-09-2025,09:42,Breakfast,6,Idly,1,90,90,90,UPI,Cloudy,4.1,Good,Tuesday
+16-09-2025,18:08,Evening Snacks,37,Bhel Puri,1,30,30,30,Card,Rainy,3.8,Good,Tuesday
+16-09-2025,17:09,Evening Snacks,79,Sandwich,1,40,40,40,UPI,Sunny,4.1,Good,Tuesday
+16-09-2025,17:31,Evening Snacks,94,Ice Cream,1,15,15,15,UPI,Sunny,3.5,Average,Tuesday
+16-09-2025,17:01,Evening Snacks,66,Bisibele Bath,1,50,50,50,UPI,Cloudy,3.9,Good,Tuesday
+16-09-2025,16:38,Evening Snacks,43,Juice,1,45,45,45,UPI,Sunny,3.8,Good,Tuesday
+16-09-2025,18:49,Evening Snacks,99,Idly,1,25,25,25,UPI,Cloudy,3.8,Good,Tuesday
+17-09-2025,16:41,Evening Snacks,39,Sandwich,1,70,70,70,UPI,Sunny,3.8,Good,Wednesday
+17-09-2025,13:30,Lunch,70,Sandwich,3,35,35,105,Cash,Sunny,3.9,Good,Wednesday
+17-09-2025,13:15,Lunch,92,South Indian Thali,1,15,15,15,UPI,Sunny,4.1,Good,Wednesday
+17-09-2025,13:04,Lunch,16,Tea,2,50,50,100,UPI,Sunny,3,Average,Wednesday
+17-09-2025,18:49,Evening Snacks,6,Ice Cream,3,25,25,75,UPI,Sunny,3,Average,Wednesday
+17-09-2025,12:39,Lunch,83,Fried Rice,3,25,25,75,UPI,Sunny,3.9,Good,Wednesday
+17-09-2025,08:30,Breakfast,42,Coffee,1,25,25,25,UPI,Rainy,3.9,Good,Wednesday
+17-09-2025,08:00,Breakfast,67,Chapati,1,50,50,50,UPI,Rainy,4.1,Good,Wednesday
+17-09-2025,15:54,Evening Snacks,37,Juice,1,45,45,45,UPI,Sunny,3.7,Good,Wednesday
+17-09-2025,13:06,Lunch,76,Coffee,2,25,25,50,UPI,Sunny,4,Good,Wednesday
+17-09-2025,19:05,Evening Snacks,55,South Indian Thali,1,90,90,90,UPI,Rainy,4.1,Good,Wednesday
+17-09-2025,18:52,Evening Snacks,96,Pani Puri,1,25,25,25,UPI,Cloudy,3.7,Good,Wednesday
+17-09-2025,13:48,Lunch,48,Ice Cream,1,15,15,15,UPI,Sunny,4.4,Very Good,Wednesday
+17-09-2025,12:08,Lunch,91,Idly,1,30,30,30,UPI,Sunny,4.1,Good,Wednesday
+17-09-2025,17:27,Evening Snacks,17,Dosa,1,40,40,40,UPI,Rainy,4.2,Very Good,Wednesday
+17-09-2025,16:52,Evening Snacks,12,Pani Puri,3,25,25,75,UPI,Rainy,4,Good,Wednesday
+17-09-2025,12:01,Lunch,34,Sandwich,2,80,80,160,UPI,Sunny,4.8,Excellent,Wednesday
+17-09-2025,13:31,Lunch,69,North Indian Thali,1,90,90,90,UPI,Sunny,4.2,Very Good,Wednesday
+17-09-2025,18:43,Evening Snacks,24,Pani Puri,1,25,25,25,UPI,Rainy,3.8,Good,Wednesday
+17-09-2025,15:41,Evening Snacks,72,Sandwich,1,45,45,45,Cash,Sunny,4.3,Very Good,Wednesday
+17-09-2025,12:17,Lunch,5,Chapati,3,40,40,120,UPI,Sunny,3.3,Average,Wednesday
+17-09-2025,12:11,Lunch,49,Bisibele Bath,2,50,50,100,Cash,Sunny,4,Good,Wednesday
+17-09-2025,16:33,Evening Snacks,24,Bhel Puri,3,45,45,135,Cash,Rainy,4.1,Good,Wednesday
+17-09-2025,12:15,Lunch,59,North Indian Thali,1,90,90,90,Cash,Cloudy,4.1,Good,Wednesday
+17-09-2025,12:56,Lunch,73,Coffee,1,30,30,30,Cash,Windy,3.9,Good,Wednesday
+17-09-2025,15:23,Evening Snacks,24,Juice,1,12,12,12,UPI,Windy,3.6,Average,Wednesday
+17-09-2025,13:12,Lunch,22,Tea,2,30,30,60,UPI,Sunny,3.7,Good,Wednesday
+17-09-2025,18:23,Evening Snacks,71,Pani Puri,1,25,25,25,UPI,Rainy,4,Good,Wednesday
+17-09-2025,13:54,Lunch,90,Sandwich,3,50,50,150,UPI,Sunny,3.6,Average,Wednesday
+17-09-2025,19:18,Evening Snacks,35,Bisibele Bath,1,50,50,50,UPI,Rainy,4.7,Excellent,Wednesday
+17-09-2025,13:32,Lunch,29,Coffee,2,90,90,180,UPI,Cloudy,2.9,Average,Wednesday
+17-09-2025,18:14,Evening Snacks,43,Tea,3,12,12,36,UPI,Rainy,3.9,Good,Wednesday
+17-09-2025,19:27,Evening Snacks,24,Samosa,1,15,15,15,UPI,Sunny,4,Good,Wednesday
+17-09-2025,16:48,Evening Snacks,23,Sandwich,3,25,25,75,UPI,Sunny,4.2,Very Good,Wednesday
+17-09-2025,08:07,Breakfast,60,Idly,2,30,30,60,Card,Rainy,3.6,Average,Wednesday
+17-09-2025,16:03,Evening Snacks,18,Tea,1,30,30,30,UPI,Rainy,4.5,Excellent,Wednesday
+17-09-2025,19:12,Evening Snacks,87,Dosa,1,40,40,40,Card,Rainy,3.4,Average,Wednesday
+17-09-2025,17:34,Evening Snacks,71,Juice,2,45,45,90,UPI,Sunny,3.8,Good,Wednesday
+17-09-2025,13:53,Lunch,63,Veg Biryani,3,30,30,90,UPI,Sunny,4.2,Very Good,Wednesday
+17-09-2025,19:55,Evening Snacks,73,Juice,1,35,35,35,UPI,Sunny,4.4,Very Good,Wednesday
+17-09-2025,12:26,Lunch,86,Chapati,1,45,45,45,UPI,Cloudy,3.4,Average,Wednesday
+17-09-2025,12:30,Lunch,97,Tea,1,80,80,80,Card,Cloudy,5,Excellent,Wednesday
+17-09-2025,08:02,Breakfast,50,Coffee,1,15,15,15,Cash,Sunny,3.6,Average,Wednesday
+17-09-2025,09:13,Breakfast,9,Tea,2,50,50,100,UPI,Windy,3.5,Average,Wednesday
+17-09-2025,17:41,Evening Snacks,12,Juice,3,30,30,90,UPI,Rainy,4.2,Very Good,Wednesday
+17-09-2025,19:44,Evening Snacks,96,Sandwich,3,45,45,135,UPI,Rainy,3.9,Good,Wednesday
+17-09-2025,15:11,Evening Snacks,84,Juice,1,30,30,30,Cash,Sunny,3.8,Good,Wednesday
+17-09-2025,15:07,Evening Snacks,74,Ice Cream,3,50,50,150,UPI,Sunny,4.2,Very Good,Wednesday
+17-09-2025,17:21,Evening Snacks,12,Bhel Puri,2,30,30,60,UPI,Rainy,3.4,Average,Wednesday
+17-09-2025,17:37,Evening Snacks,94,Idly,1,25,25,25,UPI,Cloudy,3.3,Average,Wednesday
+17-09-2025,12:20,Lunch,53,Ice Cream,2,30,30,60,UPI,Sunny,3.8,Good,Wednesday
+17-09-2025,17:35,Evening Snacks,15,Dosa,1,40,40,40,UPI,Rainy,4.4,Very Good,Wednesday
+17-09-2025,12:13,Lunch,16,Juice,1,40,40,40,UPI,Sunny,3.8,Good,Wednesday
+17-09-2025,18:54,Evening Snacks,98,Bhel Puri,3,30,30,90,UPI,Rainy,4.6,Excellent,Wednesday
+17-09-2025,17:50,Evening Snacks,25,Idly,3,25,25,75,UPI,Rainy,4.5,Excellent,Wednesday
+17-09-2025,12:26,Lunch,59,Bisibele Bath,1,25,25,25,Cash,Sunny,4.1,Good,Wednesday
+17-09-2025,18:17,Evening Snacks,23,Dosa,1,40,40,40,UPI,Rainy,4.1,Good,Wednesday
+17-09-2025,08:02,Breakfast,18,Dosa,2,30,30,60,UPI,Rainy,4.1,Good,Wednesday
+17-09-2025,19:27,Evening Snacks,77,Coffee,1,15,15,15,UPI,Sunny,4.1,Good,Wednesday
+17-09-2025,12:02,Lunch,90,Veg Biryani,1,50,50,50,UPI,Windy,3.9,Good,Wednesday
+17-09-2025,18:29,Evening Snacks,95,French Fries,1,50,50,50,Cash,Cloudy,3.9,Good,Wednesday
+17-09-2025,16:43,Evening Snacks,77,Coffee,3,30,30,90,UPI,Rainy,3.6,Average,Wednesday
+17-09-2025,13:28,Lunch,100,Ice Cream,2,90,90,180,UPI,Sunny,3.1,Average,Wednesday
+17-09-2025,12:58,Lunch,55,Tea,1,40,40,40,UPI,Sunny,4.4,Very Good,Wednesday
+17-09-2025,16:09,Evening Snacks,28,Sandwich,1,45,45,45,UPI,Sunny,4.1,Good,Wednesday
+17-09-2025,12:09,Lunch,19,Tea,1,45,45,45,UPI,Cloudy,4,Good,Wednesday
+17-09-2025,18:48,Evening Snacks,62,Bisibele Bath,1,50,50,50,UPI,Rainy,4.2,Very Good,Wednesday
+17-09-2025,15:35,Evening Snacks,8,Tea,3,40,40,120,UPI,Sunny,3.7,Good,Wednesday
+17-09-2025,17:21,Evening Snacks,3,South Indian Thali,3,90,90,270,UPI,Cloudy,3.6,Average,Wednesday
+17-09-2025,12:16,Lunch,44,Veg Biryani,1,30,30,30,UPI,Windy,3.9,Good,Wednesday
+17-09-2025,13:50,Lunch,29,Tea,1,50,50,50,Cash,Sunny,4.5,Excellent,Wednesday
+17-09-2025,18:13,Evening Snacks,3,Upma,1,30,30,30,UPI,Rainy,3.5,Average,Wednesday
+17-09-2025,13:55,Lunch,99,South Indian Thali,3,12,12,36,Cash,Sunny,2.9,Average,Wednesday
+17-09-2025,15:54,Evening Snacks,48,Pani Puri,1,50,50,50,UPI,Windy,3.8,Good,Wednesday
+17-09-2025,16:39,Evening Snacks,23,Ice Cream,1,50,50,50,UPI,Sunny,4.5,Excellent,Wednesday
+17-09-2025,13:47,Lunch,60,Juice,3,40,40,120,UPI,Sunny,3.3,Average,Wednesday
+17-09-2025,08:05,Breakfast,66,Tea,1,25,25,25,UPI,Rainy,3.5,Average,Wednesday
+17-09-2025,08:03,Breakfast,58,Chapati,1,70,70,70,UPI,Cloudy,4.1,Good,Wednesday
+17-09-2025,14:00,Lunch,67,Tea,2,90,90,180,UPI,Sunny,5,Excellent,Wednesday
+17-09-2025,16:06,Evening Snacks,58,French Fries,1,50,50,50,UPI,Rainy,3.5,Average,Wednesday
+18-09-2025,12:03,Lunch,91,Fried Rice,1,30,30,30,UPI,Windy,3.4,Average,Thursday
+18-09-2025,15:25,Evening Snacks,14,Juice,2,25,25,50,UPI,Sunny,4.1,Good,Thursday
+18-09-2025,09:31,Breakfast,37,Bisibele Bath,1,50,50,50,UPI,Cloudy,4.5,Excellent,Thursday
+18-09-2025,18:10,Evening Snacks,23,Ice Cream,3,50,50,150,UPI,Sunny,3.8,Good,Thursday
+18-09-2025,17:06,Evening Snacks,45,Samosa,1,15,15,15,UPI,Rainy,3.4,Average,Thursday
+18-09-2025,19:53,Evening Snacks,77,South Indian Thali,2,90,90,180,UPI,Sunny,4.2,Very Good,Thursday
+18-09-2025,15:26,Evening Snacks,26,Juice,1,15,15,15,Cash,Sunny,4.2,Very Good,Thursday
+18-09-2025,17:51,Evening Snacks,33,Dosa,2,40,40,80,UPI,Cloudy,4.7,Excellent,Thursday
+18-09-2025,18:51,Evening Snacks,9,Idly,3,25,25,75,UPI,Rainy,4.3,Very Good,Thursday
+18-09-2025,12:17,Lunch,5,Coffee,1,30,30,30,UPI,Cloudy,4.3,Very Good,Thursday
+18-09-2025,18:43,Evening Snacks,43,South Indian Thali,1,90,90,90,Cash,Cloudy,3.9,Good,Thursday
+18-09-2025,16:36,Evening Snacks,58,Bhel Puri,1,50,50,50,UPI,Rainy,5,Excellent,Thursday
+18-09-2025,15:59,Evening Snacks,3,Bhel Puri,1,40,40,40,Card,Sunny,3.8,Good,Thursday
+18-09-2025,16:14,Evening Snacks,9,Juice,3,70,70,210,Cash,Rainy,3.8,Good,Thursday
+18-09-2025,16:29,Evening Snacks,32,Sandwich,1,15,15,15,Cash,Cloudy,4.7,Excellent,Thursday
+18-09-2025,17:16,Evening Snacks,33,Sandwich,1,45,45,45,UPI,Sunny,3.4,Average,Thursday
+18-09-2025,15:04,Evening Snacks,64,Pani Puri,3,15,15,45,UPI,Windy,3.3,Average,Thursday
+18-09-2025,19:15,Evening Snacks,26,Pani Puri,1,25,25,25,UPI,Sunny,4,Good,Thursday
+18-09-2025,16:27,Evening Snacks,78,Bhel Puri,2,50,50,100,UPI,Rainy,4,Good,Thursday
+18-09-2025,17:26,Evening Snacks,20,Bhel Puri,1,40,40,40,UPI,Cloudy,3.9,Good,Thursday
+18-09-2025,15:06,Evening Snacks,32,Bhel Puri,1,90,90,90,UPI,Sunny,4.4,Very Good,Thursday
+18-09-2025,18:22,Evening Snacks,86,Dosa,3,40,40,120,UPI,Cloudy,3.6,Average,Thursday
+18-09-2025,16:14,Evening Snacks,2,Pani Puri,2,15,15,30,UPI,Rainy,4,Good,Thursday
+18-09-2025,18:07,Evening Snacks,4,Juice,1,30,30,30,UPI,Rainy,3.9,Good,Thursday
+18-09-2025,16:05,Evening Snacks,22,Juice,1,50,50,50,UPI,Sunny,3.6,Average,Thursday
+18-09-2025,08:07,Breakfast,81,Chapati,1,25,25,25,Cash,Rainy,4,Good,Thursday
+18-09-2025,15:12,Evening Snacks,11,Sandwich,3,12,12,36,UPI,Windy,4.3,Very Good,Thursday
+18-09-2025,13:29,Lunch,77,Coffee,3,15,15,45,UPI,Windy,4.8,Excellent,Thursday
+18-09-2025,19:29,Evening Snacks,11,Ice Cream,1,40,40,40,UPI,Sunny,4.2,Very Good,Thursday
+18-09-2025,19:17,Evening Snacks,4,Tea,3,12,12,36,UPI,Cloudy,3,Average,Thursday
+18-09-2025,18:42,Evening Snacks,21,Bisibele Bath,1,50,50,50,Card,Cloudy,4,Good,Thursday
+18-09-2025,13:52,Lunch,74,Coffee,1,80,80,80,UPI,Sunny,4,Good,Thursday
+18-09-2025,18:35,Evening Snacks,23,Tea,3,12,12,36,UPI,Sunny,4.4,Very Good,Thursday
+18-09-2025,18:06,Evening Snacks,61,South Indian Thali,1,90,90,90,Cash,Rainy,4.1,Good,Thursday
+18-09-2025,09:47,Breakfast,73,Poori,2,50,50,100,UPI,Rainy,4.5,Excellent,Thursday
+18-09-2025,12:51,Lunch,21,Veg Biryani,1,45,45,45,UPI,Sunny,4.2,Very Good,Thursday
+18-09-2025,19:52,Evening Snacks,86,French Fries,3,50,50,150,UPI,Cloudy,4.6,Excellent,Thursday
+18-09-2025,16:04,Evening Snacks,75,Sandwich,2,90,90,180,Cash,Rainy,3.8,Good,Thursday
+18-09-2025,19:02,Evening Snacks,46,Upma,3,30,30,90,UPI,Rainy,4.1,Good,Thursday
+18-09-2025,18:06,Evening Snacks,15,French Fries,2,50,50,100,UPI,Rainy,4.3,Very Good,Thursday
+18-09-2025,13:03,Lunch,63,Ice Cream,1,25,25,25,UPI,Sunny,3.8,Good,Thursday
+18-09-2025,19:56,Evening Snacks,46,Bisibele Bath,2,50,50,100,UPI,Rainy,3.7,Good,Thursday
+18-09-2025,18:57,Evening Snacks,78,Dosa,1,40,40,40,UPI,Cloudy,3.7,Good,Thursday
+18-09-2025,18:12,Evening Snacks,93,Bisibele Bath,1,50,50,50,UPI,Cloudy,3.7,Good,Thursday
+18-09-2025,18:49,Evening Snacks,40,Upma,3,30,30,90,UPI,Rainy,4.2,Very Good,Thursday
+18-09-2025,08:01,Breakfast,50,Idly,1,15,15,15,UPI,Rainy,3.3,Average,Thursday
+18-09-2025,13:59,Lunch,81,Idly,1,15,15,15,UPI,Sunny,3.4,Average,Thursday
+18-09-2025,13:09,Lunch,100,Ice Cream,1,25,25,25,UPI,Sunny,4.7,Excellent,Thursday
+18-09-2025,12:51,Lunch,79,South Indian Thali,1,30,30,30,UPI,Sunny,3.7,Good,Thursday
+18-09-2025,17:35,Evening Snacks,97,Poori,1,45,45,45,UPI,Cloudy,4.1,Good,Thursday
+18-09-2025,16:13,Evening Snacks,9,Tea,3,90,90,270,UPI,Rainy,3.4,Average,Thursday
+18-09-2025,12:27,Lunch,46,Coffee,1,40,40,40,Cash,Windy,4,Good,Thursday
+18-09-2025,19:33,Evening Snacks,92,Coffee,1,15,15,15,UPI,Rainy,3.7,Good,Thursday
+18-09-2025,08:27,Breakfast,44,Dosa,1,30,30,30,UPI,Sunny,3.4,Average,Thursday
+18-09-2025,17:11,Evening Snacks,13,Bisibele Bath,3,50,50,150,UPI,Cloudy,4.5,Excellent,Thursday
+18-09-2025,13:46,Lunch,47,Tea,1,25,25,25,UPI,Cloudy,4.5,Excellent,Thursday
+18-09-2025,19:06,Evening Snacks,13,Upma,3,30,30,90,UPI,Rainy,4,Good,Thursday
+18-09-2025,12:04,Lunch,36,Tea,1,30,30,30,UPI,Windy,4.4,Very Good,Thursday
+18-09-2025,18:46,Evening Snacks,97,French Fries,2,50,50,100,Cash,Cloudy,4.8,Excellent,Thursday
+18-09-2025,16:56,Evening Snacks,90,Tea,1,45,45,45,UPI,Rainy,4.3,Very Good,Thursday
+18-09-2025,16:13,Evening Snacks,52,Juice,1,70,70,70,UPI,Rainy,4.2,Very Good,Thursday
+18-09-2025,17:37,Evening Snacks,35,Upma,2,30,30,60,UPI,Rainy,4.1,Good,Thursday
+18-09-2025,15:13,Evening Snacks,80,Juice,1,30,30,30,UPI,Windy,4.3,Very Good,Thursday
+18-09-2025,19:40,Evening Snacks,55,Tea,3,12,12,36,UPI,Cloudy,3.9,Good,Thursday
+18-09-2025,16:19,Evening Snacks,51,Tea,3,30,30,90,Cash,Rainy,3.9,Good,Thursday
+18-09-2025,15:56,Evening Snacks,73,Juice,1,12,12,12,UPI,Sunny,4.2,Very Good,Thursday
+18-09-2025,17:23,Evening Snacks,41,Bisibele Bath,1,50,50,50,Cash,Sunny,3.8,Good,Thursday
+18-09-2025,08:15,Breakfast,87,Chapati,2,40,40,80,UPI,Windy,3.9,Good,Thursday
+18-09-2025,09:27,Breakfast,90,Poori,1,15,15,15,UPI,Sunny,4,Good,Thursday
+18-09-2025,17:11,Evening Snacks,11,Dosa,2,40,40,80,UPI,Sunny,4.5,Excellent,Thursday
+18-09-2025,17:15,Evening Snacks,97,French Fries,3,50,50,150,Card,Rainy,3.5,Average,Thursday
+18-09-2025,15:50,Evening Snacks,53,Tea,1,90,90,90,Cash,Sunny,4.3,Very Good,Thursday
+18-09-2025,15:12,Evening Snacks,48,Sandwich,1,15,15,15,UPI,Sunny,4.3,Very Good,Thursday
+18-09-2025,09:02,Breakfast,84,Dosa,2,25,25,50,Cash,Cloudy,4.3,Very Good,Thursday
+18-09-2025,16:43,Evening Snacks,33,Coffee,3,50,50,150,UPI,Rainy,3.7,Good,Thursday
+18-09-2025,09:57,Breakfast,95,Poori,1,15,15,15,UPI,Cloudy,3.3,Average,Thursday
+18-09-2025,15:55,Evening Snacks,56,Juice,1,90,90,90,UPI,Sunny,4.2,Very Good,Thursday
+18-09-2025,13:44,Lunch,55,South Indian Thali,1,12,12,12,UPI,Windy,4.1,Good,Thursday
+18-09-2025,15:56,Evening Snacks,74,Pani Puri,1,80,80,80,UPI,Sunny,4.4,Very Good,Thursday
+18-09-2025,18:18,Evening Snacks,65,Coffee,1,15,15,15,UPI,Sunny,3.7,Good,Thursday
+19-09-2025,08:16,Breakfast,34,Chapati,1,30,30,30,UPI,Cloudy,4.3,Very Good,Friday
+19-09-2025,17:33,Evening Snacks,90,Sandwich,1,45,45,45,UPI,Rainy,4.4,Very Good,Friday
+19-09-2025,08:50,Breakfast,30,Poori,1,15,15,15,UPI,Rainy,4,Good,Friday
+19-09-2025,09:59,Breakfast,16,Chapati,1,40,40,40,UPI,Cloudy,4.2,Very Good,Friday
+19-09-2025,12:23,Lunch,62,Tea,2,50,50,100,Cash,Windy,4.2,Very Good,Friday
+19-09-2025,15:39,Evening Snacks,79,Juice,2,40,40,80,UPI,Sunny,3.7,Good,Friday
+19-09-2025,12:13,Lunch,12,Ice Cream,3,40,40,120,UPI,Sunny,4.2,Very Good,Friday
+19-09-2025,19:08,Evening Snacks,82,Veg Biryani,3,80,80,240,UPI,Cloudy,4.6,Excellent,Friday
+19-09-2025,17:01,Evening Snacks,67,Dosa,3,40,40,120,UPI,Rainy,4,Good,Friday
+19-09-2025,16:03,Evening Snacks,23,Bhel Puri,1,30,30,30,UPI,Rainy,3.4,Average,Friday
+19-09-2025,17:00,Evening Snacks,35,Sandwich,1,90,90,90,UPI,Sunny,3.7,Good,Friday
+19-09-2025,13:31,Lunch,82,Sandwich,2,50,50,100,UPI,Sunny,3.3,Average,Friday
+19-09-2025,09:33,Breakfast,27,Dosa,1,40,40,40,UPI,Sunny,4.5,Excellent,Friday
+19-09-2025,13:34,Lunch,30,Dosa,1,30,30,30,UPI,Windy,4.3,Very Good,Friday
+19-09-2025,13:15,Lunch,7,Veg Biryani,3,45,45,135,UPI,Cloudy,3.8,Good,Friday
+19-09-2025,16:44,Evening Snacks,66,Coffee,1,50,50,50,UPI,Rainy,3.4,Average,Friday
+19-09-2025,12:15,Lunch,65,Chapati,1,70,70,70,UPI,Cloudy,3.7,Good,Friday
+19-09-2025,18:32,Evening Snacks,33,Idly,2,25,25,50,UPI,Cloudy,3.7,Good,Friday
+19-09-2025,15:36,Evening Snacks,26,Sandwich,1,90,90,90,UPI,Cloudy,4,Good,Friday
+19-09-2025,14:00,Lunch,37,Coffee,2,40,40,80,Card,Sunny,4,Good,Friday
+19-09-2025,16:37,Evening Snacks,94,Juice,1,30,30,30,UPI,Sunny,4.5,Excellent,Friday
+19-09-2025,16:55,Evening Snacks,86,Tea,1,45,45,45,UPI,Cloudy,3.7,Good,Friday
+19-09-2025,16:26,Evening Snacks,25,Sandwich,1,90,90,90,UPI,Rainy,3.4,Average,Friday
+19-09-2025,16:27,Evening Snacks,46,Sandwich,2,50,50,100,Cash,Rainy,3.5,Average,Friday
+19-09-2025,09:09,Breakfast,78,Tea,1,50,50,50,UPI,Cloudy,4,Good,Friday
+19-09-2025,17:10,Evening Snacks,5,Bisibele Bath,1,50,50,50,UPI,Cloudy,3.7,Good,Friday
+19-09-2025,16:41,Evening Snacks,65,Bhel Puri,3,50,50,150,UPI,Rainy,3.9,Good,Friday
+19-09-2025,13:54,Lunch,40,Chapati,1,50,50,50,UPI,Sunny,3.8,Good,Friday
+19-09-2025,09:57,Breakfast,57,Poori,2,35,35,70,UPI,Sunny,4.4,Very Good,Friday
+19-09-2025,16:05,Evening Snacks,23,Tea,1,50,50,50,UPI,Rainy,3.8,Good,Friday
+19-09-2025,13:57,Lunch,34,North Indian Thali,1,12,12,12,UPI,Cloudy,3.8,Good,Friday
+19-09-2025,09:08,Breakfast,89,Chapati,1,50,50,50,UPI,Cloudy,4.3,Very Good,Friday
+19-09-2025,16:19,Evening Snacks,14,French Fries,3,90,90,270,UPI,Rainy,3.8,Good,Friday
+19-09-2025,16:23,Evening Snacks,16,Juice,3,30,30,90,UPI,Sunny,4.2,Very Good,Friday
+19-09-2025,16:04,Evening Snacks,80,Tea,2,30,30,60,UPI,Cloudy,4.1,Good,Friday
+19-09-2025,16:15,Evening Snacks,8,Bhel Puri,3,40,40,120,UPI,Rainy,4.1,Good,Friday
+19-09-2025,18:20,Evening Snacks,62,Sandwich,1,15,15,15,UPI,Sunny,3.5,Average,Friday
+19-09-2025,12:57,Lunch,30,Coffee,2,40,40,80,UPI,Cloudy,4.5,Excellent,Friday
+19-09-2025,19:33,Evening Snacks,35,Bhel Puri,1,30,30,30,UPI,Cloudy,4.9,Excellent,Friday
+19-09-2025,19:22,Evening Snacks,67,Samosa,1,15,15,15,UPI,Rainy,4,Good,Friday
+19-09-2025,13:41,Lunch,83,Chapati,1,40,40,40,Cash,Sunny,3.6,Average,Friday
+19-09-2025,15:03,Evening Snacks,73,Ice Cream,1,40,40,40,UPI,Sunny,4,Good,Friday
+19-09-2025,19:12,Evening Snacks,28,Bhel Puri,3,30,30,90,UPI,Rainy,4.4,Very Good,Friday
+19-09-2025,12:05,Lunch,30,Bisibele Bath,1,40,40,40,UPI,Windy,3.8,Good,Friday
+19-09-2025,17:04,Evening Snacks,60,Bhel Puri,2,30,30,60,UPI,Rainy,3.9,Good,Friday
+19-09-2025,12:05,Lunch,86,Dosa,3,35,35,105,UPI,Sunny,4.1,Good,Friday
+19-09-2025,19:53,Evening Snacks,2,Ice Cream,2,30,30,60,UPI,Sunny,4.5,Excellent,Friday
+19-09-2025,08:37,Breakfast,37,Chapati,1,50,50,50,UPI,Cloudy,4.3,Very Good,Friday
+19-09-2025,18:00,Evening Snacks,83,Tea,1,12,12,12,UPI,Cloudy,4.3,Very Good,Friday
+19-09-2025,16:36,Evening Snacks,54,Bhel Puri,1,45,45,45,Card,Rainy,3.8,Good,Friday
+19-09-2025,19:20,Evening Snacks,53,Upma,1,30,30,30,UPI,Rainy,4.2,Very Good,Friday
+19-09-2025,13:26,Lunch,26,Coffee,1,40,40,40,Cash,Windy,3.7,Good,Friday
+19-09-2025,17:04,Evening Snacks,24,French Fries,2,50,50,100,UPI,Sunny,4.3,Very Good,Friday
+19-09-2025,13:44,Lunch,49,Veg Biryani,3,12,12,36,UPI,Sunny,4.5,Excellent,Friday
+19-09-2025,18:24,Evening Snacks,56,Bhel Puri,1,40,40,40,UPI,Rainy,4.2,Very Good,Friday
+19-09-2025,19:51,Evening Snacks,10,South Indian Thali,1,90,90,90,UPI,Cloudy,3.9,Good,Friday
+19-09-2025,18:40,Evening Snacks,91,Bisibele Bath,1,50,50,50,UPI,Sunny,3.9,Good,Friday
+19-09-2025,17:57,Evening Snacks,70,Idly,2,25,25,50,UPI,Cloudy,4.7,Excellent,Friday
+19-09-2025,09:18,Breakfast,61,Idly,2,30,30,60,UPI,Windy,3.9,Good,Friday
+19-09-2025,15:01,Evening Snacks,56,Juice,1,45,45,45,UPI,Sunny,4.4,Very Good,Friday
+20-09-2025,15:37,Evening Snacks,93,French Fries,3,40,40,120,UPI,Sunny,4.1,Good,Saturday
+20-09-2025,15:51,Evening Snacks,2,Coffee,2,45,45,90,UPI,Sunny,3.9,Good,Saturday
+20-09-2025,12:55,Lunch,16,Juice,3,70,70,210,UPI,Sunny,3.5,Average,Saturday
+20-09-2025,16:27,Evening Snacks,47,Tea,1,45,45,45,UPI,Sunny,4.1,Good,Saturday
+20-09-2025,13:15,Lunch,10,Bisibele Bath,2,40,40,80,UPI,Sunny,4,Good,Saturday
+20-09-2025,15:48,Evening Snacks,17,Juice,3,30,30,90,UPI,Sunny,4.7,Excellent,Saturday
+20-09-2025,17:33,Evening Snacks,59,Juice,1,30,30,30,Cash,Cloudy,3.7,Good,Saturday
+20-09-2025,16:11,Evening Snacks,11,Coffee,1,50,50,50,UPI,Rainy,4.9,Excellent,Saturday
+20-09-2025,19:26,Evening Snacks,60,Tea,1,12,12,12,UPI,Sunny,4.2,Very Good,Saturday
+20-09-2025,12:40,Lunch,38,Fried Rice,2,90,90,180,Cash,Sunny,4.2,Very Good,Saturday
+20-09-2025,09:35,Breakfast,78,Bisibele Bath,2,90,90,180,UPI,Rainy,3.8,Good,Saturday
+20-09-2025,17:24,Evening Snacks,92,Upma,3,30,30,90,UPI,Rainy,4.1,Good,Saturday
+20-09-2025,12:17,Lunch,19,Coffee,1,30,30,30,UPI,Sunny,4.2,Very Good,Saturday
+20-09-2025,18:25,Evening Snacks,93,South Indian Thali,1,90,90,90,Cash,Rainy,4.4,Very Good,Saturday
+20-09-2025,13:57,Lunch,45,Juice,3,40,40,120,Cash,Sunny,3.6,Average,Saturday
+20-09-2025,13:02,Lunch,56,Tea,1,50,50,50,Card,Windy,4.6,Excellent,Saturday
+20-09-2025,15:00,Evening Snacks,47,Sandwich,1,15,15,15,UPI,Windy,4.1,Good,Saturday
+20-09-2025,19:27,Evening Snacks,9,Tea,1,12,12,12,Cash,Rainy,4.2,Very Good,Saturday
+20-09-2025,13:58,Lunch,36,Chapati,2,40,40,80,UPI,Cloudy,3.9,Good,Saturday
+20-09-2025,15:27,Evening Snacks,23,Coffee,2,40,40,80,UPI,Windy,3.6,Average,Saturday
+20-09-2025,13:11,Lunch,1,Veg Biryani,1,50,50,50,UPI,Sunny,4,Good,Saturday
+20-09-2025,09:06,Breakfast,92,Upma,1,40,40,40,UPI,Rainy,4.1,Good,Saturday
+20-09-2025,12:17,Lunch,99,Veg Biryani,3,25,25,75,UPI,Sunny,3.4,Average,Saturday
+20-09-2025,08:08,Breakfast,83,Upma,2,45,45,90,Cash,Cloudy,4.3,Very Good,Saturday
+20-09-2025,17:15,Evening Snacks,1,Dosa,1,40,40,40,UPI,Rainy,4.4,Very Good,Saturday
+20-09-2025,12:59,Lunch,41,Tea,1,40,40,40,UPI,Windy,3.7,Good,Saturday
+20-09-2025,13:35,Lunch,57,Juice,1,45,45,45,UPI,Sunny,3.6,Average,Saturday
+20-09-2025,17:34,Evening Snacks,10,Idly,2,25,25,50,UPI,Rainy,3.9,Good,Saturday
+20-09-2025,16:27,Evening Snacks,33,Juice,2,25,25,50,Cash,Rainy,4,Good,Saturday
+20-09-2025,19:47,Evening Snacks,40,Juice,3,30,30,90,UPI,Rainy,3.9,Good,Saturday
+22-09-2025,19:58,Evening Snacks,73,Upma,1,30,30,30,UPI,Cloudy,4,Good,Monday
+22-09-2025,16:15,Evening Snacks,45,Pani Puri,2,30,30,60,UPI,Rainy,4.1,Good,Monday
+22-09-2025,15:35,Evening Snacks,94,Ice Cream,2,45,45,90,UPI,Sunny,3.5,Average,Monday
+22-09-2025,19:11,Evening Snacks,40,Coffee,1,15,15,15,UPI,Rainy,3.5,Average,Monday
+22-09-2025,09:55,Breakfast,6,Poori,1,25,25,25,UPI,Sunny,2.9,Average,Monday
+22-09-2025,13:11,Lunch,88,North Indian Thali,1,15,15,15,UPI,Cloudy,4.4,Very Good,Monday
+22-09-2025,09:54,Breakfast,57,Bisibele Bath,1,30,30,30,UPI,Sunny,4,Good,Monday
+22-09-2025,16:52,Evening Snacks,54,Bhel Puri,1,50,50,50,UPI,Rainy,4.4,Very Good,Monday
+22-09-2025,09:50,Breakfast,5,Dosa,2,15,15,30,Card,Sunny,3.5,Average,Monday
+22-09-2025,12:24,Lunch,39,Coffee,1,70,70,70,UPI,Sunny,4,Good,Monday
+22-09-2025,16:10,Evening Snacks,30,French Fries,1,15,15,15,UPI,Cloudy,4.1,Good,Monday
+22-09-2025,19:41,Evening Snacks,70,South Indian Thali,1,90,90,90,UPI,Cloudy,3.8,Good,Monday
+22-09-2025,12:06,Lunch,91,Veg Biryani,1,50,50,50,UPI,Sunny,3.4,Average,Monday
+22-09-2025,12:57,Lunch,47,Veg Biryani,1,50,50,50,UPI,Sunny,4.7,Excellent,Monday
+22-09-2025,13:12,Lunch,77,Bisibele Bath,1,30,30,30,UPI,Sunny,4.6,Excellent,Monday
+22-09-2025,15:42,Evening Snacks,64,Pani Puri,1,50,50,50,Cash,Windy,3.8,Good,Monday
+22-09-2025,17:07,Evening Snacks,11,Bhel Puri,1,40,40,40,UPI,Rainy,4.2,Very Good,Monday
+22-09-2025,16:04,Evening Snacks,19,Coffee,1,25,25,25,UPI,Cloudy,3.8,Good,Monday
+22-09-2025,20:00,Evening Snacks,88,Juice,3,30,30,90,Cash,Sunny,3.6,Average,Monday
+22-09-2025,13:21,Lunch,48,Coffee,3,90,90,270,UPI,Sunny,4.7,Excellent,Monday
+22-09-2025,13:57,Lunch,88,Juice,1,30,30,30,UPI,Sunny,3.3,Average,Monday
+22-09-2025,17:21,Evening Snacks,73,Dosa,1,40,40,40,UPI,Rainy,3.9,Good,Monday
+22-09-2025,17:15,Evening Snacks,98,Dosa,2,40,40,80,Cash,Rainy,4,Good,Monday
+22-09-2025,17:20,Evening Snacks,93,Dosa,1,40,40,40,UPI,Sunny,4.7,Excellent,Monday
+22-09-2025,18:28,Evening Snacks,44,South Indian Thali,3,90,90,270,UPI,Cloudy,4.4,Very Good,Monday
+22-09-2025,12:05,Lunch,91,Idly,2,90,90,180,UPI,Windy,3.3,Average,Monday
+22-09-2025,18:58,Evening Snacks,87,Tea,3,12,12,36,UPI,Rainy,4,Good,Monday
+22-09-2025,16:56,Evening Snacks,7,Bhel Puri,1,25,25,25,UPI,Rainy,4,Good,Monday
+22-09-2025,18:13,Evening Snacks,27,Coffee,1,15,15,15,Cash,Rainy,3.9,Good,Monday
+22-09-2025,17:30,Evening Snacks,5,Upma,1,30,30,30,UPI,Rainy,4.2,Very Good,Monday
+22-09-2025,13:04,Lunch,9,Fried Rice,1,30,30,30,UPI,Sunny,3.4,Average,Monday
+22-09-2025,16:20,Evening Snacks,79,Juice,1,12,12,12,UPI,Rainy,3.8,Good,Monday
+22-09-2025,19:19,Evening Snacks,48,Bisibele Bath,1,50,50,50,Cash,Sunny,4.2,Very Good,Monday
+22-09-2025,15:18,Evening Snacks,5,Pani Puri,1,50,50,50,UPI,Sunny,4.3,Very Good,Monday
+22-09-2025,13:02,Lunch,83,South Indian Thali,1,12,12,12,UPI,Sunny,4.1,Good,Monday
+22-09-2025,12:54,Lunch,70,Idly,1,70,70,70,UPI,Windy,3.9,Good,Monday
+22-09-2025,19:02,Evening Snacks,62,Idly,1,25,25,25,UPI,Cloudy,4,Good,Monday
+22-09-2025,13:27,Lunch,85,South Indian Thali,1,30,30,30,UPI,Sunny,4.3,Very Good,Monday
+22-09-2025,15:36,Evening Snacks,29,Ice Cream,2,15,15,30,UPI,Sunny,4,Good,Monday
+22-09-2025,09:02,Breakfast,43,Idly,1,50,50,50,UPI,Sunny,3.6,Average,Monday
+22-09-2025,08:20,Breakfast,64,Dosa,1,50,50,50,UPI,Rainy,3.5,Average,Monday
+22-09-2025,18:20,Evening Snacks,24,Dosa,2,40,40,80,UPI,Cloudy,3.4,Average,Monday
+22-09-2025,09:08,Breakfast,81,Bisibele Bath,1,40,40,40,UPI,Sunny,4.6,Excellent,Monday
+22-09-2025,16:13,Evening Snacks,40,Tea,1,30,30,30,UPI,Rainy,4.3,Very Good,Monday
+22-09-2025,17:17,Evening Snacks,74,Sandwich,1,45,45,45,UPI,Rainy,4,Good,Monday
+22-09-2025,16:54,Evening Snacks,46,Sandwich,1,50,50,50,UPI,Cloudy,3.8,Good,Monday
+22-09-2025,09:37,Breakfast,66,Idly,2,70,70,140,UPI,Rainy,3.8,Good,Monday
+22-09-2025,12:19,Lunch,57,South Indian Thali,2,25,25,50,UPI,Sunny,4.4,Very Good,Monday
+22-09-2025,19:37,Evening Snacks,59,Upma,1,30,30,30,UPI,Rainy,4.8,Excellent,Monday
+22-09-2025,19:24,Evening Snacks,24,Juice,1,50,50,50,UPI,Sunny,3.8,Good,Monday
+22-09-2025,13:34,Lunch,22,Chapati,1,45,45,45,UPI,Sunny,4.5,Excellent,Monday
+22-09-2025,09:47,Breakfast,2,Idly,1,90,90,90,Cash,Cloudy,4,Good,Monday
+22-09-2025,12:47,Lunch,33,Dosa,1,80,80,80,UPI,Sunny,3.9,Good,Monday
+22-09-2025,17:06,Evening Snacks,15,Idly,2,25,25,50,UPI,Rainy,4.6,Excellent,Monday
+22-09-2025,17:41,Evening Snacks,1,Bhel Puri,3,30,30,90,UPI,Rainy,4,Good,Monday
+22-09-2025,13:29,Lunch,93,North Indian Thali,3,40,40,120,Cash,Sunny,4.1,Good,Monday
+22-09-2025,12:45,Lunch,74,Dosa,3,45,45,135,UPI,Sunny,4.1,Good,Monday
+22-09-2025,19:55,Evening Snacks,14,Samosa,2,15,15,30,Card,Sunny,3.3,Average,Monday
+22-09-2025,12:55,Lunch,71,Chapati,1,80,80,80,UPI,Sunny,4.1,Good,Monday
+22-09-2025,09:15,Breakfast,89,Chapati,2,15,15,30,UPI,Rainy,3.8,Good,Monday
+22-09-2025,13:28,Lunch,6,Juice,1,50,50,50,Cash,Sunny,3.4,Average,Monday
+22-09-2025,09:38,Breakfast,69,Idly,2,40,40,80,Card,Rainy,3.8,Good,Monday
+22-09-2025,19:34,Evening Snacks,78,Idly,2,25,25,50,UPI,Rainy,3.8,Good,Monday
+22-09-2025,16:14,Evening Snacks,36,Ice Cream,3,40,40,120,UPI,Sunny,4.4,Very Good,Monday
+22-09-2025,18:19,Evening Snacks,18,Pani Puri,3,25,25,75,UPI,Rainy,3.6,Average,Monday
+22-09-2025,19:02,Evening Snacks,71,Idly,1,25,25,25,UPI,Rainy,3.7,Good,Monday
+22-09-2025,16:08,Evening Snacks,18,French Fries,1,25,25,25,Cash,Rainy,4.1,Good,Monday
+22-09-2025,17:15,Evening Snacks,63,Idly,1,25,25,25,UPI,Cloudy,3.5,Average,Monday
+22-09-2025,16:33,Evening Snacks,96,Sandwich,3,12,12,36,UPI,Rainy,3.7,Good,Monday
+22-09-2025,08:46,Breakfast,90,Poori,1,15,15,15,UPI,Windy,3.3,Average,Monday
+22-09-2025,19:40,Evening Snacks,7,Dosa,1,40,40,40,UPI,Rainy,4.4,Very Good,Monday
+22-09-2025,19:58,Evening Snacks,17,Upma,1,30,30,30,Cash,Rainy,3.9,Good,Monday
+22-09-2025,12:45,Lunch,32,Fried Rice,1,12,12,12,UPI,Windy,4,Good,Monday
+22-09-2025,17:10,Evening Snacks,43,Chapati,2,35,35,70,UPI,Rainy,4.4,Very Good,Monday
+22-09-2025,12:50,Lunch,45,Tea,1,25,25,25,Cash,Sunny,3.7,Good,Monday
+22-09-2025,17:59,Evening Snacks,51,Ice Cream,2,90,90,180,UPI,Sunny,3.9,Good,Monday
+22-09-2025,09:08,Breakfast,88,Poori,1,40,40,40,UPI,Cloudy,3.6,Average,Monday
+22-09-2025,16:16,Evening Snacks,61,Sandwich,1,90,90,90,UPI,Rainy,3.6,Average,Monday
+22-09-2025,13:17,Lunch,75,Juice,3,30,30,90,Card,Sunny,3.6,Average,Monday
+22-09-2025,17:55,Evening Snacks,34,Tea,1,12,12,12,UPI,Rainy,3.8,Good,Monday
+23-09-2025,19:18,Evening Snacks,51,Idly,2,25,25,50,UPI,Cloudy,3.8,Good,Tuesday
+23-09-2025,12:10,Lunch,54,Idly,1,30,30,30,UPI,Windy,4.1,Good,Tuesday
+23-09-2025,08:07,Breakfast,54,Idly,1,90,90,90,UPI,Rainy,3.6,Average,Tuesday
+23-09-2025,16:36,Evening Snacks,20,Sandwich,2,50,50,100,UPI,Rainy,4.1,Good,Tuesday
+23-09-2025,16:42,Evening Snacks,39,Tea,1,50,50,50,UPI,Cloudy,4.2,Very Good,Tuesday
+23-09-2025,13:37,Lunch,57,Dosa,1,30,30,30,UPI,Windy,3.8,Good,Tuesday
+23-09-2025,12:25,Lunch,92,Tea,1,50,50,50,UPI,Cloudy,3.7,Good,Tuesday
+23-09-2025,15:44,Evening Snacks,49,Juice,3,50,50,150,UPI,Sunny,4,Good,Tuesday
+23-09-2025,15:16,Evening Snacks,56,Bhel Puri,1,40,40,40,UPI,Windy,3.9,Good,Tuesday
+23-09-2025,08:18,Breakfast,86,Upma,2,30,30,60,UPI,Sunny,4.1,Good,Tuesday
+23-09-2025,18:27,Evening Snacks,13,Upma,1,30,30,30,Cash,Sunny,4.6,Excellent,Tuesday
+23-09-2025,16:05,Evening Snacks,77,Tea,2,80,80,160,Cash,Rainy,4,Good,Tuesday
+23-09-2025,16:34,Evening Snacks,93,Coffee,1,40,40,40,UPI,Cloudy,3.7,Good,Tuesday
+23-09-2025,17:21,Evening Snacks,72,Upma,1,30,30,30,UPI,Cloudy,3.6,Average,Tuesday
+23-09-2025,17:34,Evening Snacks,47,Tea,1,12,12,12,Cash,Cloudy,3.7,Good,Tuesday
+23-09-2025,09:08,Breakfast,26,Poori,1,30,30,30,UPI,Cloudy,3.4,Average,Tuesday
+23-09-2025,18:01,Evening Snacks,86,Idly,1,25,25,25,UPI,Rainy,4.4,Very Good,Tuesday
+23-09-2025,15:03,Evening Snacks,48,Juice,1,15,15,15,UPI,Sunny,3.1,Average,Tuesday
+23-09-2025,18:39,Evening Snacks,52,South Indian Thali,2,90,90,180,UPI,Cloudy,4.2,Very Good,Tuesday
+23-09-2025,18:08,Evening Snacks,31,Tea,1,12,12,12,UPI,Sunny,3.7,Good,Tuesday
+23-09-2025,13:00,Lunch,94,Chapati,2,30,30,60,UPI,Windy,3.8,Good,Tuesday
+23-09-2025,18:37,Evening Snacks,17,South Indian Thali,1,90,90,90,UPI,Rainy,3.6,Average,Tuesday
+23-09-2025,12:36,Lunch,74,Juice,2,25,25,50,UPI,Sunny,4.6,Excellent,Tuesday
+23-09-2025,19:38,Evening Snacks,24,Chapati,1,35,35,35,Card,Cloudy,4,Good,Tuesday
+23-09-2025,12:18,Lunch,74,Fried Rice,1,45,45,45,UPI,Sunny,4.3,Very Good,Tuesday
+23-09-2025,13:48,Lunch,2,Ice Cream,2,40,40,80,UPI,Sunny,4.5,Excellent,Tuesday
+23-09-2025,18:10,Evening Snacks,16,Upma,3,30,30,90,UPI,Rainy,4.1,Good,Tuesday
+23-09-2025,12:15,Lunch,84,Veg Biryani,1,30,30,30,UPI,Windy,3.5,Average,Tuesday
+23-09-2025,15:31,Evening Snacks,15,Pani Puri,2,40,40,80,UPI,Windy,3.9,Good,Tuesday
+23-09-2025,18:19,Evening Snacks,58,Bhel Puri,1,30,30,30,UPI,Rainy,3.7,Good,Tuesday
+23-09-2025,13:24,Lunch,88,Chapati,1,90,90,90,UPI,Windy,3.8,Good,Tuesday
+23-09-2025,09:22,Breakfast,46,Tea,2,90,90,180,UPI,Sunny,4,Good,Tuesday
+23-09-2025,12:15,Lunch,58,Idly,3,50,50,150,UPI,Sunny,3.9,Good,Tuesday
+23-09-2025,19:22,Evening Snacks,47,Bisibele Bath,1,50,50,50,Cash,Cloudy,4.2,Very Good,Tuesday
+23-09-2025,13:54,Lunch,59,Coffee,3,90,90,270,UPI,Sunny,4.2,Very Good,Tuesday
+23-09-2025,13:27,Lunch,7,North Indian Thali,2,40,40,80,UPI,Cloudy,3.9,Good,Tuesday
+23-09-2025,16:22,Evening Snacks,89,French Fries,1,30,30,30,UPI,Rainy,4.2,Very Good,Tuesday
+23-09-2025,12:43,Lunch,57,South Indian Thali,1,50,50,50,UPI,Cloudy,3.8,Good,Tuesday
+23-09-2025,16:13,Evening Snacks,53,Tea,1,45,45,45,UPI,Cloudy,4.5,Excellent,Tuesday
+23-09-2025,12:00,Lunch,83,North Indian Thali,1,30,30,30,UPI,Sunny,3.8,Good,Tuesday
+23-09-2025,19:41,Evening Snacks,69,French Fries,2,50,50,100,UPI,Sunny,4.5,Excellent,Tuesday
+23-09-2025,09:59,Breakfast,85,Upma,2,50,50,100,UPI,Rainy,3.4,Average,Tuesday
+23-09-2025,09:57,Breakfast,94,Upma,1,90,90,90,UPI,Rainy,3.8,Good,Tuesday
+23-09-2025,08:23,Breakfast,16,Bisibele Bath,1,90,90,90,UPI,Rainy,3.9,Good,Tuesday
+23-09-2025,08:38,Breakfast,99,Bisibele Bath,1,15,15,15,UPI,Cloudy,4.1,Good,Tuesday
+23-09-2025,19:15,Evening Snacks,5,South Indian Thali,1,90,90,90,UPI,Rainy,4.3,Very Good,Tuesday
+23-09-2025,12:48,Lunch,67,Tea,1,50,50,50,Card,Sunny,3.5,Average,Tuesday
+23-09-2025,13:56,Lunch,74,Coffee,1,25,25,25,Cash,Cloudy,3.6,Average,Tuesday
+23-09-2025,16:02,Evening Snacks,79,Pani Puri,1,50,50,50,UPI,Rainy,3.4,Average,Tuesday
+23-09-2025,19:48,Evening Snacks,22,Coffee,1,40,40,40,UPI,Rainy,4.5,Excellent,Tuesday
+23-09-2025,16:38,Evening Snacks,25,Bhel Puri,3,30,30,90,UPI,Sunny,4.1,Good,Tuesday
+23-09-2025,15:22,Evening Snacks,89,Ice Cream,1,30,30,30,Cash,Sunny,3.6,Average,Tuesday
+23-09-2025,17:56,Evening Snacks,55,Juice,1,30,30,30,UPI,Sunny,3.8,Good,Tuesday
+23-09-2025,08:44,Breakfast,7,Tea,1,90,90,90,UPI,Cloudy,4.5,Excellent,Tuesday
+23-09-2025,17:11,Evening Snacks,16,Poori,2,45,45,90,Card,Rainy,3.9,Good,Tuesday
+23-09-2025,15:20,Evening Snacks,5,Pani Puri,2,30,30,60,UPI,Windy,3.9,Good,Tuesday
+23-09-2025,08:15,Breakfast,83,Dosa,1,45,45,45,UPI,Rainy,3.7,Good,Tuesday
+23-09-2025,13:11,Lunch,91,Tea,1,15,15,15,UPI,Cloudy,3.6,Average,Tuesday
+23-09-2025,19:06,Evening Snacks,69,Coffee,1,40,40,40,UPI,Cloudy,4.5,Excellent,Tuesday
+23-09-2025,19:02,Evening Snacks,17,Bisibele Bath,1,50,50,50,UPI,Rainy,4.7,Excellent,Tuesday
+23-09-2025,12:27,Lunch,21,Bisibele Bath,1,15,15,15,Cash,Cloudy,3.6,Average,Tuesday
+23-09-2025,16:21,Evening Snacks,33,French Fries,1,45,45,45,UPI,Rainy,4.6,Excellent,Tuesday
+23-09-2025,13:25,Lunch,92,South Indian Thali,1,45,45,45,Cash,Windy,3.8,Good,Tuesday
+23-09-2025,19:41,Evening Snacks,52,Dosa,1,40,40,40,UPI,Rainy,4.2,Very Good,Tuesday
+23-09-2025,13:45,Lunch,28,Sandwich,2,15,15,30,UPI,Sunny,4.6,Excellent,Tuesday
+23-09-2025,16:55,Evening Snacks,32,French Fries,2,30,30,60,UPI,Cloudy,3.9,Good,Tuesday
+23-09-2025,17:29,Evening Snacks,36,Upma,2,30,30,60,UPI,Rainy,3.9,Good,Tuesday
+23-09-2025,17:01,Evening Snacks,72,Pani Puri,1,25,25,25,UPI,Sunny,4.3,Very Good,Tuesday
+23-09-2025,19:47,Evening Snacks,29,Dosa,1,40,40,40,Card,Sunny,3.6,Average,Tuesday
+23-09-2025,12:51,Lunch,85,Idly,1,25,25,25,UPI,Cloudy,4.5,Excellent,Tuesday
+23-09-2025,13:46,Lunch,50,Veg Biryani,1,90,90,90,UPI,Cloudy,4.1,Good,Tuesday
+23-09-2025,12:35,Lunch,41,Fried Rice,1,90,90,90,UPI,Windy,3.8,Good,Tuesday
+23-09-2025,16:42,Evening Snacks,48,Pani Puri,1,12,12,12,UPI,Rainy,3.8,Good,Tuesday
+23-09-2025,13:32,Lunch,99,South Indian Thali,3,25,25,75,Cash,Sunny,3.4,Average,Tuesday
+23-09-2025,12:54,Lunch,74,Coffee,1,25,25,25,Cash,Sunny,3.8,Good,Tuesday
+23-09-2025,12:27,Lunch,64,North Indian Thali,3,50,50,150,UPI,Sunny,3.9,Good,Tuesday
+23-09-2025,17:15,Evening Snacks,3,French Fries,1,50,50,50,UPI,Sunny,3.6,Average,Tuesday
+23-09-2025,12:20,Lunch,84,Bisibele Bath,3,25,25,75,UPI,Cloudy,4,Good,Tuesday
+23-09-2025,09:33,Breakfast,26,Upma,1,40,40,40,UPI,Sunny,4.2,Very Good,Tuesday
+23-09-2025,13:31,Lunch,52,Coffee,3,40,40,120,UPI,Sunny,3.9,Good,Tuesday
+24-09-2025,16:22,Evening Snacks,67,Bhel Puri,3,90,90,270,UPI,Sunny,4.3,Very Good,Wednesday
+24-09-2025,12:21,Lunch,30,Sandwich,3,90,90,270,UPI,Sunny,3.7,Good,Wednesday
+24-09-2025,17:47,Evening Snacks,87,South Indian Thali,2,90,90,180,Card,Rainy,4.4,Very Good,Wednesday
+24-09-2025,08:43,Breakfast,80,Chapati,2,15,15,30,UPI,Windy,4,Good,Wednesday
+24-09-2025,15:53,Evening Snacks,81,Tea,1,30,30,30,Cash,Sunny,4.6,Excellent,Wednesday
+24-09-2025,16:57,Evening Snacks,12,Coffee,3,30,30,90,Cash,Cloudy,5,Excellent,Wednesday
+24-09-2025,18:24,Evening Snacks,87,Dosa,3,40,40,120,Cash,Cloudy,3.8,Good,Wednesday
+24-09-2025,19:43,Evening Snacks,19,Dosa,1,40,40,40,UPI,Sunny,3.8,Good,Wednesday
+24-09-2025,13:15,Lunch,100,Chapati,1,50,50,50,UPI,Sunny,3.9,Good,Wednesday
+24-09-2025,15:48,Evening Snacks,82,Tea,3,15,15,45,UPI,Sunny,4.2,Very Good,Wednesday
+24-09-2025,18:12,Evening Snacks,1,Idly,1,25,25,25,UPI,Sunny,4.5,Excellent,Wednesday
+24-09-2025,13:11,Lunch,70,Sandwich,2,45,45,90,Cash,Sunny,3.7,Good,Wednesday
+24-09-2025,19:07,Evening Snacks,76,Bisibele Bath,2,50,50,100,UPI,Cloudy,4.2,Very Good,Wednesday
+24-09-2025,17:22,Evening Snacks,45,French Fries,2,50,50,100,UPI,Cloudy,3.9,Good,Wednesday
+24-09-2025,17:08,Evening Snacks,3,Juice,1,30,30,30,UPI,Cloudy,4.2,Very Good,Wednesday
+24-09-2025,12:40,Lunch,5,Chapati,1,30,30,30,UPI,Cloudy,4.6,Excellent,Wednesday
+24-09-2025,18:09,Evening Snacks,57,Pani Puri,2,25,25,50,UPI,Cloudy,3.9,Good,Wednesday
+24-09-2025,09:21,Breakfast,73,Idly,1,25,25,25,Cash,Windy,3.3,Average,Wednesday
+24-09-2025,12:41,Lunch,76,Bisibele Bath,1,25,25,25,UPI,Sunny,4.3,Very Good,Wednesday
+24-09-2025,17:45,Evening Snacks,68,Bisibele Bath,1,50,50,50,UPI,Sunny,3.7,Good,Wednesday
+24-09-2025,16:26,Evening Snacks,11,Coffee,1,90,90,90,UPI,Rainy,3.9,Good,Wednesday
+24-09-2025,16:57,Evening Snacks,37,Pani Puri,1,15,15,15,UPI,Sunny,4.3,Very Good,Wednesday
+24-09-2025,15:31,Evening Snacks,38,Coffee,1,15,15,15,Card,Sunny,4.1,Good,Wednesday
+24-09-2025,13:30,Lunch,79,Juice,1,45,45,45,UPI,Sunny,4,Good,Wednesday
+24-09-2025,13:58,Lunch,32,Idly,3,15,15,45,Cash,Sunny,3.8,Good,Wednesday
+24-09-2025,18:06,Evening Snacks,29,Samosa,1,15,15,15,UPI,Cloudy,2.8,Average,Wednesday
+24-09-2025,18:44,Evening Snacks,22,Idly,3,25,25,75,UPI,Cloudy,4.3,Very Good,Wednesday
+24-09-2025,13:15,Lunch,78,Coffee,1,35,35,35,Cash,Sunny,3.9,Good,Wednesday
+24-09-2025,16:59,Evening Snacks,83,Coffee,3,15,15,45,Card,Rainy,4.6,Excellent,Wednesday
+24-09-2025,19:29,Evening Snacks,14,Dosa,1,40,40,40,UPI,Cloudy,4.2,Very Good,Wednesday
+24-09-2025,19:26,Evening Snacks,15,Dosa,1,40,40,40,UPI,Sunny,3.8,Good,Wednesday
+24-09-2025,19:02,Evening Snacks,45,Bisibele Bath,3,50,50,150,UPI,Sunny,4.4,Very Good,Wednesday
+24-09-2025,13:30,Lunch,61,Fried Rice,1,90,90,90,UPI,Windy,4.5,Excellent,Wednesday
+24-09-2025,13:39,Lunch,6,Sandwich,1,25,25,25,UPI,Sunny,3.9,Good,Wednesday
+24-09-2025,12:55,Lunch,19,Chapati,1,50,50,50,Cash,Windy,4.5,Excellent,Wednesday
+24-09-2025,16:12,Evening Snacks,95,Pani Puri,1,50,50,50,UPI,Rainy,3.8,Good,Wednesday
+24-09-2025,09:39,Breakfast,43,Tea,2,30,30,60,UPI,Sunny,4.1,Good,Wednesday
+24-09-2025,19:15,Evening Snacks,44,Dosa,3,40,40,120,Cash,Cloudy,4.2,Very Good,Wednesday
+24-09-2025,19:00,Evening Snacks,11,Fried Rice,2,70,70,140,UPI,Rainy,4.3,Very Good,Wednesday
+24-09-2025,17:00,Evening Snacks,71,Juice,1,30,30,30,UPI,Rainy,4.2,Very Good,Wednesday
+24-09-2025,13:29,Lunch,11,Juice,1,45,45,45,UPI,Sunny,3.9,Good,Wednesday
+24-09-2025,13:09,Lunch,38,Bisibele Bath,1,50,50,50,UPI,Sunny,4.4,Very Good,Wednesday
+24-09-2025,12:52,Lunch,5,Coffee,1,12,12,12,UPI,Sunny,4,Good,Wednesday
+24-09-2025,12:58,Lunch,27,North Indian Thali,2,40,40,80,Cash,Sunny,3.8,Good,Wednesday
+24-09-2025,08:38,Breakfast,54,Upma,2,25,25,50,UPI,Cloudy,3.8,Good,Wednesday
+24-09-2025,19:52,Evening Snacks,4,Sandwich,3,45,45,135,UPI,Cloudy,4.8,Excellent,Wednesday
+24-09-2025,16:55,Evening Snacks,73,Juice,1,30,30,30,UPI,Sunny,3.7,Good,Wednesday
+24-09-2025,13:14,Lunch,83,Ice Cream,2,40,40,80,Cash,Sunny,4.5,Excellent,Wednesday
+24-09-2025,18:52,Evening Snacks,25,Idly,1,25,25,25,UPI,Cloudy,3.5,Average,Wednesday
+24-09-2025,13:47,Lunch,69,Idly,1,25,25,25,UPI,Sunny,4.2,Very Good,Wednesday
+24-09-2025,17:41,Evening Snacks,36,French Fries,3,50,50,150,UPI,Rainy,4.1,Good,Wednesday
+24-09-2025,12:23,Lunch,26,Fried Rice,1,45,45,45,UPI,Sunny,4.6,Excellent,Wednesday
+24-09-2025,12:19,Lunch,18,Ice Cream,1,50,50,50,UPI,Sunny,3.7,Good,Wednesday
+24-09-2025,12:51,Lunch,27,Idly,1,15,15,15,UPI,Sunny,3.6,Average,Wednesday
+24-09-2025,12:28,Lunch,57,Juice,1,30,30,30,UPI,Sunny,4,Good,Wednesday
+24-09-2025,17:31,Evening Snacks,2,Sandwich,1,45,45,45,UPI,Cloudy,4.7,Excellent,Wednesday
+24-09-2025,17:36,Evening Snacks,97,Samosa,1,15,15,15,UPI,Sunny,3.6,Average,Wednesday
+24-09-2025,13:35,Lunch,27,Chapati,1,40,40,40,UPI,Sunny,3,Average,Wednesday
+24-09-2025,09:55,Breakfast,72,Poori,2,40,40,80,Card,Rainy,4,Good,Wednesday
+24-09-2025,13:02,Lunch,35,Tea,1,30,30,30,Cash,Sunny,4.4,Very Good,Wednesday
+24-09-2025,17:33,Evening Snacks,59,Dosa,1,40,40,40,UPI,Rainy,3.6,Average,Wednesday
+24-09-2025,19:28,Evening Snacks,21,Idly,1,25,25,25,Cash,Rainy,4.3,Very Good,Wednesday
+24-09-2025,18:14,Evening Snacks,57,Juice,1,30,30,30,Cash,Rainy,3.6,Average,Wednesday
+24-09-2025,13:46,Lunch,60,Juice,1,25,25,25,Cash,Sunny,3.9,Good,Wednesday
+24-09-2025,17:26,Evening Snacks,42,Pani Puri,2,25,25,50,UPI,Sunny,4.3,Very Good,Wednesday
+24-09-2025,13:19,Lunch,34,North Indian Thali,1,50,50,50,UPI,Windy,3.5,Average,Wednesday
+24-09-2025,13:21,Lunch,20,Veg Biryani,2,30,30,60,Cash,Sunny,4.1,Good,Wednesday
+24-09-2025,15:18,Evening Snacks,24,Pani Puri,1,35,35,35,UPI,Sunny,4.5,Excellent,Wednesday
+24-09-2025,12:05,Lunch,50,South Indian Thali,1,12,12,12,UPI,Windy,4.2,Very Good,Wednesday
+24-09-2025,18:12,Evening Snacks,32,Bhel Puri,1,40,40,40,UPI,Cloudy,3.7,Good,Wednesday
+24-09-2025,12:24,Lunch,24,Ice Cream,2,15,15,30,UPI,Sunny,4.6,Excellent,Wednesday
+24-09-2025,12:11,Lunch,66,Tea,2,40,40,80,UPI,Sunny,4.3,Very Good,Wednesday
+24-09-2025,12:44,Lunch,7,Tea,3,70,70,210,Cash,Cloudy,3.3,Average,Wednesday
+24-09-2025,17:18,Evening Snacks,38,Juice,2,30,30,60,Cash,Sunny,4.3,Very Good,Wednesday
+24-09-2025,09:20,Breakfast,14,Bisibele Bath,1,15,15,15,UPI,Cloudy,3.8,Good,Wednesday
+24-09-2025,19:38,Evening Snacks,77,Bhel Puri,1,30,30,30,UPI,Cloudy,4.1,Good,Wednesday
+24-09-2025,17:28,Evening Snacks,19,Dosa,1,40,40,40,UPI,Sunny,4.4,Very Good,Wednesday
+24-09-2025,18:05,Evening Snacks,24,Upma,2,30,30,60,UPI,Rainy,3.8,Good,Wednesday
+24-09-2025,09:49,Breakfast,49,Coffee,1,40,40,40,UPI,Sunny,3.3,Average,Wednesday
+24-09-2025,12:41,Lunch,83,Chapati,3,50,50,150,UPI,Cloudy,4.6,Excellent,Wednesday
+25-09-2025,17:49,Evening Snacks,89,Sandwich,1,45,45,45,UPI,Rainy,4.5,Excellent,Thursday
+25-09-2025,17:51,Evening Snacks,3,Bisibele Bath,2,50,50,100,UPI,Cloudy,4,Good,Thursday
+25-09-2025,16:06,Evening Snacks,43,Sandwich,3,35,35,105,UPI,Sunny,4.3,Very Good,Thursday
+25-09-2025,12:02,Lunch,79,Dosa,1,40,40,40,Cash,Windy,3.9,Good,Thursday
+25-09-2025,13:04,Lunch,99,Dosa,3,50,50,150,UPI,Cloudy,4,Good,Thursday
+25-09-2025,13:27,Lunch,90,Veg Biryani,3,90,90,270,UPI,Sunny,3.9,Good,Thursday
+25-09-2025,13:21,Lunch,95,Chapati,3,30,30,90,UPI,Cloudy,3.9,Good,Thursday
+25-09-2025,12:34,Lunch,61,Dosa,2,90,90,180,UPI,Sunny,4.1,Good,Thursday
+25-09-2025,17:40,Evening Snacks,54,Samosa,1,15,15,15,UPI,Sunny,3.5,Average,Thursday
+25-09-2025,18:29,Evening Snacks,18,Dosa,3,40,40,120,UPI,Rainy,3.9,Good,Thursday
+25-09-2025,16:13,Evening Snacks,15,Tea,1,40,40,40,UPI,Rainy,4.1,Good,Thursday
+25-09-2025,13:50,Lunch,20,Dosa,1,90,90,90,UPI,Windy,4.7,Excellent,Thursday
+25-09-2025,13:36,Lunch,30,Chapati,2,30,30,60,UPI,Cloudy,3.5,Average,Thursday
+25-09-2025,13:25,Lunch,23,Fried Rice,2,50,50,100,UPI,Cloudy,4.2,Very Good,Thursday
+25-09-2025,19:50,Evening Snacks,10,Idly,2,25,25,50,UPI,Rainy,4.3,Very Good,Thursday
+25-09-2025,16:19,Evening Snacks,44,Sandwich,3,25,25,75,UPI,Rainy,3.2,Average,Thursday
+25-09-2025,13:32,Lunch,98,Dosa,3,30,30,90,UPI,Sunny,4.2,Very Good,Thursday
+25-09-2025,09:13,Breakfast,91,Chapati,1,30,30,30,UPI,Rainy,4.4,Very Good,Thursday
+25-09-2025,09:22,Breakfast,13,Poori,1,40,40,40,UPI,Sunny,4.2,Very Good,Thursday
+25-09-2025,18:35,Evening Snacks,92,Chapati,1,35,35,35,UPI,Cloudy,4,Good,Thursday
+25-09-2025,16:51,Evening Snacks,64,French Fries,3,70,70,210,UPI,Cloudy,4.1,Good,Thursday
+25-09-2025,12:01,Lunch,68,Juice,1,45,45,45,UPI,Sunny,4.1,Good,Thursday
+25-09-2025,13:08,Lunch,97,Dosa,1,45,45,45,UPI,Sunny,3.3,Average,Thursday
+25-09-2025,19:52,Evening Snacks,23,Idly,2,25,25,50,UPI,Rainy,4.1,Good,Thursday
+25-09-2025,19:07,Evening Snacks,32,Ice Cream,2,25,25,50,UPI,Sunny,3.9,Good,Thursday
+25-09-2025,16:39,Evening Snacks,52,Pani Puri,1,25,25,25,Card,Cloudy,3.7,Good,Thursday
+25-09-2025,13:35,Lunch,28,Idly,1,15,15,15,UPI,Sunny,5,Excellent,Thursday
+25-09-2025,15:14,Evening Snacks,19,Coffee,2,40,40,80,UPI,Sunny,4.5,Excellent,Thursday
+25-09-2025,08:23,Breakfast,6,Idly,1,50,50,50,UPI,Cloudy,3.5,Average,Thursday
+25-09-2025,12:32,Lunch,37,Fried Rice,1,30,30,30,Cash,Sunny,4.1,Good,Thursday
+25-09-2025,16:05,Evening Snacks,58,French Fries,3,25,25,75,UPI,Rainy,4.6,Excellent,Thursday
+25-09-2025,18:44,Evening Snacks,13,Samosa,3,15,15,45,Cash,Cloudy,3.4,Average,Thursday
+25-09-2025,13:29,Lunch,3,Sandwich,3,40,40,120,UPI,Sunny,4,Good,Thursday
+25-09-2025,12:55,Lunch,91,Juice,1,90,90,90,UPI,Sunny,4,Good,Thursday
+25-09-2025,08:44,Breakfast,44,Dosa,2,45,45,90,UPI,Cloudy,3.5,Average,Thursday
+25-09-2025,15:24,Evening Snacks,81,Coffee,1,40,40,40,UPI,Windy,4.2,Very Good,Thursday
+25-09-2025,12:22,Lunch,31,Tea,3,30,30,90,UPI,Sunny,4.4,Very Good,Thursday
+25-09-2025,18:30,Evening Snacks,22,Tea,3,12,12,36,Cash,Rainy,4.6,Excellent,Thursday
+25-09-2025,19:36,Evening Snacks,69,Idly,2,25,25,50,Cash,Rainy,3.9,Good,Thursday
+25-09-2025,13:45,Lunch,30,Coffee,1,45,45,45,UPI,Sunny,5,Excellent,Thursday
+25-09-2025,17:52,Evening Snacks,28,Bhel Puri,1,30,30,30,UPI,Cloudy,3.2,Average,Thursday
+25-09-2025,13:35,Lunch,81,Sandwich,2,35,35,70,UPI,Sunny,4.1,Good,Thursday
+25-09-2025,18:43,Evening Snacks,32,Poori,1,45,45,45,UPI,Rainy,3.4,Average,Thursday
+25-09-2025,16:39,Evening Snacks,25,Bhel Puri,1,25,25,25,UPI,Rainy,4,Good,Thursday
+25-09-2025,16:41,Evening Snacks,92,French Fries,1,30,30,30,UPI,Rainy,3.8,Good,Thursday
+25-09-2025,13:26,Lunch,45,Dosa,1,30,30,30,UPI,Sunny,4.2,Very Good,Thursday
+25-09-2025,16:16,Evening Snacks,91,Coffee,1,80,80,80,Card,Rainy,3.9,Good,Thursday
+25-09-2025,19:59,Evening Snacks,64,South Indian Thali,2,90,90,180,UPI,Rainy,3.7,Good,Thursday
+25-09-2025,08:05,Breakfast,75,Idly,1,45,45,45,UPI,Cloudy,3.7,Good,Thursday
+25-09-2025,09:55,Breakfast,32,Coffee,1,80,80,80,Card,Rainy,4.8,Excellent,Thursday
+25-09-2025,08:16,Breakfast,15,Tea,2,15,15,30,UPI,Sunny,4.2,Very Good,Thursday
+25-09-2025,19:57,Evening Snacks,54,Bisibele Bath,3,50,50,150,UPI,Rainy,3.3,Average,Thursday
+25-09-2025,19:44,Evening Snacks,45,Fried Rice,1,70,70,70,Cash,Rainy,4.2,Very Good,Thursday
+25-09-2025,16:34,Evening Snacks,90,Sandwich,1,15,15,15,UPI,Rainy,3.9,Good,Thursday
+25-09-2025,13:29,Lunch,98,Bisibele Bath,2,45,45,90,UPI,Windy,4,Good,Thursday
+25-09-2025,15:45,Evening Snacks,42,Sandwich,1,50,50,50,UPI,Sunny,4.3,Very Good,Thursday
+25-09-2025,13:18,Lunch,44,South Indian Thali,1,15,15,15,UPI,Sunny,4.5,Excellent,Thursday
+25-09-2025,12:34,Lunch,98,South Indian Thali,1,90,90,90,UPI,Cloudy,3.7,Good,Thursday
+25-09-2025,17:34,Evening Snacks,19,South Indian Thali,2,90,90,180,Card,Rainy,4,Good,Thursday
+25-09-2025,15:54,Evening Snacks,9,Juice,2,15,15,30,Card,Sunny,3.8,Good,Thursday
+25-09-2025,13:19,Lunch,1,Veg Biryani,3,90,90,270,UPI,Sunny,4.2,Very Good,Thursday
+25-09-2025,18:57,Evening Snacks,33,Bhel Puri,2,30,30,60,UPI,Cloudy,3.9,Good,Thursday
+25-09-2025,13:19,Lunch,36,Idly,2,15,15,30,UPI,Windy,4,Good,Thursday
+25-09-2025,17:49,Evening Snacks,32,Dosa,2,40,40,80,UPI,Cloudy,3.9,Good,Thursday
+25-09-2025,19:12,Evening Snacks,69,Juice,3,30,30,90,UPI,Sunny,4,Good,Thursday
+25-09-2025,08:48,Breakfast,4,Coffee,2,45,45,90,UPI,Sunny,4.7,Excellent,Thursday
+25-09-2025,12:01,Lunch,51,South Indian Thali,3,15,15,45,UPI,Windy,5,Excellent,Thursday
+25-09-2025,12:21,Lunch,21,Ice Cream,3,50,50,150,UPI,Sunny,4.2,Very Good,Thursday
+25-09-2025,12:58,Lunch,71,Ice Cream,2,45,45,90,UPI,Sunny,4,Good,Thursday
+25-09-2025,17:04,Evening Snacks,46,Upma,1,30,30,30,UPI,Rainy,3.4,Average,Thursday
+25-09-2025,08:28,Breakfast,74,Dosa,2,70,70,140,UPI,Cloudy,3.7,Good,Thursday
+25-09-2025,13:25,Lunch,40,Dosa,2,25,25,50,Cash,Windy,3.9,Good,Thursday
+25-09-2025,19:21,Evening Snacks,34,Pani Puri,2,25,25,50,Card,Rainy,3.7,Good,Thursday
+25-09-2025,19:21,Evening Snacks,2,South Indian Thali,1,90,90,90,UPI,Sunny,3.8,Good,Thursday
+25-09-2025,18:54,Evening Snacks,1,Ice Cream,1,40,40,40,UPI,Sunny,4.6,Excellent,Thursday
+25-09-2025,08:44,Breakfast,14,Poori,2,45,45,90,UPI,Cloudy,4,Good,Thursday
+25-09-2025,19:32,Evening Snacks,46,Pani Puri,1,25,25,25,UPI,Sunny,4,Good,Thursday
+25-09-2025,13:11,Lunch,57,Coffee,1,45,45,45,UPI,Sunny,3.7,Good,Thursday
+25-09-2025,16:54,Evening Snacks,7,French Fries,3,90,90,270,UPI,Cloudy,4.5,Excellent,Thursday
+25-09-2025,17:04,Evening Snacks,54,Veg Biryani,1,80,80,80,Cash,Rainy,3.9,Good,Thursday
+26-09-2025,17:07,Evening Snacks,55,Pani Puri,1,25,25,25,UPI,Rainy,3.8,Good,Friday
+26-09-2025,17:31,Evening Snacks,39,Upma,1,30,30,30,UPI,Rainy,3.4,Average,Friday
+26-09-2025,13:16,Lunch,86,Veg Biryani,1,45,45,45,UPI,Sunny,4,Good,Friday
+26-09-2025,19:23,Evening Snacks,22,French Fries,1,50,50,50,UPI,Cloudy,3.8,Good,Friday
+26-09-2025,18:36,Evening Snacks,15,Sandwich,1,45,45,45,UPI,Rainy,4.7,Excellent,Friday
+26-09-2025,19:36,Evening Snacks,41,Juice,1,30,30,30,UPI,Cloudy,4.7,Excellent,Friday
+26-09-2025,17:47,Evening Snacks,43,Dosa,1,40,40,40,UPI,Rainy,3.5,Average,Friday
+26-09-2025,13:21,Lunch,4,Coffee,2,25,25,50,UPI,Cloudy,3.6,Average,Friday
+26-09-2025,16:01,Evening Snacks,88,Juice,1,50,50,50,UPI,Cloudy,3.9,Good,Friday
+26-09-2025,12:28,Lunch,13,Chapati,1,90,90,90,UPI,Sunny,3.7,Good,Friday
+26-09-2025,15:40,Evening Snacks,18,Coffee,1,90,90,90,UPI,Sunny,4.1,Good,Friday
+26-09-2025,12:44,Lunch,8,Ice Cream,1,40,40,40,UPI,Sunny,3.9,Good,Friday
+26-09-2025,18:40,Evening Snacks,9,Pani Puri,1,25,25,25,Cash,Rainy,4.1,Good,Friday
+26-09-2025,18:00,Evening Snacks,64,Pani Puri,2,25,25,50,UPI,Rainy,4.4,Very Good,Friday
+26-09-2025,12:34,Lunch,80,Sandwich,3,25,25,75,UPI,Sunny,3.6,Average,Friday
+26-09-2025,16:31,Evening Snacks,24,Coffee,1,70,70,70,UPI,Sunny,4.4,Very Good,Friday
+26-09-2025,17:43,Evening Snacks,13,Ice Cream,2,40,40,80,UPI,Sunny,3.7,Good,Friday
+26-09-2025,13:04,Lunch,11,Idly,3,90,90,270,UPI,Sunny,4.9,Excellent,Friday
+26-09-2025,08:43,Breakfast,47,Idly,1,80,80,80,UPI,Cloudy,4.6,Excellent,Friday
+26-09-2025,15:33,Evening Snacks,61,Ice Cream,1,90,90,90,UPI,Sunny,4,Good,Friday
+26-09-2025,19:43,Evening Snacks,39,Bisibele Bath,1,50,50,50,UPI,Rainy,3.6,Average,Friday
+26-09-2025,18:15,Evening Snacks,16,French Fries,2,50,50,100,UPI,Rainy,3.5,Average,Friday
+26-09-2025,16:29,Evening Snacks,78,Juice,1,30,30,30,UPI,Sunny,4.3,Very Good,Friday
+26-09-2025,08:29,Breakfast,29,Idly,1,35,35,35,UPI,Sunny,4,Good,Friday
+26-09-2025,12:27,Lunch,89,Sandwich,3,25,25,75,UPI,Sunny,4.4,Very Good,Friday
+26-09-2025,13:22,Lunch,55,Sandwich,1,40,40,40,UPI,Sunny,4.9,Excellent,Friday
+26-09-2025,16:04,Evening Snacks,9,Bhel Puri,3,50,50,150,UPI,Rainy,3.7,Good,Friday
+26-09-2025,19:02,Evening Snacks,72,Juice,1,30,30,30,UPI,Sunny,3.5,Average,Friday
+26-09-2025,13:27,Lunch,57,Fried Rice,1,50,50,50,Cash,Sunny,4.1,Good,Friday
+26-09-2025,12:41,Lunch,94,Dosa,1,25,25,25,UPI,Windy,4.5,Excellent,Friday
+26-09-2025,16:43,Evening Snacks,14,Sandwich,3,40,40,120,UPI,Rainy,3.6,Average,Friday
+26-09-2025,13:01,Lunch,64,Sandwich,2,50,50,100,UPI,Sunny,4,Good,Friday
+26-09-2025,18:53,Evening Snacks,51,Tea,3,12,12,36,UPI,Cloudy,4.5,Excellent,Friday
+26-09-2025,18:19,Evening Snacks,18,Upma,2,30,30,60,UPI,Rainy,3.3,Average,Friday
+26-09-2025,15:32,Evening Snacks,34,French Fries,2,25,25,50,UPI,Sunny,4.1,Good,Friday
+26-09-2025,09:15,Breakfast,89,Coffee,1,15,15,15,UPI,Windy,3.8,Good,Friday
+26-09-2025,13:08,Lunch,30,Bisibele Bath,2,70,70,140,UPI,Sunny,4,Good,Friday
+26-09-2025,09:55,Breakfast,21,Upma,1,50,50,50,UPI,Cloudy,4.3,Very Good,Friday
+26-09-2025,19:18,Evening Snacks,37,Pani Puri,1,25,25,25,UPI,Cloudy,4.1,Good,Friday
+26-09-2025,15:49,Evening Snacks,100,Juice,1,45,45,45,UPI,Sunny,3.6,Average,Friday
+26-09-2025,13:36,Lunch,75,Idly,2,25,25,50,UPI,Windy,3.8,Good,Friday
+26-09-2025,13:11,Lunch,43,Dosa,2,50,50,100,Cash,Sunny,4.6,Excellent,Friday
+26-09-2025,18:29,Evening Snacks,76,Tea,1,12,12,12,UPI,Rainy,4.1,Good,Friday
+26-09-2025,12:09,Lunch,94,Ice Cream,2,45,45,90,UPI,Sunny,4.3,Very Good,Friday
+26-09-2025,16:54,Evening Snacks,68,French Fries,1,50,50,50,UPI,Rainy,4.1,Good,Friday
+26-09-2025,13:17,Lunch,60,Fried Rice,1,90,90,90,UPI,Windy,4.3,Very Good,Friday
+26-09-2025,19:28,Evening Snacks,43,Bhel Puri,1,40,40,40,UPI,Cloudy,3.8,Good,Friday
+26-09-2025,17:52,Evening Snacks,67,South Indian Thali,1,90,90,90,UPI,Cloudy,3.7,Good,Friday
+26-09-2025,17:26,Evening Snacks,82,Dosa,1,40,40,40,UPI,Rainy,4.3,Very Good,Friday
+26-09-2025,13:04,Lunch,15,Bisibele Bath,3,45,45,135,Card,Sunny,4.5,Excellent,Friday
+26-09-2025,08:31,Breakfast,69,Chapati,2,15,15,30,UPI,Windy,3.6,Average,Friday
+26-09-2025,13:57,Lunch,95,Chapati,1,15,15,15,UPI,Sunny,3.8,Good,Friday
+26-09-2025,16:50,Evening Snacks,60,Pani Puri,2,50,50,100,UPI,Rainy,3.9,Good,Friday
+26-09-2025,08:40,Breakfast,55,Tea,2,15,15,30,UPI,Rainy,4.6,Excellent,Friday
+26-09-2025,13:45,Lunch,96,Veg Biryani,1,50,50,50,UPI,Windy,4.2,Very Good,Friday
+26-09-2025,15:02,Evening Snacks,99,Pani Puri,1,30,30,30,Cash,Windy,3.5,Average,Friday
+26-09-2025,12:16,Lunch,16,North Indian Thali,1,45,45,45,UPI,Cloudy,4,Good,Friday
+26-09-2025,13:14,Lunch,17,Bisibele Bath,3,25,25,75,UPI,Sunny,3.9,Good,Friday
+26-09-2025,18:18,Evening Snacks,45,Pani Puri,1,25,25,25,UPI,Rainy,3.5,Average,Friday
+26-09-2025,12:54,Lunch,42,Fried Rice,3,15,15,45,UPI,Sunny,4,Good,Friday
+27-09-2025,19:08,Evening Snacks,8,Idly,1,25,25,25,UPI,Rainy,3.9,Good,Saturday
+27-09-2025,13:31,Lunch,44,Bisibele Bath,1,30,30,30,Cash,Sunny,3.9,Good,Saturday
+27-09-2025,19:15,Evening Snacks,18,Upma,2,30,30,60,UPI,Sunny,3.8,Good,Saturday
+27-09-2025,09:28,Breakfast,52,Coffee,2,35,35,70,UPI,Rainy,4.6,Excellent,Saturday
+27-09-2025,12:45,Lunch,91,Tea,3,50,50,150,UPI,Sunny,3.9,Good,Saturday
+27-09-2025,16:09,Evening Snacks,12,Sandwich,2,15,15,30,UPI,Sunny,4,Good,Saturday
+27-09-2025,15:37,Evening Snacks,84,Tea,1,25,25,25,UPI,Sunny,4,Good,Saturday
+27-09-2025,18:36,Evening Snacks,24,Samosa,3,15,15,45,UPI,Rainy,3.8,Good,Saturday
+27-09-2025,13:52,Lunch,32,Chapati,1,40,40,40,UPI,Sunny,4,Good,Saturday
+27-09-2025,19:37,Evening Snacks,31,Pani Puri,3,25,25,75,UPI,Rainy,4,Good,Saturday
+27-09-2025,15:58,Evening Snacks,77,Ice Cream,3,30,30,90,UPI,Sunny,4,Good,Saturday
+27-09-2025,19:46,Evening Snacks,32,South Indian Thali,1,90,90,90,UPI,Cloudy,3.7,Good,Saturday
+27-09-2025,12:10,Lunch,9,Ice Cream,1,50,50,50,Cash,Sunny,3.9,Good,Saturday
+27-09-2025,17:19,Evening Snacks,90,Sandwich,3,40,40,120,UPI,Rainy,4.3,Very Good,Saturday
+27-09-2025,18:22,Evening Snacks,53,Bisibele Bath,1,50,50,50,UPI,Rainy,3.9,Good,Saturday
+27-09-2025,08:47,Breakfast,70,Dosa,2,25,25,50,UPI,Sunny,4.1,Good,Saturday
+27-09-2025,12:27,Lunch,54,Idly,2,30,30,60,UPI,Sunny,4.1,Good,Saturday
+27-09-2025,13:59,Lunch,34,Coffee,1,35,35,35,Cash,Windy,4.2,Very Good,Saturday
+27-09-2025,12:34,Lunch,30,Tea,3,40,40,120,UPI,Sunny,4.2,Very Good,Saturday
+27-09-2025,12:27,Lunch,6,Bisibele Bath,3,15,15,45,UPI,Sunny,3.9,Good,Saturday
+27-09-2025,15:33,Evening Snacks,81,Bhel Puri,3,45,45,135,Cash,Cloudy,3.6,Average,Saturday
+27-09-2025,19:25,Evening Snacks,98,Dosa,3,40,40,120,UPI,Rainy,3.5,Average,Saturday
+27-09-2025,19:10,Evening Snacks,97,Sandwich,1,45,45,45,UPI,Sunny,4.4,Very Good,Saturday
+27-09-2025,13:30,Lunch,69,Fried Rice,1,50,50,50,Card,Sunny,4.3,Very Good,Saturday
+27-09-2025,17:34,Evening Snacks,26,Dosa,1,40,40,40,UPI,Sunny,4.3,Very Good,Saturday
+27-09-2025,15:54,Evening Snacks,16,Tea,3,70,70,210,UPI,Windy,4.3,Very Good,Saturday
+27-09-2025,18:09,Evening Snacks,76,Upma,1,30,30,30,UPI,Rainy,3.9,Good,Saturday
+27-09-2025,17:16,Evening Snacks,57,Ice Cream,2,30,30,60,Cash,Sunny,3.8,Good,Saturday
+27-09-2025,19:11,Evening Snacks,52,Sandwich,1,45,45,45,UPI,Rainy,3.6,Average,Saturday
+27-09-2025,18:55,Evening Snacks,30,French Fries,1,50,50,50,Cash,Rainy,3.6,Average,Saturday
+29-09-2025,08:01,Breakfast,25,Idly,1,40,40,40,UPI,Windy,4.5,Excellent,Monday
+29-09-2025,18:47,Evening Snacks,51,Dosa,1,40,40,40,UPI,Rainy,3.8,Good,Monday
+29-09-2025,13:40,Lunch,9,Tea,1,15,15,15,Cash,Sunny,4.4,Very Good,Monday
+29-09-2025,17:59,Evening Snacks,58,Samosa,1,15,15,15,UPI,Rainy,3.9,Good,Monday
+29-09-2025,12:34,Lunch,8,South Indian Thali,1,30,30,30,Cash,Windy,3.7,Good,Monday
+29-09-2025,19:56,Evening Snacks,21,Dosa,1,40,40,40,UPI,Cloudy,3.6,Average,Monday
+29-09-2025,13:39,Lunch,8,Juice,2,50,50,100,UPI,Sunny,3.8,Good,Monday
+29-09-2025,16:18,Evening Snacks,19,French Fries,1,40,40,40,Card,Cloudy,4.6,Excellent,Monday
+29-09-2025,12:59,Lunch,61,Ice Cream,3,15,15,45,UPI,Sunny,3.6,Average,Monday
+29-09-2025,18:05,Evening Snacks,48,Upma,1,30,30,30,UPI,Cloudy,4.8,Excellent,Monday
+29-09-2025,18:16,Evening Snacks,34,Dosa,1,40,40,40,Cash,Rainy,3.7,Good,Monday
+29-09-2025,15:27,Evening Snacks,69,Juice,3,90,90,270,UPI,Sunny,4.3,Very Good,Monday
+29-09-2025,08:24,Breakfast,13,Idly,2,50,50,100,Cash,Sunny,3.9,Good,Monday
+29-09-2025,12:06,Lunch,52,Tea,1,25,25,25,UPI,Sunny,3.9,Good,Monday
+29-09-2025,17:43,Evening Snacks,100,Tea,1,12,12,12,UPI,Rainy,3.5,Average,Monday
+29-09-2025,08:42,Breakfast,93,Chapati,2,45,45,90,UPI,Cloudy,4,Good,Monday
+29-09-2025,08:46,Breakfast,75,Idly,2,90,90,180,UPI,Cloudy,3.5,Average,Monday
+29-09-2025,08:59,Breakfast,8,Idly,1,15,15,15,UPI,Sunny,3.3,Average,Monday
+29-09-2025,15:17,Evening Snacks,2,Bhel Puri,3,12,12,36,UPI,Sunny,4,Good,Monday
+29-09-2025,17:55,Evening Snacks,84,Idly,1,25,25,25,UPI,Sunny,3.7,Good,Monday
+29-09-2025,12:11,Lunch,73,Tea,2,30,30,60,UPI,Sunny,4.7,Excellent,Monday
+29-09-2025,19:00,Evening Snacks,19,Pani Puri,2,25,25,50,UPI,Rainy,4.4,Very Good,Monday
+29-09-2025,13:42,Lunch,96,Veg Biryani,1,30,30,30,UPI,Windy,4.7,Excellent,Monday
+29-09-2025,19:06,Evening Snacks,9,Samosa,3,15,15,45,UPI,Rainy,3.7,Good,Monday
+29-09-2025,18:56,Evening Snacks,7,Bisibele Bath,2,50,50,100,UPI,Cloudy,4.1,Good,Monday
+29-09-2025,18:17,Evening Snacks,24,Juice,1,30,30,30,UPI,Cloudy,3,Average,Monday
+29-09-2025,13:22,Lunch,24,Idly,1,25,25,25,UPI,Sunny,3.9,Good,Monday
+29-09-2025,18:09,Evening Snacks,75,Dosa,1,40,40,40,UPI,Rainy,4,Good,Monday
+29-09-2025,13:45,Lunch,24,Juice,1,50,50,50,UPI,Sunny,4.1,Good,Monday
+29-09-2025,15:26,Evening Snacks,41,Bhel Puri,1,40,40,40,UPI,Cloudy,4,Good,Monday
+29-09-2025,12:16,Lunch,78,Dosa,2,90,90,180,UPI,Sunny,4,Good,Monday
+29-09-2025,17:06,Evening Snacks,89,Upma,1,30,30,30,UPI,Rainy,2.9,Average,Monday
+29-09-2025,15:44,Evening Snacks,14,Sandwich,1,50,50,50,UPI,Sunny,4.1,Good,Monday
+29-09-2025,15:14,Evening Snacks,75,Juice,1,12,12,12,UPI,Sunny,4.2,Very Good,Monday
+29-09-2025,12:55,Lunch,94,North Indian Thali,1,30,30,30,UPI,Sunny,4.5,Excellent,Monday
+29-09-2025,18:45,Evening Snacks,66,South Indian Thali,2,90,90,180,Cash,Cloudy,4.1,Good,Monday
+29-09-2025,12:27,Lunch,2,Coffee,1,50,50,50,UPI,Sunny,3.9,Good,Monday
+29-09-2025,15:39,Evening Snacks,96,Ice Cream,2,30,30,60,UPI,Sunny,4.4,Very Good,Monday
+29-09-2025,13:24,Lunch,15,Chapati,3,15,15,45,UPI,Sunny,3.1,Average,Monday
+29-09-2025,08:37,Breakfast,11,Tea,1,30,30,30,UPI,Windy,3.8,Good,Monday
+29-09-2025,12:06,Lunch,99,Chapati,3,15,15,45,UPI,Sunny,3.7,Good,Monday
+29-09-2025,13:33,Lunch,42,Bisibele Bath,1,40,40,40,UPI,Cloudy,4,Good,Monday
+29-09-2025,12:34,Lunch,6,Veg Biryani,2,90,90,180,UPI,Sunny,3.1,Average,Monday
+29-09-2025,12:28,Lunch,41,Juice,1,15,15,15,UPI,Sunny,4.5,Excellent,Monday
+29-09-2025,12:18,Lunch,9,Chapati,1,30,30,30,UPI,Cloudy,3.9,Good,Monday
+29-09-2025,13:33,Lunch,2,Bisibele Bath,1,30,30,30,UPI,Sunny,4.1,Good,Monday
+29-09-2025,17:00,Evening Snacks,8,Sandwich,1,45,45,45,UPI,Rainy,4.1,Good,Monday
+29-09-2025,09:06,Breakfast,96,Dosa,1,30,30,30,Cash,Cloudy,4.5,Excellent,Monday
+29-09-2025,18:56,Evening Snacks,1,Samosa,3,15,15,45,UPI,Rainy,3.3,Average,Monday
+29-09-2025,16:13,Evening Snacks,52,Bhel Puri,1,40,40,40,UPI,Rainy,4,Good,Monday
+29-09-2025,09:49,Breakfast,31,Chapati,1,50,50,50,UPI,Sunny,4.5,Excellent,Monday
+29-09-2025,17:51,Evening Snacks,87,Sandwich,3,45,45,135,UPI,Sunny,4,Good,Monday
+29-09-2025,19:27,Evening Snacks,6,Sandwich,3,45,45,135,UPI,Sunny,3.6,Average,Monday
+29-09-2025,09:41,Breakfast,71,Chapati,1,50,50,50,UPI,Rainy,3.8,Good,Monday
+29-09-2025,15:33,Evening Snacks,3,Coffee,1,30,30,30,UPI,Sunny,3.8,Good,Monday
+29-09-2025,19:30,Evening Snacks,56,Bhel Puri,1,30,30,30,UPI,Cloudy,3.7,Good,Monday
+29-09-2025,18:02,Evening Snacks,67,Juice,1,25,25,25,UPI,Sunny,3.9,Good,Monday
+29-09-2025,13:24,Lunch,89,Ice Cream,2,70,70,140,UPI,Sunny,4.6,Excellent,Monday
+29-09-2025,12:18,Lunch,20,Bisibele Bath,1,15,15,15,UPI,Windy,3.8,Good,Monday
+29-09-2025,12:33,Lunch,9,Dosa,1,30,30,30,UPI,Windy,3.8,Good,Monday
+29-09-2025,13:37,Lunch,4,Tea,2,30,30,60,UPI,Sunny,4.2,Very Good,Monday
+29-09-2025,14:00,Lunch,37,South Indian Thali,1,15,15,15,UPI,Sunny,3.9,Good,Monday
+29-09-2025,18:09,Evening Snacks,92,South Indian Thali,1,90,90,90,UPI,Cloudy,3.5,Average,Monday
+29-09-2025,09:10,Breakfast,18,Dosa,1,30,30,30,Cash,Rainy,4,Good,Monday
+29-09-2025,17:23,Evening Snacks,66,Tea,1,40,40,40,UPI,Rainy,4,Good,Monday
+29-09-2025,16:38,Evening Snacks,51,Pani Puri,1,15,15,15,UPI,Cloudy,4.4,Very Good,Monday
+29-09-2025,08:44,Breakfast,34,Coffee,2,40,40,80,Cash,Rainy,3.6,Average,Monday
+29-09-2025,12:17,Lunch,82,Tea,2,30,30,60,UPI,Sunny,4.4,Very Good,Monday
+29-09-2025,12:20,Lunch,3,Ice Cream,1,50,50,50,UPI,Sunny,4,Good,Monday
+29-09-2025,12:20,Lunch,18,Idly,3,25,25,75,UPI,Sunny,3.6,Average,Monday
+29-09-2025,17:27,Evening Snacks,81,Bhel Puri,1,30,30,30,UPI,Rainy,3.5,Average,Monday
+29-09-2025,18:23,Evening Snacks,86,Ice Cream,2,15,15,30,UPI,Sunny,4.8,Excellent,Monday
+29-09-2025,12:04,Lunch,29,Ice Cream,1,90,90,90,UPI,Sunny,3.9,Good,Monday
+29-09-2025,12:52,Lunch,72,North Indian Thali,1,25,25,25,UPI,Sunny,4.4,Very Good,Monday
+29-09-2025,15:58,Evening Snacks,26,French Fries,1,25,25,25,UPI,Sunny,3.3,Average,Monday
+29-09-2025,16:58,Evening Snacks,17,Pani Puri,1,25,25,25,UPI,Cloudy,5,Excellent,Monday
+29-09-2025,15:33,Evening Snacks,64,Juice,1,30,30,30,Cash,Sunny,4.4,Very Good,Monday
+29-09-2025,13:36,Lunch,40,North Indian Thali,1,30,30,30,UPI,Sunny,3.9,Good,Monday
+29-09-2025,18:18,Evening Snacks,54,Sandwich,2,40,40,80,UPI,Rainy,3.9,Good,Monday
+29-09-2025,18:16,Evening Snacks,14,French Fries,1,50,50,50,UPI,Cloudy,4.3,Very Good,Monday
+30-09-2025,08:30,Breakfast,94,Tea,1,50,50,50,UPI,Cloudy,4.3,Very Good,Tuesday
+30-09-2025,15:19,Evening Snacks,54,Ice Cream,3,30,30,90,UPI,Sunny,4.1,Good,Tuesday
+30-09-2025,15:52,Evening Snacks,97,Juice,1,40,40,40,UPI,Sunny,4,Good,Tuesday
+30-09-2025,17:32,Evening Snacks,51,Pani Puri,1,25,25,25,UPI,Sunny,4.2,Very Good,Tuesday
+30-09-2025,19:10,Evening Snacks,45,Juice,2,30,30,60,Cash,Cloudy,3.3,Average,Tuesday
+30-09-2025,17:39,Evening Snacks,80,Upma,1,30,30,30,UPI,Rainy,3.9,Good,Tuesday
+30-09-2025,18:44,Evening Snacks,80,Chapati,1,35,35,35,UPI,Sunny,3.3,Average,Tuesday
+30-09-2025,16:46,Evening Snacks,8,Coffee,3,25,25,75,Cash,Rainy,4.2,Very Good,Tuesday
+30-09-2025,12:01,Lunch,66,North Indian Thali,1,90,90,90,UPI,Sunny,3.7,Good,Tuesday
+30-09-2025,16:01,Evening Snacks,31,Tea,1,15,15,15,UPI,Cloudy,3.4,Average,Tuesday
+30-09-2025,17:53,Evening Snacks,95,Idly,2,25,25,50,Card,Cloudy,3.7,Good,Tuesday
+30-09-2025,12:19,Lunch,82,Tea,3,40,40,120,UPI,Sunny,4.1,Good,Tuesday
+30-09-2025,19:34,Evening Snacks,74,Dosa,1,40,40,40,UPI,Sunny,3.9,Good,Tuesday
+30-09-2025,08:51,Breakfast,99,Coffee,1,50,50,50,UPI,Sunny,3.5,Average,Tuesday
+30-09-2025,09:30,Breakfast,70,Idly,1,90,90,90,UPI,Windy,3.3,Average,Tuesday
+30-09-2025,08:18,Breakfast,30,Bisibele Bath,2,30,30,60,UPI,Sunny,4,Good,Tuesday
+30-09-2025,13:26,Lunch,65,Ice Cream,1,50,50,50,UPI,Sunny,3.8,Good,Tuesday
+30-09-2025,19:15,Evening Snacks,69,Samosa,2,15,15,30,UPI,Cloudy,3.9,Good,Tuesday
+30-09-2025,18:43,Evening Snacks,45,Juice,1,30,30,30,UPI,Cloudy,3.9,Good,Tuesday
+30-09-2025,17:11,Evening Snacks,40,Idly,1,25,25,25,UPI,Rainy,4.2,Very Good,Tuesday
+30-09-2025,15:35,Evening Snacks,32,Coffee,1,50,50,50,UPI,Sunny,4.3,Very Good,Tuesday
+30-09-2025,12:51,Lunch,55,Idly,3,50,50,150,UPI,Sunny,4.1,Good,Tuesday
+30-09-2025,18:01,Evening Snacks,50,Dosa,3,40,40,120,UPI,Sunny,3.9,Good,Tuesday
+30-09-2025,17:51,Evening Snacks,14,Idly,1,25,25,25,UPI,Rainy,4,Good,Tuesday
+30-09-2025,16:45,Evening Snacks,5,Pani Puri,1,25,25,25,UPI,Rainy,3.9,Good,Tuesday
+30-09-2025,13:57,Lunch,14,Tea,3,50,50,150,Card,Sunny,3.3,Average,Tuesday
+30-09-2025,17:25,Evening Snacks,54,Sandwich,3,45,45,135,UPI,Sunny,4.4,Very Good,Tuesday
+30-09-2025,17:26,Evening Snacks,98,Juice,1,30,30,30,UPI,Cloudy,4.4,Very Good,Tuesday
+30-09-2025,19:37,Evening Snacks,13,Bhel Puri,1,30,30,30,UPI,Rainy,4.8,Excellent,Tuesday
+30-09-2025,16:48,Evening Snacks,47,French Fries,1,50,50,50,UPI,Sunny,4.9,Excellent,Tuesday
+30-09-2025,15:09,Evening Snacks,29,Juice,1,12,12,12,UPI,Sunny,3.5,Average,Tuesday
+30-09-2025,16:30,Evening Snacks,72,French Fries,1,25,25,25,UPI,Rainy,3.9,Good,Tuesday
+30-09-2025,18:53,Evening Snacks,77,South Indian Thali,2,90,90,180,Card,Rainy,5,Excellent,Tuesday
+30-09-2025,08:29,Breakfast,14,Chapati,2,40,40,80,UPI,Sunny,4,Good,Tuesday
+30-09-2025,09:28,Breakfast,61,Poori,2,40,40,80,UPI,Rainy,4.1,Good,Tuesday
+30-09-2025,12:25,Lunch,82,South Indian Thali,3,15,15,45,UPI,Cloudy,3.4,Average,Tuesday
+30-09-2025,13:02,Lunch,63,Tea,1,40,40,40,UPI,Windy,4.1,Good,Tuesday
+30-09-2025,17:10,Evening Snacks,14,Juice,3,30,30,90,UPI,Sunny,4.8,Excellent,Tuesday
+30-09-2025,12:36,Lunch,47,Tea,3,25,25,75,UPI,Sunny,4.5,Excellent,Tuesday
+30-09-2025,16:04,Evening Snacks,86,Tea,1,25,25,25,UPI,Rainy,3.8,Good,Tuesday
+30-09-2025,13:38,Lunch,24,Juice,1,30,30,30,UPI,Sunny,3.8,Good,Tuesday
+30-09-2025,17:31,Evening Snacks,78,Samosa,2,15,15,30,Cash,Cloudy,3.5,Average,Tuesday
+30-09-2025,19:21,Evening Snacks,51,Juice,1,30,30,30,Cash,Sunny,3.7,Good,Tuesday
+30-09-2025,15:49,Evening Snacks,9,Tea,1,90,90,90,UPI,Windy,3.2,Average,Tuesday
+30-09-2025,15:15,Evening Snacks,90,Juice,1,15,15,15,Card,Sunny,4,Good,Tuesday
+30-09-2025,17:36,Evening Snacks,53,Bisibele Bath,1,50,50,50,UPI,Rainy,4.6,Excellent,Tuesday
+30-09-2025,18:39,Evening Snacks,28,Idly,1,25,25,25,UPI,Rainy,4.1,Good,Tuesday
+30-09-2025,14:00,Lunch,21,South Indian Thali,1,25,25,25,UPI,Windy,4.5,Excellent,Tuesday
+30-09-2025,19:59,Evening Snacks,74,Pani Puri,1,25,25,25,UPI,Rainy,4.4,Very Good,Tuesday
+30-09-2025,13:49,Lunch,4,Veg Biryani,1,35,35,35,UPI,Sunny,3.8,Good,Tuesday
+30-09-2025,12:13,Lunch,2,Chapati,1,90,90,90,UPI,Cloudy,3.7,Good,Tuesday
+30-09-2025,17:11,Evening Snacks,49,Dosa,1,40,40,40,UPI,Rainy,3.7,Good,Tuesday
+30-09-2025,19:20,Evening Snacks,92,Bhel Puri,2,30,30,60,UPI,Cloudy,3.3,Average,Tuesday
+30-09-2025,13:51,Lunch,40,North Indian Thali,1,30,30,30,UPI,Sunny,4,Good,Tuesday
+30-09-2025,08:00,Breakfast,98,Bisibele Bath,1,25,25,25,UPI,Rainy,2.8,Average,Tuesday
+30-09-2025,18:47,Evening Snacks,63,Sandwich,1,45,45,45,UPI,Cloudy,4.2,Very Good,Tuesday
+30-09-2025,19:29,Evening Snacks,41,Juice,1,30,30,30,UPI,Cloudy,4,Good,Tuesday
+30-09-2025,12:43,Lunch,18,Dosa,1,45,45,45,UPI,Sunny,4.2,Very Good,Tuesday
+30-09-2025,18:54,Evening Snacks,18,Bisibele Bath,1,50,50,50,UPI,Sunny,4.4,Very Good,Tuesday
+30-09-2025,16:37,Evening Snacks,47,Ice Cream,2,35,35,70,UPI,Sunny,4.1,Good,Tuesday
+30-09-2025,13:49,Lunch,60,South Indian Thali,3,25,25,75,UPI,Cloudy,4.7,Excellent,Tuesday
+30-09-2025,12:49,Lunch,56,Sandwich,2,40,40,80,Card,Sunny,4.2,Very Good,Tuesday
+30-09-2025,18:34,Evening Snacks,60,South Indian Thali,2,90,90,180,UPI,Cloudy,3.7,Good,Tuesday
+30-09-2025,08:08,Breakfast,27,Chapati,2,40,40,80,UPI,Sunny,3.9,Good,Tuesday
+30-09-2025,18:58,Evening Snacks,97,Bisibele Bath,1,50,50,50,Cash,Rainy,3.1,Average,Tuesday
+30-09-2025,16:22,Evening Snacks,28,Coffee,1,90,90,90,UPI,Rainy,3.6,Average,Tuesday
+30-09-2025,15:39,Evening Snacks,57,Juice,2,80,80,160,UPI,Sunny,3.8,Good,Tuesday
+30-09-2025,18:17,Evening Snacks,50,Ice Cream,2,30,30,60,UPI,Sunny,4.2,Very Good,Tuesday
+30-09-2025,12:22,Lunch,88,Tea,2,30,30,60,UPI,Sunny,3.7,Good,Tuesday
+30-09-2025,12:18,Lunch,39,Tea,3,40,40,120,UPI,Sunny,3.5,Average,Tuesday
+30-09-2025,15:54,Evening Snacks,84,Juice,1,40,40,40,UPI,Sunny,3.2,Average,Tuesday
+30-09-2025,17:36,Evening Snacks,44,Ice Cream,3,12,12,36,UPI,Sunny,3.8,Good,Tuesday
+30-09-2025,18:42,Evening Snacks,46,Juice,2,90,90,180,UPI,Sunny,4.8,Excellent,Tuesday
+30-09-2025,13:54,Lunch,61,Idly,3,90,90,270,UPI,Sunny,4.1,Good,Tuesday
+30-09-2025,09:54,Breakfast,67,Idly,2,50,50,100,UPI,Cloudy,4.4,Very Good,Tuesday
+30-09-2025,15:29,Evening Snacks,100,Juice,1,25,25,25,UPI,Sunny,3.6,Average,Tuesday
+30-09-2025,18:06,Evening Snacks,88,Bisibele Bath,1,50,50,50,UPI,Rainy,3.4,Average,Tuesday
+30-09-2025,19:34,Evening Snacks,54,South Indian Thali,3,90,90,270,Card,Rainy,3.5,Average,Tuesday
+30-09-2025,09:55,Breakfast,55,Idly,2,15,15,30,UPI,Rainy,4,Good,Tuesday
+30-09-2025,18:20,Evening Snacks,53,Bhel Puri,1,30,30,30,UPI,Rainy,3.2,Average,Tuesday
+06-10-2025,09:00,Breakfast,64,Dosa,2,15,15,30,Cash,Rainy,3.6,Average,Monday
+06-10-2025,12:32,Lunch,76,Tea,3,90,90,270,Cash,Sunny,3.8,Good,Monday
+06-10-2025,18:01,Evening Snacks,62,Dosa,1,40,40,40,UPI,Cloudy,3.5,Average,Monday
+06-10-2025,17:33,Evening Snacks,8,Bhel Puri,1,30,30,30,Cash,Sunny,3.2,Average,Monday
+06-10-2025,14:00,Lunch,14,Dosa,1,40,40,40,Card,Cloudy,4.1,Good,Monday
+06-10-2025,08:59,Breakfast,55,Bisibele Bath,2,25,25,50,UPI,Rainy,4,Good,Monday
+06-10-2025,13:02,Lunch,100,Fried Rice,1,90,90,90,UPI,Sunny,4.3,Very Good,Monday
+06-10-2025,13:53,Lunch,35,Bisibele Bath,1,50,50,50,UPI,Sunny,3.6,Average,Monday
+06-10-2025,13:10,Lunch,14,Veg Biryani,1,25,25,25,UPI,Sunny,4.3,Very Good,Monday
+06-10-2025,17:02,Evening Snacks,24,Samosa,1,15,15,15,UPI,Rainy,4.6,Excellent,Monday
+06-10-2025,18:45,Evening Snacks,24,Idly,1,25,25,25,Cash,Rainy,4.1,Good,Monday
+06-10-2025,13:03,Lunch,70,Bisibele Bath,2,25,25,50,UPI,Windy,3.8,Good,Monday
+06-10-2025,18:55,Evening Snacks,28,Juice,1,30,30,30,UPI,Sunny,4.1,Good,Monday
+06-10-2025,12:24,Lunch,44,Tea,2,40,40,80,Cash,Sunny,3.7,Good,Monday
+06-10-2025,08:04,Breakfast,24,Poori,1,15,15,15,UPI,Sunny,3.7,Good,Monday
+06-10-2025,17:46,Evening Snacks,74,Sandwich,2,40,40,80,UPI,Cloudy,4.3,Very Good,Monday
+06-10-2025,18:52,Evening Snacks,56,Samosa,2,15,15,30,UPI,Rainy,3.9,Good,Monday
+06-10-2025,17:01,Evening Snacks,95,Tea,1,12,12,12,UPI,Rainy,4.5,Excellent,Monday
+06-10-2025,18:23,Evening Snacks,79,Idly,1,25,25,25,Cash,Cloudy,3.8,Good,Monday
+06-10-2025,16:10,Evening Snacks,29,Juice,3,40,40,120,Cash,Sunny,3.9,Good,Monday
+06-10-2025,15:16,Evening Snacks,24,Juice,2,30,30,60,UPI,Sunny,3.8,Good,Monday
+06-10-2025,17:40,Evening Snacks,45,French Fries,1,50,50,50,Cash,Rainy,3.6,Average,Monday
+06-10-2025,09:38,Breakfast,17,Upma,1,50,50,50,UPI,Windy,4.3,Very Good,Monday
+06-10-2025,18:55,Evening Snacks,59,Pani Puri,1,25,25,25,UPI,Cloudy,4.9,Excellent,Monday
+06-10-2025,15:38,Evening Snacks,63,Juice,3,15,15,45,UPI,Sunny,3.8,Good,Monday
+06-10-2025,16:20,Evening Snacks,65,Coffee,1,25,25,25,UPI,Sunny,3.7,Good,Monday
+06-10-2025,13:44,Lunch,47,Sandwich,2,90,90,180,Card,Sunny,3.7,Good,Monday
+06-10-2025,13:51,Lunch,2,Tea,1,40,40,40,Cash,Sunny,3.7,Good,Monday
+06-10-2025,17:26,Evening Snacks,24,Samosa,1,15,15,15,Card,Rainy,4.7,Excellent,Monday
+06-10-2025,08:47,Breakfast,80,Idly,1,30,30,30,UPI,Sunny,3.7,Good,Monday
+06-10-2025,13:09,Lunch,29,Veg Biryani,3,40,40,120,UPI,Sunny,3.8,Good,Monday
+06-10-2025,18:29,Evening Snacks,1,Upma,1,30,30,30,UPI,Rainy,3.5,Average,Monday
+06-10-2025,12:08,Lunch,84,North Indian Thali,1,40,40,40,UPI,Sunny,4.1,Good,Monday
+06-10-2025,12:07,Lunch,44,Tea,2,25,25,50,UPI,Sunny,4,Good,Monday
+06-10-2025,13:31,Lunch,52,Tea,1,40,40,40,UPI,Cloudy,3.5,Average,Monday
+06-10-2025,16:10,Evening Snacks,80,French Fries,1,30,30,30,UPI,Cloudy,3.6,Average,Monday
+06-10-2025,18:02,Evening Snacks,32,Juice,1,30,30,30,UPI,Rainy,4.6,Excellent,Monday
+06-10-2025,19:31,Evening Snacks,4,Dosa,3,40,40,120,UPI,Cloudy,4,Good,Monday
+06-10-2025,16:34,Evening Snacks,97,Bhel Puri,1,40,40,40,UPI,Rainy,4,Good,Monday
+06-10-2025,09:52,Breakfast,97,Dosa,1,25,25,25,UPI,Windy,4,Good,Monday
+06-10-2025,13:56,Lunch,18,Veg Biryani,3,15,15,45,UPI,Windy,4.6,Excellent,Monday
+06-10-2025,12:31,Lunch,62,Juice,2,45,45,90,UPI,Sunny,3.6,Average,Monday
+06-10-2025,12:47,Lunch,50,Dosa,1,40,40,40,UPI,Sunny,3.8,Good,Monday
+06-10-2025,16:50,Evening Snacks,27,Tea,3,25,25,75,UPI,Cloudy,3.9,Good,Monday
+06-10-2025,13:41,Lunch,51,Tea,1,15,15,15,UPI,Sunny,3.3,Average,Monday
+06-10-2025,08:29,Breakfast,93,Coffee,1,90,90,90,UPI,Sunny,3.6,Average,Monday
+06-10-2025,12:54,Lunch,41,South Indian Thali,2,12,12,24,UPI,Windy,4.4,Very Good,Monday
+06-10-2025,19:10,Evening Snacks,19,Upma,1,30,30,30,Cash,Cloudy,4.3,Very Good,Monday
+06-10-2025,09:19,Breakfast,4,Bisibele Bath,1,40,40,40,UPI,Cloudy,4.4,Very Good,Monday
+06-10-2025,15:20,Evening Snacks,35,Juice,3,45,45,135,UPI,Cloudy,3.8,Good,Monday
+06-10-2025,18:09,Evening Snacks,9,Dosa,1,40,40,40,UPI,Rainy,3.8,Good,Monday
+06-10-2025,18:24,Evening Snacks,35,Ice Cream,1,25,25,25,UPI,Sunny,3.3,Average,Monday
+06-10-2025,17:35,Evening Snacks,39,Samosa,1,15,15,15,UPI,Rainy,4.4,Very Good,Monday
+06-10-2025,15:06,Evening Snacks,76,Ice Cream,2,30,30,60,UPI,Sunny,4.4,Very Good,Monday
+06-10-2025,15:33,Evening Snacks,48,Ice Cream,1,15,15,15,Cash,Sunny,4.4,Very Good,Monday
+06-10-2025,17:33,Evening Snacks,70,Coffee,3,15,15,45,UPI,Rainy,4.6,Excellent,Monday
+06-10-2025,18:05,Evening Snacks,15,Ice Cream,3,30,30,90,UPI,Sunny,4.2,Very Good,Monday
+06-10-2025,13:58,Lunch,62,Ice Cream,1,50,50,50,UPI,Sunny,4.6,Excellent,Monday
+06-10-2025,09:03,Breakfast,27,Idly,1,50,50,50,UPI,Cloudy,3.9,Good,Monday
+06-10-2025,19:30,Evening Snacks,80,Bisibele Bath,1,50,50,50,UPI,Cloudy,3.3,Average,Monday
+06-10-2025,12:59,Lunch,56,South Indian Thali,1,70,70,70,UPI,Cloudy,4.3,Very Good,Monday
+06-10-2025,09:06,Breakfast,95,Upma,1,25,25,25,UPI,Rainy,3.3,Average,Monday
+06-10-2025,16:46,Evening Snacks,90,Sandwich,1,15,15,15,UPI,Rainy,4.1,Good,Monday
+06-10-2025,19:02,Evening Snacks,3,South Indian Thali,1,90,90,90,Cash,Rainy,4.4,Very Good,Monday
+06-10-2025,15:50,Evening Snacks,100,Juice,3,40,40,120,UPI,Sunny,4.1,Good,Monday
+06-10-2025,13:58,Lunch,95,Fried Rice,1,30,30,30,UPI,Sunny,4.9,Excellent,Monday
+06-10-2025,09:14,Breakfast,23,Coffee,1,40,40,40,UPI,Cloudy,3.2,Average,Monday
+06-10-2025,17:02,Evening Snacks,94,Veg Biryani,1,80,80,80,Cash,Rainy,4,Good,Monday
+06-10-2025,18:43,Evening Snacks,58,Sandwich,1,45,45,45,UPI,Rainy,4,Good,Monday
+06-10-2025,15:24,Evening Snacks,83,Pani Puri,1,45,45,45,UPI,Sunny,3.5,Average,Monday
+06-10-2025,08:21,Breakfast,12,Upma,1,30,30,30,UPI,Rainy,3.5,Average,Monday
+06-10-2025,15:22,Evening Snacks,78,Ice Cream,1,25,25,25,Cash,Sunny,3.7,Good,Monday
+06-10-2025,15:50,Evening Snacks,6,Pani Puri,2,50,50,100,UPI,Sunny,3.6,Average,Monday
+06-10-2025,12:00,Lunch,7,Fried Rice,1,40,40,40,UPI,Sunny,4,Good,Monday
+06-10-2025,12:24,Lunch,83,Tea,3,25,25,75,UPI,Sunny,3.8,Good,Monday
+06-10-2025,08:29,Breakfast,74,Chapati,1,25,25,25,UPI,Windy,4.1,Good,Monday
+06-10-2025,13:37,Lunch,18,Tea,1,70,70,70,UPI,Sunny,4.3,Very Good,Monday
+06-10-2025,12:59,Lunch,29,Sandwich,3,25,25,75,UPI,Sunny,4.2,Very Good,Monday
+06-10-2025,19:57,Evening Snacks,68,South Indian Thali,1,90,90,90,UPI,Rainy,3.8,Good,Monday
+06-10-2025,16:24,Evening Snacks,52,French Fries,1,50,50,50,UPI,Rainy,4.1,Good,Monday
+07-10-2025,18:47,Evening Snacks,17,South Indian Thali,2,90,90,180,UPI,Rainy,4.4,Very Good,Tuesday
+07-10-2025,13:30,Lunch,2,Tea,1,30,30,30,UPI,Sunny,4.2,Very Good,Tuesday
+07-10-2025,15:29,Evening Snacks,55,Juice,1,40,40,40,UPI,Sunny,4.7,Excellent,Tuesday
+07-10-2025,15:54,Evening Snacks,87,French Fries,1,40,40,40,UPI,Cloudy,4.4,Very Good,Tuesday
+07-10-2025,13:51,Lunch,2,Idly,1,45,45,45,Cash,Sunny,4.7,Excellent,Tuesday
+07-10-2025,19:38,Evening Snacks,56,Upma,1,30,30,30,UPI,Cloudy,3,Average,Tuesday
+07-10-2025,12:25,Lunch,36,Coffee,1,40,40,40,UPI,Cloudy,4,Good,Tuesday
+07-10-2025,13:35,Lunch,61,Tea,2,90,90,180,Cash,Sunny,3.9,Good,Tuesday
+07-10-2025,19:13,Evening Snacks,97,South Indian Thali,2,90,90,180,UPI,Sunny,4,Good,Tuesday
+07-10-2025,13:28,Lunch,38,Juice,1,50,50,50,UPI,Sunny,3.7,Good,Tuesday
+07-10-2025,15:05,Evening Snacks,9,Tea,2,30,30,60,UPI,Windy,4.2,Very Good,Tuesday
+07-10-2025,12:43,Lunch,3,North Indian Thali,2,35,35,70,UPI,Sunny,3.3,Average,Tuesday
+07-10-2025,19:06,Evening Snacks,6,Dosa,1,40,40,40,UPI,Rainy,4.2,Very Good,Tuesday
+07-10-2025,12:28,Lunch,10,North Indian Thali,1,50,50,50,Card,Sunny,3.7,Good,Tuesday
+07-10-2025,15:28,Evening Snacks,26,Pani Puri,1,50,50,50,UPI,Sunny,3.8,Good,Tuesday
+07-10-2025,19:26,Evening Snacks,22,South Indian Thali,1,90,90,90,UPI,Cloudy,4.2,Very Good,Tuesday
+07-10-2025,19:17,Evening Snacks,98,Sandwich,2,45,45,90,UPI,Sunny,4,Good,Tuesday
+07-10-2025,13:12,Lunch,23,Sandwich,2,30,30,60,UPI,Sunny,4.4,Very Good,Tuesday
+07-10-2025,16:33,Evening Snacks,1,Tea,1,25,25,25,UPI,Cloudy,3.6,Average,Tuesday
+07-10-2025,13:04,Lunch,62,South Indian Thali,1,50,50,50,Cash,Windy,4,Good,Tuesday
+07-10-2025,17:44,Evening Snacks,31,Poori,1,45,45,45,UPI,Rainy,4.4,Very Good,Tuesday
+07-10-2025,19:34,Evening Snacks,75,French Fries,1,50,50,50,Card,Rainy,4.1,Good,Tuesday
+07-10-2025,13:08,Lunch,7,Veg Biryani,2,30,30,60,UPI,Sunny,4.2,Very Good,Tuesday
+07-10-2025,16:22,Evening Snacks,29,Coffee,1,45,45,45,UPI,Cloudy,4.4,Very Good,Tuesday
+07-10-2025,16:56,Evening Snacks,7,Juice,2,30,30,60,UPI,Cloudy,3.8,Good,Tuesday
+07-10-2025,17:21,Evening Snacks,54,French Fries,1,50,50,50,UPI,Sunny,3.8,Good,Tuesday
+07-10-2025,18:59,Evening Snacks,97,Bhel Puri,2,30,30,60,UPI,Rainy,4.2,Very Good,Tuesday
+07-10-2025,13:58,Lunch,48,Coffee,1,40,40,40,Cash,Windy,3.9,Good,Tuesday
+07-10-2025,13:28,Lunch,96,Chapati,3,80,80,240,UPI,Sunny,4.4,Very Good,Tuesday
+07-10-2025,17:00,Evening Snacks,90,Bhel Puri,2,40,40,80,UPI,Rainy,4.1,Good,Tuesday
+07-10-2025,15:14,Evening Snacks,43,French Fries,1,45,45,45,UPI,Sunny,3.8,Good,Tuesday
+07-10-2025,19:46,Evening Snacks,47,Idly,1,25,25,25,UPI,Cloudy,4.1,Good,Tuesday
+07-10-2025,18:49,Evening Snacks,30,Bisibele Bath,1,50,50,50,Cash,Rainy,3.6,Average,Tuesday
+07-10-2025,12:34,Lunch,28,Tea,1,15,15,15,UPI,Sunny,4.4,Very Good,Tuesday
+07-10-2025,13:22,Lunch,52,Idly,1,25,25,25,UPI,Sunny,3.4,Average,Tuesday
+07-10-2025,17:30,Evening Snacks,54,Dosa,1,40,40,40,UPI,Rainy,4.5,Excellent,Tuesday
+07-10-2025,19:01,Evening Snacks,3,Sandwich,3,45,45,135,Card,Cloudy,4.1,Good,Tuesday
+07-10-2025,16:05,Evening Snacks,98,Sandwich,3,50,50,150,UPI,Cloudy,3.9,Good,Tuesday
+07-10-2025,17:11,Evening Snacks,74,South Indian Thali,1,90,90,90,UPI,Cloudy,4.3,Very Good,Tuesday
+07-10-2025,13:27,Lunch,89,Chapati,3,40,40,120,UPI,Windy,4.2,Very Good,Tuesday
+07-10-2025,19:08,Evening Snacks,95,Coffee,1,15,15,15,UPI,Sunny,4.5,Excellent,Tuesday
+07-10-2025,19:43,Evening Snacks,74,Juice,1,30,30,30,UPI,Sunny,4.5,Excellent,Tuesday
+07-10-2025,12:15,Lunch,83,Veg Biryani,1,90,90,90,UPI,Cloudy,4.1,Good,Tuesday
+07-10-2025,13:29,Lunch,88,North Indian Thali,2,25,25,50,Cash,Windy,3.7,Good,Tuesday
+07-10-2025,12:52,Lunch,98,Idly,1,30,30,30,UPI,Sunny,3.8,Good,Tuesday
+07-10-2025,12:20,Lunch,61,Juice,1,12,12,12,UPI,Sunny,4,Good,Tuesday
+07-10-2025,19:28,Evening Snacks,79,Sandwich,3,45,45,135,UPI,Rainy,4.4,Very Good,Tuesday
+07-10-2025,19:25,Evening Snacks,20,South Indian Thali,3,90,90,270,UPI,Rainy,3.8,Good,Tuesday
+07-10-2025,17:52,Evening Snacks,95,South Indian Thali,2,90,90,180,UPI,Rainy,3.9,Good,Tuesday
+07-10-2025,16:45,Evening Snacks,52,Pani Puri,1,15,15,15,UPI,Cloudy,4.7,Excellent,Tuesday
+07-10-2025,12:03,Lunch,69,Sandwich,3,30,30,90,Cash,Sunny,4,Good,Tuesday
+07-10-2025,18:00,Evening Snacks,42,Bhel Puri,1,30,30,30,UPI,Rainy,3.7,Good,Tuesday
+07-10-2025,19:43,Evening Snacks,100,Dosa,1,40,40,40,UPI,Rainy,4.3,Very Good,Tuesday
+07-10-2025,15:53,Evening Snacks,77,French Fries,2,25,25,50,UPI,Sunny,4,Good,Tuesday
+07-10-2025,08:43,Breakfast,48,Tea,1,90,90,90,UPI,Rainy,3.4,Average,Tuesday
+07-10-2025,19:15,Evening Snacks,30,Tea,1,12,12,12,UPI,Rainy,4.4,Very Good,Tuesday
+07-10-2025,18:11,Evening Snacks,89,French Fries,1,50,50,50,Cash,Rainy,3.7,Good,Tuesday
+07-10-2025,17:19,Evening Snacks,54,Bhel Puri,1,30,30,30,UPI,Sunny,4,Good,Tuesday
+07-10-2025,16:58,Evening Snacks,83,Bhel Puri,2,45,45,90,UPI,Rainy,4,Good,Tuesday
+07-10-2025,16:26,Evening Snacks,75,Coffee,3,50,50,150,Card,Rainy,4.1,Good,Tuesday
+07-10-2025,17:13,Evening Snacks,99,Bisibele Bath,1,50,50,50,UPI,Rainy,3.1,Average,Tuesday
+07-10-2025,19:48,Evening Snacks,12,Coffee,3,40,40,120,UPI,Rainy,3.9,Good,Tuesday
+07-10-2025,10:00,Breakfast,61,Tea,1,45,45,45,UPI,Sunny,4.4,Very Good,Tuesday
+07-10-2025,17:39,Evening Snacks,58,Pani Puri,1,25,25,25,UPI,Cloudy,4.5,Excellent,Tuesday
+07-10-2025,13:05,Lunch,82,Fried Rice,3,70,70,210,UPI,Cloudy,3.6,Average,Tuesday
+07-10-2025,15:51,Evening Snacks,54,Juice,3,80,80,240,UPI,Sunny,4.4,Very Good,Tuesday
+07-10-2025,13:51,Lunch,68,Chapati,1,50,50,50,UPI,Windy,3.7,Good,Tuesday
+07-10-2025,17:07,Evening Snacks,65,South Indian Thali,3,90,90,270,Cash,Rainy,3.9,Good,Tuesday
+07-10-2025,15:43,Evening Snacks,81,Coffee,2,40,40,80,UPI,Sunny,3.9,Good,Tuesday
+07-10-2025,08:53,Breakfast,88,Idly,2,25,25,50,UPI,Rainy,4,Good,Tuesday
+07-10-2025,18:38,Evening Snacks,52,Dosa,2,40,40,80,UPI,Rainy,4.4,Very Good,Tuesday
+07-10-2025,13:11,Lunch,31,Ice Cream,1,80,80,80,UPI,Sunny,4.1,Good,Tuesday
+07-10-2025,12:07,Lunch,54,North Indian Thali,1,45,45,45,UPI,Cloudy,3.9,Good,Tuesday
+07-10-2025,18:07,Evening Snacks,77,Upma,1,30,30,30,UPI,Cloudy,4.4,Very Good,Tuesday
+07-10-2025,15:23,Evening Snacks,88,Tea,3,30,30,90,UPI,Cloudy,3.7,Good,Tuesday
+07-10-2025,17:20,Evening Snacks,85,Idly,1,25,25,25,Cash,Rainy,4,Good,Tuesday
+07-10-2025,12:20,Lunch,53,South Indian Thali,1,30,30,30,UPI,Cloudy,4.4,Very Good,Tuesday
+07-10-2025,08:11,Breakfast,47,Idly,2,12,12,24,UPI,Rainy,4.2,Very Good,Tuesday
+07-10-2025,09:10,Breakfast,91,Upma,2,15,15,30,UPI,Sunny,3.8,Good,Tuesday
+07-10-2025,12:48,Lunch,17,Idly,1,45,45,45,Card,Cloudy,3.4,Average,Tuesday
+08-10-2025,12:48,Lunch,6,South Indian Thali,1,40,40,40,UPI,Sunny,4.1,Good,Wednesday
+08-10-2025,13:29,Lunch,97,North Indian Thali,3,90,90,270,UPI,Windy,3.4,Average,Wednesday
+08-10-2025,18:52,Evening Snacks,87,Juice,1,45,45,45,UPI,Sunny,3.9,Good,Wednesday
+08-10-2025,18:42,Evening Snacks,70,French Fries,3,50,50,150,UPI,Cloudy,4.5,Excellent,Wednesday
+08-10-2025,13:51,Lunch,32,Bisibele Bath,2,15,15,30,UPI,Cloudy,4.2,Very Good,Wednesday
+08-10-2025,14:00,Lunch,26,Veg Biryani,1,45,45,45,UPI,Cloudy,3.2,Average,Wednesday
+08-10-2025,12:04,Lunch,78,Tea,2,45,45,90,Card,Sunny,4.1,Good,Wednesday
+08-10-2025,16:07,Evening Snacks,17,French Fries,1,30,30,30,UPI,Cloudy,3.9,Good,Wednesday
+08-10-2025,16:12,Evening Snacks,18,Coffee,1,15,15,15,Card,Sunny,3.5,Average,Wednesday
+08-10-2025,08:32,Breakfast,24,Chapati,2,15,15,30,UPI,Rainy,4.1,Good,Wednesday
+08-10-2025,19:24,Evening Snacks,51,Idly,2,25,25,50,UPI,Rainy,3.8,Good,Wednesday
+08-10-2025,19:25,Evening Snacks,49,Dosa,1,40,40,40,UPI,Cloudy,3.8,Good,Wednesday
+08-10-2025,19:33,Evening Snacks,94,Samosa,3,15,15,45,UPI,Rainy,4,Good,Wednesday
+08-10-2025,12:41,Lunch,52,Dosa,2,70,70,140,UPI,Windy,3.7,Good,Wednesday
+08-10-2025,16:30,Evening Snacks,48,Juice,1,90,90,90,Card,Sunny,4,Good,Wednesday
+08-10-2025,12:38,Lunch,23,Fried Rice,3,30,30,90,UPI,Sunny,3.8,Good,Wednesday
+08-10-2025,16:50,Evening Snacks,13,Tea,1,40,40,40,UPI,Cloudy,3.8,Good,Wednesday
+08-10-2025,13:07,Lunch,11,North Indian Thali,3,40,40,120,UPI,Cloudy,4.4,Very Good,Wednesday
+08-10-2025,18:43,Evening Snacks,38,Idly,1,25,25,25,UPI,Rainy,4.4,Very Good,Wednesday
+08-10-2025,09:24,Breakfast,79,Idly,1,12,12,12,Cash,Sunny,3.3,Average,Wednesday
+08-10-2025,17:17,Evening Snacks,5,Sandwich,1,45,45,45,UPI,Cloudy,4.3,Very Good,Wednesday
+08-10-2025,19:24,Evening Snacks,3,Upma,1,30,30,30,UPI,Rainy,4.6,Excellent,Wednesday
+08-10-2025,16:13,Evening Snacks,61,Ice Cream,1,50,50,50,UPI,Sunny,4.6,Excellent,Wednesday
+08-10-2025,09:18,Breakfast,86,Dosa,1,90,90,90,UPI,Rainy,4.2,Very Good,Wednesday
+08-10-2025,13:35,Lunch,38,Bisibele Bath,1,25,25,25,UPI,Windy,3.6,Average,Wednesday
+08-10-2025,13:30,Lunch,24,Veg Biryani,3,40,40,120,UPI,Cloudy,4.3,Very Good,Wednesday
+08-10-2025,12:29,Lunch,55,South Indian Thali,2,15,15,30,UPI,Sunny,3.7,Good,Wednesday
+08-10-2025,16:42,Evening Snacks,72,Tea,1,25,25,25,UPI,Rainy,3.9,Good,Wednesday
+08-10-2025,13:57,Lunch,5,Sandwich,3,12,12,36,Cash,Sunny,4.2,Very Good,Wednesday
+08-10-2025,18:34,Evening Snacks,11,Veg Biryani,1,80,80,80,UPI,Cloudy,3.7,Good,Wednesday
+08-10-2025,15:31,Evening Snacks,79,Bhel Puri,2,12,12,24,UPI,Cloudy,3.5,Average,Wednesday
+08-10-2025,13:59,Lunch,62,Bisibele Bath,1,90,90,90,UPI,Sunny,4.2,Very Good,Wednesday
+08-10-2025,19:46,Evening Snacks,40,Juice,1,30,30,30,UPI,Cloudy,4.7,Excellent,Wednesday
+08-10-2025,18:18,Evening Snacks,41,Upma,1,30,30,30,UPI,Sunny,4.5,Excellent,Wednesday
+08-10-2025,19:48,Evening Snacks,41,South Indian Thali,3,90,90,270,UPI,Rainy,4.3,Very Good,Wednesday
+08-10-2025,08:06,Breakfast,83,Coffee,1,90,90,90,UPI,Sunny,4.4,Very Good,Wednesday
+08-10-2025,08:44,Breakfast,97,Idly,1,30,30,30,UPI,Cloudy,4.3,Very Good,Wednesday
+08-10-2025,17:45,Evening Snacks,80,Dosa,1,40,40,40,Card,Rainy,4.2,Very Good,Wednesday
+08-10-2025,19:32,Evening Snacks,62,Samosa,3,15,15,45,UPI,Rainy,4.4,Very Good,Wednesday
+08-10-2025,12:05,Lunch,38,Idly,1,50,50,50,UPI,Sunny,3.5,Average,Wednesday
+08-10-2025,12:57,Lunch,100,Fried Rice,1,70,70,70,UPI,Sunny,4.1,Good,Wednesday
+08-10-2025,15:03,Evening Snacks,54,Bhel Puri,3,45,45,135,UPI,Sunny,4,Good,Wednesday
+08-10-2025,18:20,Evening Snacks,89,Coffee,1,40,40,40,UPI,Rainy,4,Good,Wednesday
+08-10-2025,12:09,Lunch,61,Chapati,1,45,45,45,Cash,Windy,3.8,Good,Wednesday
+08-10-2025,09:57,Breakfast,12,Tea,1,30,30,30,UPI,Rainy,4.2,Very Good,Wednesday
+08-10-2025,19:48,Evening Snacks,45,Juice,3,30,30,90,UPI,Rainy,3.7,Good,Wednesday
+08-10-2025,12:49,Lunch,78,Dosa,1,15,15,15,UPI,Sunny,3.8,Good,Wednesday
+08-10-2025,15:45,Evening Snacks,70,Sandwich,1,25,25,25,Cash,Sunny,3.7,Good,Wednesday
+08-10-2025,09:34,Breakfast,34,Dosa,2,50,50,100,UPI,Sunny,4.3,Very Good,Wednesday
+08-10-2025,19:38,Evening Snacks,78,Pani Puri,1,25,25,25,Cash,Cloudy,4,Good,Wednesday
+08-10-2025,12:50,Lunch,1,Sandwich,1,25,25,25,UPI,Sunny,3.8,Good,Wednesday
+08-10-2025,13:15,Lunch,92,Fried Rice,1,40,40,40,UPI,Sunny,3.9,Good,Wednesday
+08-10-2025,12:39,Lunch,98,North Indian Thali,1,70,70,70,UPI,Sunny,4,Good,Wednesday
+08-10-2025,16:40,Evening Snacks,4,Coffee,3,40,40,120,Cash,Rainy,4.6,Excellent,Wednesday
+08-10-2025,12:48,Lunch,31,Sandwich,1,45,45,45,UPI,Sunny,3.5,Average,Wednesday
+08-10-2025,13:45,Lunch,81,Tea,3,70,70,210,Cash,Sunny,4.3,Very Good,Wednesday
+08-10-2025,19:48,Evening Snacks,20,Veg Biryani,1,80,80,80,UPI,Sunny,4.2,Very Good,Wednesday
+08-10-2025,13:17,Lunch,37,Tea,2,50,50,100,Cash,Cloudy,3.6,Average,Wednesday
+08-10-2025,13:16,Lunch,44,Juice,2,30,30,60,Cash,Sunny,4.6,Excellent,Wednesday
+08-10-2025,12:25,Lunch,60,Tea,3,12,12,36,UPI,Sunny,4.2,Very Good,Wednesday
+08-10-2025,12:02,Lunch,98,Tea,1,40,40,40,Card,Sunny,3.8,Good,Wednesday
+08-10-2025,19:04,Evening Snacks,72,Chapati,3,35,35,105,UPI,Rainy,3.3,Average,Wednesday
+08-10-2025,17:10,Evening Snacks,77,Idly,1,25,25,25,Cash,Rainy,4.1,Good,Wednesday
+08-10-2025,16:09,Evening Snacks,12,Bhel Puri,1,30,30,30,UPI,Cloudy,4,Good,Wednesday
+08-10-2025,17:37,Evening Snacks,43,Bisibele Bath,1,50,50,50,UPI,Cloudy,3.6,Average,Wednesday
+08-10-2025,12:43,Lunch,52,Ice Cream,1,25,25,25,UPI,Sunny,3.6,Average,Wednesday
+08-10-2025,12:15,Lunch,5,Sandwich,3,15,15,45,UPI,Sunny,4.3,Very Good,Wednesday
+08-10-2025,19:55,Evening Snacks,29,Dosa,1,40,40,40,UPI,Rainy,3.2,Average,Wednesday
+08-10-2025,19:53,Evening Snacks,47,South Indian Thali,1,90,90,90,Cash,Rainy,4.1,Good,Wednesday
+08-10-2025,13:01,Lunch,69,Coffee,1,30,30,30,Cash,Cloudy,3.9,Good,Wednesday
+08-10-2025,17:35,Evening Snacks,38,Idly,1,25,25,25,UPI,Rainy,4.2,Very Good,Wednesday
+08-10-2025,19:38,Evening Snacks,35,Bhel Puri,3,30,30,90,UPI,Sunny,3.9,Good,Wednesday
+08-10-2025,19:04,Evening Snacks,53,Coffee,1,15,15,15,UPI,Cloudy,4.1,Good,Wednesday
+08-10-2025,13:29,Lunch,47,South Indian Thali,1,15,15,15,UPI,Windy,3.7,Good,Wednesday
+08-10-2025,17:35,Evening Snacks,39,Idly,3,25,25,75,UPI,Cloudy,4,Good,Wednesday
+08-10-2025,13:02,Lunch,1,Veg Biryani,2,70,70,140,UPI,Windy,4.2,Very Good,Wednesday
+08-10-2025,19:12,Evening Snacks,51,Idly,1,25,25,25,UPI,Cloudy,4.1,Good,Wednesday
+08-10-2025,08:50,Breakfast,48,Upma,1,90,90,90,UPI,Cloudy,4.2,Very Good,Wednesday
+08-10-2025,13:07,Lunch,35,Veg Biryani,2,25,25,50,UPI,Cloudy,3.6,Average,Wednesday
+08-10-2025,16:15,Evening Snacks,76,Juice,1,25,25,25,UPI,Rainy,3.8,Good,Wednesday
+09-10-2025,15:21,Evening Snacks,82,Juice,1,50,50,50,UPI,Sunny,3.8,Good,Thursday
+09-10-2025,12:17,Lunch,21,Juice,3,15,15,45,Cash,Sunny,3.9,Good,Thursday
+09-10-2025,14:00,Lunch,60,Idly,3,45,45,135,Cash,Sunny,4.5,Excellent,Thursday
+09-10-2025,15:29,Evening Snacks,51,Bhel Puri,1,40,40,40,UPI,Windy,3.9,Good,Thursday
+09-10-2025,09:31,Breakfast,60,Upma,1,90,90,90,UPI,Rainy,3.5,Average,Thursday
+09-10-2025,19:06,Evening Snacks,35,Pani Puri,1,25,25,25,Cash,Cloudy,4.2,Very Good,Thursday
+09-10-2025,15:17,Evening Snacks,78,French Fries,3,50,50,150,UPI,Sunny,4.5,Excellent,Thursday
+09-10-2025,18:24,Evening Snacks,72,Chapati,1,35,35,35,UPI,Rainy,3.5,Average,Thursday
+09-10-2025,15:15,Evening Snacks,45,French Fries,2,70,70,140,Cash,Cloudy,4.8,Excellent,Thursday
+09-10-2025,12:27,Lunch,98,Veg Biryani,1,40,40,40,UPI,Sunny,4.2,Very Good,Thursday
+09-10-2025,12:51,Lunch,88,Juice,2,30,30,60,UPI,Sunny,4.4,Very Good,Thursday
+09-10-2025,13:03,Lunch,90,Ice Cream,3,90,90,270,UPI,Sunny,4.6,Excellent,Thursday
+09-10-2025,12:30,Lunch,18,Veg Biryani,2,90,90,180,UPI,Windy,4.4,Very Good,Thursday
+09-10-2025,15:03,Evening Snacks,82,Coffee,2,25,25,50,UPI,Sunny,4,Good,Thursday
+09-10-2025,18:43,Evening Snacks,9,Dosa,1,40,40,40,UPI,Rainy,4.5,Excellent,Thursday
+09-10-2025,15:03,Evening Snacks,88,French Fries,1,50,50,50,UPI,Sunny,4.1,Good,Thursday
+09-10-2025,08:29,Breakfast,41,Upma,1,90,90,90,UPI,Sunny,4.4,Very Good,Thursday
+09-10-2025,09:07,Breakfast,17,Bisibele Bath,1,15,15,15,UPI,Sunny,4.5,Excellent,Thursday
+09-10-2025,12:09,Lunch,40,North Indian Thali,1,30,30,30,UPI,Sunny,3.6,Average,Thursday
+09-10-2025,15:07,Evening Snacks,94,Tea,1,50,50,50,Card,Cloudy,4.3,Very Good,Thursday
+09-10-2025,12:12,Lunch,75,Chapati,2,50,50,100,UPI,Cloudy,3.9,Good,Thursday
+09-10-2025,12:58,Lunch,98,Sandwich,2,15,15,30,Cash,Sunny,4.1,Good,Thursday
+09-10-2025,19:43,Evening Snacks,92,South Indian Thali,1,90,90,90,UPI,Cloudy,4.1,Good,Thursday
+09-10-2025,15:54,Evening Snacks,71,Juice,1,45,45,45,UPI,Sunny,4,Good,Thursday
+09-10-2025,12:41,Lunch,81,Chapati,1,15,15,15,Cash,Cloudy,4.6,Excellent,Thursday
+09-10-2025,15:50,Evening Snacks,88,Coffee,1,12,12,12,UPI,Sunny,3.5,Average,Thursday
+09-10-2025,08:23,Breakfast,61,Dosa,2,15,15,30,Cash,Cloudy,3.3,Average,Thursday
+09-10-2025,08:33,Breakfast,73,Chapati,1,30,30,30,UPI,Cloudy,3.2,Average,Thursday
+09-10-2025,13:17,Lunch,28,Coffee,1,90,90,90,UPI,Sunny,4.4,Very Good,Thursday
+09-10-2025,17:36,Evening Snacks,27,Upma,1,30,30,30,UPI,Sunny,3.7,Good,Thursday
+09-10-2025,18:43,Evening Snacks,72,Upma,1,30,30,30,UPI,Cloudy,4.1,Good,Thursday
+09-10-2025,13:37,Lunch,49,Bisibele Bath,2,50,50,100,UPI,Sunny,4,Good,Thursday
+09-10-2025,19:47,Evening Snacks,61,Upma,2,30,30,60,UPI,Rainy,3.6,Average,Thursday
+09-10-2025,16:30,Evening Snacks,44,Juice,3,30,30,90,Cash,Rainy,4.3,Very Good,Thursday
+09-10-2025,12:17,Lunch,74,Ice Cream,2,30,30,60,UPI,Sunny,3.9,Good,Thursday
+09-10-2025,12:00,Lunch,30,Ice Cream,1,90,90,90,Card,Sunny,3.9,Good,Thursday
+09-10-2025,19:12,Evening Snacks,39,Bisibele Bath,1,50,50,50,UPI,Cloudy,4.1,Good,Thursday
+09-10-2025,16:17,Evening Snacks,87,Pani Puri,1,40,40,40,UPI,Rainy,4.3,Very Good,Thursday
+09-10-2025,12:41,Lunch,89,Idly,1,25,25,25,UPI,Windy,3.6,Average,Thursday
+09-10-2025,12:49,Lunch,42,Sandwich,1,40,40,40,UPI,Sunny,4.3,Very Good,Thursday
+09-10-2025,16:17,Evening Snacks,16,French Fries,1,30,30,30,UPI,Rainy,4.6,Excellent,Thursday
+09-10-2025,09:46,Breakfast,28,Idly,1,50,50,50,Cash,Cloudy,3.4,Average,Thursday
+09-10-2025,13:39,Lunch,17,Fried Rice,1,90,90,90,UPI,Windy,4.1,Good,Thursday
+09-10-2025,15:59,Evening Snacks,54,Bhel Puri,1,30,30,30,Cash,Sunny,3.9,Good,Thursday
+09-10-2025,15:04,Evening Snacks,94,French Fries,1,45,45,45,UPI,Sunny,4.3,Very Good,Thursday
+09-10-2025,09:42,Breakfast,47,Dosa,2,25,25,50,UPI,Sunny,3.5,Average,Thursday
+09-10-2025,13:42,Lunch,22,Sandwich,3,50,50,150,UPI,Sunny,4.7,Excellent,Thursday
+09-10-2025,15:38,Evening Snacks,94,Juice,2,25,25,50,UPI,Sunny,3.4,Average,Thursday
+09-10-2025,16:41,Evening Snacks,64,Bhel Puri,1,30,30,30,UPI,Cloudy,3.9,Good,Thursday
+09-10-2025,09:22,Breakfast,65,Bisibele Bath,1,90,90,90,UPI,Cloudy,4.2,Very Good,Thursday
+09-10-2025,12:53,Lunch,56,Bisibele Bath,1,50,50,50,UPI,Sunny,3.7,Good,Thursday
+09-10-2025,08:05,Breakfast,66,Idly,1,30,30,30,Cash,Cloudy,3.7,Good,Thursday
+09-10-2025,19:42,Evening Snacks,53,Juice,1,30,30,30,Cash,Cloudy,4.1,Good,Thursday
+09-10-2025,09:13,Breakfast,63,Upma,2,30,30,60,Cash,Sunny,4,Good,Thursday
+09-10-2025,15:13,Evening Snacks,90,Coffee,3,12,12,36,Card,Sunny,4,Good,Thursday
+09-10-2025,16:02,Evening Snacks,10,Coffee,3,50,50,150,UPI,Cloudy,4.3,Very Good,Thursday
+09-10-2025,16:30,Evening Snacks,41,Juice,3,25,25,75,UPI,Cloudy,3.8,Good,Thursday
+09-10-2025,08:36,Breakfast,19,Chapati,1,30,30,30,UPI,Windy,4.1,Good,Thursday
+09-10-2025,18:51,Evening Snacks,96,Upma,1,30,30,30,UPI,Cloudy,3.8,Good,Thursday
+09-10-2025,18:05,Evening Snacks,21,Dosa,1,40,40,40,Cash,Cloudy,3.7,Good,Thursday
+09-10-2025,16:30,Evening Snacks,43,Sandwich,1,25,25,25,UPI,Rainy,3.9,Good,Thursday
+09-10-2025,13:59,Lunch,1,Juice,1,30,30,30,Cash,Sunny,3.8,Good,Thursday
+09-10-2025,09:27,Breakfast,18,Bisibele Bath,1,90,90,90,UPI,Sunny,3.8,Good,Thursday
+09-10-2025,19:15,Evening Snacks,23,Tea,1,12,12,12,Cash,Cloudy,4.5,Excellent,Thursday
+09-10-2025,12:50,Lunch,90,Dosa,3,90,90,270,UPI,Cloudy,3.9,Good,Thursday
+09-10-2025,09:05,Breakfast,27,Chapati,1,80,80,80,UPI,Rainy,3.7,Good,Thursday
+09-10-2025,16:09,Evening Snacks,38,Bhel Puri,3,25,25,75,UPI,Sunny,4,Good,Thursday
+09-10-2025,12:06,Lunch,90,Ice Cream,1,30,30,30,Cash,Sunny,4,Good,Thursday
+09-10-2025,13:22,Lunch,96,Coffee,2,45,45,90,UPI,Sunny,3.5,Average,Thursday
+09-10-2025,16:51,Evening Snacks,66,Tea,1,45,45,45,UPI,Cloudy,3.9,Good,Thursday
+09-10-2025,19:39,Evening Snacks,25,Samosa,2,15,15,30,Cash,Cloudy,3.9,Good,Thursday
+09-10-2025,15:00,Evening Snacks,20,Tea,2,25,25,50,UPI,Windy,3.9,Good,Thursday
+09-10-2025,12:15,Lunch,74,Veg Biryani,1,50,50,50,UPI,Sunny,4.3,Very Good,Thursday
+09-10-2025,12:49,Lunch,54,Sandwich,2,40,40,80,UPI,Sunny,4.1,Good,Thursday
+09-10-2025,12:40,Lunch,53,South Indian Thali,3,90,90,270,UPI,Cloudy,4.5,Excellent,Thursday
+09-10-2025,13:25,Lunch,42,Bisibele Bath,1,12,12,12,Card,Sunny,4,Good,Thursday
+09-10-2025,19:06,Evening Snacks,33,Dosa,1,40,40,40,UPI,Sunny,4.7,Excellent,Thursday
+09-10-2025,12:00,Lunch,58,Tea,3,25,25,75,UPI,Sunny,3.8,Good,Thursday
+09-10-2025,16:43,Evening Snacks,38,Bhel Puri,1,50,50,50,Cash,Cloudy,3.7,Good,Thursday
+09-10-2025,08:09,Breakfast,42,Tea,1,50,50,50,UPI,Cloudy,4.2,Very Good,Thursday
+10-10-2025,13:54,Lunch,9,Veg Biryani,1,30,30,30,Card,Sunny,4.5,Excellent,Friday
+10-10-2025,16:18,Evening Snacks,19,Coffee,1,12,12,12,UPI,Sunny,3.4,Average,Friday
+10-10-2025,12:52,Lunch,66,Tea,1,15,15,15,Card,Sunny,3.9,Good,Friday
+10-10-2025,12:40,Lunch,94,Fried Rice,1,90,90,90,UPI,Windy,3.8,Good,Friday
+10-10-2025,15:31,Evening Snacks,39,Sandwich,3,30,30,90,UPI,Sunny,4.1,Good,Friday
+10-10-2025,12:27,Lunch,23,Sandwich,1,25,25,25,UPI,Sunny,4,Good,Friday
+10-10-2025,18:25,Evening Snacks,29,Fried Rice,3,70,70,210,UPI,Rainy,4.5,Excellent,Friday
+10-10-2025,18:11,Evening Snacks,2,Upma,3,30,30,90,UPI,Rainy,4,Good,Friday
+10-10-2025,19:43,Evening Snacks,77,French Fries,2,50,50,100,UPI,Rainy,4.5,Excellent,Friday
+10-10-2025,19:27,Evening Snacks,44,Dosa,1,40,40,40,UPI,Sunny,3.9,Good,Friday
+10-10-2025,15:14,Evening Snacks,35,Sandwich,3,50,50,150,UPI,Sunny,4.4,Very Good,Friday
+10-10-2025,08:40,Breakfast,97,Tea,1,90,90,90,Card,Cloudy,4.1,Good,Friday
+10-10-2025,13:28,Lunch,2,Bisibele Bath,3,50,50,150,UPI,Sunny,4.7,Excellent,Friday
+10-10-2025,13:21,Lunch,33,Dosa,3,12,12,36,Cash,Cloudy,3.4,Average,Friday
+10-10-2025,08:43,Breakfast,6,Chapati,2,50,50,100,UPI,Windy,3.5,Average,Friday
+10-10-2025,15:55,Evening Snacks,33,Tea,3,40,40,120,UPI,Sunny,4.7,Excellent,Friday
+10-10-2025,13:51,Lunch,12,South Indian Thali,1,30,30,30,UPI,Windy,3.7,Good,Friday
+10-10-2025,19:33,Evening Snacks,79,Bisibele Bath,1,50,50,50,UPI,Rainy,3.7,Good,Friday
+10-10-2025,16:48,Evening Snacks,13,Juice,1,40,40,40,UPI,Cloudy,3.6,Average,Friday
+10-10-2025,19:50,Evening Snacks,56,South Indian Thali,3,90,90,270,UPI,Sunny,4.5,Excellent,Friday
+10-10-2025,12:46,Lunch,66,Tea,1,25,25,25,UPI,Sunny,3.5,Average,Friday
+10-10-2025,19:55,Evening Snacks,67,Upma,3,30,30,90,Card,Rainy,4,Good,Friday
+10-10-2025,19:35,Evening Snacks,51,Sandwich,3,45,45,135,Cash,Sunny,3.9,Good,Friday
+10-10-2025,17:00,Evening Snacks,21,Tea,2,40,40,80,UPI,Cloudy,4.4,Very Good,Friday
+10-10-2025,15:28,Evening Snacks,4,Ice Cream,3,15,15,45,Cash,Sunny,3.8,Good,Friday
+10-10-2025,16:32,Evening Snacks,22,Coffee,1,30,30,30,UPI,Cloudy,4.2,Very Good,Friday
+10-10-2025,13:01,Lunch,13,Tea,1,12,12,12,UPI,Sunny,3.5,Average,Friday
+10-10-2025,12:00,Lunch,28,Tea,3,45,45,135,Cash,Sunny,4.9,Excellent,Friday
+10-10-2025,19:54,Evening Snacks,98,Bisibele Bath,3,50,50,150,UPI,Rainy,3.9,Good,Friday
+10-10-2025,16:04,Evening Snacks,49,Bhel Puri,1,50,50,50,UPI,Rainy,4,Good,Friday
+10-10-2025,19:24,Evening Snacks,76,South Indian Thali,3,90,90,270,UPI,Cloudy,4.7,Excellent,Friday
+10-10-2025,17:39,Evening Snacks,29,Dosa,1,40,40,40,Cash,Rainy,3.8,Good,Friday
+10-10-2025,15:57,Evening Snacks,4,Sandwich,3,35,35,105,UPI,Sunny,4.7,Excellent,Friday
+10-10-2025,17:58,Evening Snacks,8,Bhel Puri,3,30,30,90,UPI,Sunny,3.8,Good,Friday
+10-10-2025,18:49,Evening Snacks,81,French Fries,3,50,50,150,Cash,Sunny,4.3,Very Good,Friday
+10-10-2025,16:25,Evening Snacks,75,Tea,2,50,50,100,UPI,Cloudy,3.8,Good,Friday
+10-10-2025,17:18,Evening Snacks,41,South Indian Thali,1,90,90,90,UPI,Sunny,3.5,Average,Friday
+10-10-2025,15:09,Evening Snacks,70,Coffee,3,30,30,90,UPI,Windy,4.2,Very Good,Friday
+10-10-2025,18:55,Evening Snacks,46,South Indian Thali,1,90,90,90,UPI,Rainy,4.3,Very Good,Friday
+10-10-2025,09:03,Breakfast,39,Tea,2,25,25,50,UPI,Windy,3.5,Average,Friday
+10-10-2025,16:17,Evening Snacks,27,Juice,3,40,40,120,UPI,Cloudy,3.9,Good,Friday
+10-10-2025,13:05,Lunch,3,Sandwich,2,90,90,180,UPI,Sunny,4.5,Excellent,Friday
+10-10-2025,19:55,Evening Snacks,31,Poori,1,45,45,45,UPI,Sunny,4.2,Very Good,Friday
+10-10-2025,12:13,Lunch,4,Tea,3,40,40,120,Cash,Sunny,3.8,Good,Friday
+10-10-2025,17:22,Evening Snacks,83,Dosa,3,40,40,120,UPI,Rainy,3.8,Good,Friday
+10-10-2025,15:49,Evening Snacks,66,Sandwich,1,25,25,25,Card,Windy,4.8,Excellent,Friday
+10-10-2025,13:43,Lunch,1,North Indian Thali,2,25,25,50,UPI,Sunny,3.4,Average,Friday
+10-10-2025,13:37,Lunch,16,Fried Rice,1,15,15,15,UPI,Windy,4,Good,Friday
+10-10-2025,15:16,Evening Snacks,76,Juice,1,90,90,90,UPI,Sunny,3.4,Average,Friday
+10-10-2025,13:10,Lunch,36,Tea,1,40,40,40,Cash,Sunny,4.5,Excellent,Friday
+10-10-2025,16:59,Evening Snacks,59,French Fries,3,25,25,75,UPI,Cloudy,4,Good,Friday
+10-10-2025,12:40,Lunch,59,Sandwich,3,90,90,270,UPI,Sunny,4.1,Good,Friday
+10-10-2025,16:50,Evening Snacks,44,Tea,1,15,15,15,UPI,Rainy,5,Excellent,Friday
+10-10-2025,17:03,Evening Snacks,99,South Indian Thali,1,90,90,90,UPI,Sunny,3.8,Good,Friday
+10-10-2025,19:48,Evening Snacks,44,Dosa,1,40,40,40,Cash,Rainy,4.7,Excellent,Friday
+10-10-2025,09:48,Breakfast,46,Upma,1,90,90,90,UPI,Rainy,3.8,Good,Friday
+10-10-2025,16:07,Evening Snacks,67,Bhel Puri,1,25,25,25,UPI,Sunny,3.9,Good,Friday
+10-10-2025,18:11,Evening Snacks,66,Idly,1,25,25,25,UPI,Cloudy,5,Excellent,Friday
+10-10-2025,12:09,Lunch,7,Juice,3,25,25,75,Cash,Sunny,3.9,Good,Friday
+10-10-2025,17:26,Evening Snacks,7,Tea,1,12,12,12,UPI,Rainy,3.5,Average,Friday
+11-10-2025,12:56,Lunch,100,Juice,1,50,50,50,UPI,Sunny,4.1,Good,Saturday
+11-10-2025,16:35,Evening Snacks,58,Bhel Puri,2,15,15,30,UPI,Rainy,3.9,Good,Saturday
+11-10-2025,15:06,Evening Snacks,82,Coffee,1,30,30,30,UPI,Windy,4.1,Good,Saturday
+11-10-2025,19:40,Evening Snacks,38,Bisibele Bath,3,50,50,150,UPI,Cloudy,3.9,Good,Saturday
+11-10-2025,13:00,Lunch,98,Sandwich,1,50,50,50,UPI,Sunny,4.9,Excellent,Saturday
+11-10-2025,18:48,Evening Snacks,9,Tea,1,12,12,12,UPI,Cloudy,4.2,Very Good,Saturday
+11-10-2025,12:17,Lunch,98,Chapati,1,50,50,50,UPI,Sunny,3.6,Average,Saturday
+11-10-2025,15:26,Evening Snacks,64,Juice,3,40,40,120,UPI,Windy,4,Good,Saturday
+11-10-2025,16:57,Evening Snacks,85,Coffee,1,15,15,15,UPI,Rainy,3.7,Good,Saturday
+11-10-2025,13:05,Lunch,91,Juice,3,15,15,45,UPI,Sunny,3.9,Good,Saturday
+11-10-2025,13:46,Lunch,91,North Indian Thali,1,50,50,50,Cash,Sunny,3.6,Average,Saturday
+11-10-2025,12:20,Lunch,39,Coffee,1,30,30,30,UPI,Windy,4.8,Excellent,Saturday
+11-10-2025,13:34,Lunch,81,Ice Cream,1,25,25,25,Cash,Sunny,3.7,Good,Saturday
+11-10-2025,12:31,Lunch,4,Chapati,2,90,90,180,UPI,Sunny,4.3,Very Good,Saturday
+11-10-2025,18:16,Evening Snacks,91,French Fries,2,50,50,100,UPI,Cloudy,3.9,Good,Saturday
+11-10-2025,13:33,Lunch,46,Sandwich,1,50,50,50,UPI,Sunny,3.5,Average,Saturday
+11-10-2025,12:10,Lunch,15,Bisibele Bath,3,90,90,270,UPI,Cloudy,4.1,Good,Saturday
+11-10-2025,08:00,Breakfast,22,Bisibele Bath,1,25,25,25,UPI,Rainy,4.2,Very Good,Saturday
+11-10-2025,15:12,Evening Snacks,83,Pani Puri,1,15,15,15,UPI,Sunny,4.2,Very Good,Saturday
+11-10-2025,17:25,Evening Snacks,36,Sandwich,1,45,45,45,Cash,Rainy,3,Average,Saturday
+11-10-2025,16:29,Evening Snacks,72,Tea,1,30,30,30,UPI,Rainy,3.5,Average,Saturday
+11-10-2025,18:55,Evening Snacks,76,Idly,1,25,25,25,Cash,Cloudy,4.4,Very Good,Saturday
+11-10-2025,19:17,Evening Snacks,26,Bisibele Bath,1,50,50,50,Card,Cloudy,3.6,Average,Saturday
+11-10-2025,17:38,Evening Snacks,96,Coffee,1,15,15,15,UPI,Cloudy,4.1,Good,Saturday
+11-10-2025,16:22,Evening Snacks,15,Coffee,1,30,30,30,UPI,Cloudy,3.5,Average,Saturday
+11-10-2025,18:46,Evening Snacks,77,South Indian Thali,1,90,90,90,Card,Cloudy,4.3,Very Good,Saturday
+11-10-2025,12:53,Lunch,1,Chapati,1,90,90,90,UPI,Sunny,4.4,Very Good,Saturday
+11-10-2025,18:40,Evening Snacks,18,Upma,1,30,30,30,UPI,Rainy,4.3,Very Good,Saturday
+11-10-2025,13:29,Lunch,70,Chapati,3,30,30,90,UPI,Sunny,4.4,Very Good,Saturday
+11-10-2025,08:26,Breakfast,29,Dosa,2,15,15,30,UPI,Sunny,4.6,Excellent,Saturday
+13-10-2025,16:19,Evening Snacks,79,Coffee,2,25,25,50,UPI,Rainy,3.5,Average,Monday
+13-10-2025,13:21,Lunch,16,Ice Cream,3,30,30,90,UPI,Sunny,3.7,Good,Monday
+13-10-2025,13:18,Lunch,9,Idly,1,30,30,30,UPI,Sunny,4.4,Very Good,Monday
+13-10-2025,12:50,Lunch,18,Juice,3,90,90,270,UPI,Sunny,4.5,Excellent,Monday
+13-10-2025,17:28,Evening Snacks,49,Upma,1,30,30,30,UPI,Cloudy,3.7,Good,Monday
+13-10-2025,09:14,Breakfast,79,Poori,2,45,45,90,Cash,Rainy,3.7,Good,Monday
+13-10-2025,13:14,Lunch,63,Tea,1,40,40,40,Cash,Windy,3.7,Good,Monday
+13-10-2025,13:48,Lunch,78,Sandwich,3,50,50,150,UPI,Sunny,3.4,Average,Monday
+13-10-2025,09:58,Breakfast,96,Upma,1,50,50,50,UPI,Rainy,3.5,Average,Monday
+13-10-2025,13:33,Lunch,100,North Indian Thali,1,15,15,15,UPI,Cloudy,3.5,Average,Monday
+13-10-2025,18:05,Evening Snacks,69,South Indian Thali,1,90,90,90,UPI,Cloudy,3.9,Good,Monday
+13-10-2025,12:00,Lunch,30,Tea,1,90,90,90,UPI,Sunny,4.1,Good,Monday
+13-10-2025,12:46,Lunch,48,Veg Biryani,1,50,50,50,Cash,Sunny,4.2,Very Good,Monday
+13-10-2025,16:14,Evening Snacks,15,French Fries,1,40,40,40,UPI,Rainy,3.8,Good,Monday
+13-10-2025,19:30,Evening Snacks,76,Ice Cream,1,80,80,80,UPI,Sunny,3.8,Good,Monday
+13-10-2025,12:17,Lunch,2,North Indian Thali,1,30,30,30,UPI,Windy,4,Good,Monday
+13-10-2025,12:31,Lunch,55,Veg Biryani,2,90,90,180,UPI,Sunny,3.4,Average,Monday
+13-10-2025,15:06,Evening Snacks,65,Tea,1,80,80,80,UPI,Cloudy,4.4,Very Good,Monday
+13-10-2025,09:32,Breakfast,11,Coffee,1,90,90,90,UPI,Rainy,4.5,Excellent,Monday
+13-10-2025,12:10,Lunch,33,South Indian Thali,1,25,25,25,UPI,Sunny,3.7,Good,Monday
+13-10-2025,13:08,Lunch,2,Tea,1,40,40,40,UPI,Sunny,3.8,Good,Monday
+13-10-2025,17:19,Evening Snacks,86,Dosa,3,40,40,120,UPI,Sunny,4.5,Excellent,Monday
+13-10-2025,15:40,Evening Snacks,98,French Fries,1,50,50,50,UPI,Sunny,4,Good,Monday
+13-10-2025,18:44,Evening Snacks,75,Dosa,2,40,40,80,Cash,Rainy,4.2,Very Good,Monday
+13-10-2025,13:58,Lunch,34,Fried Rice,1,30,30,30,UPI,Windy,4,Good,Monday
+13-10-2025,17:50,Evening Snacks,24,South Indian Thali,1,90,90,90,UPI,Rainy,4.6,Excellent,Monday
+13-10-2025,09:04,Breakfast,90,Coffee,1,30,30,30,UPI,Cloudy,4.2,Very Good,Monday
+13-10-2025,17:35,Evening Snacks,13,Upma,1,30,30,30,UPI,Rainy,4.2,Very Good,Monday
+13-10-2025,17:06,Evening Snacks,14,South Indian Thali,1,90,90,90,UPI,Cloudy,4.2,Very Good,Monday
+13-10-2025,08:40,Breakfast,13,Chapati,1,15,15,15,UPI,Windy,3.8,Good,Monday
+13-10-2025,12:31,Lunch,19,North Indian Thali,3,30,30,90,UPI,Sunny,3.8,Good,Monday
+13-10-2025,12:17,Lunch,30,Coffee,1,25,25,25,UPI,Sunny,4.3,Very Good,Monday
+13-10-2025,13:25,Lunch,18,Sandwich,2,25,25,50,Cash,Sunny,4.1,Good,Monday
+13-10-2025,09:24,Breakfast,15,Upma,1,45,45,45,Card,Windy,3.5,Average,Monday
+13-10-2025,13:08,Lunch,13,Juice,3,30,30,90,UPI,Sunny,4.7,Excellent,Monday
+13-10-2025,12:22,Lunch,15,South Indian Thali,2,40,40,80,UPI,Sunny,4.4,Very Good,Monday
+13-10-2025,13:33,Lunch,87,North Indian Thali,2,30,30,60,UPI,Sunny,4,Good,Monday
+13-10-2025,12:27,Lunch,39,Sandwich,2,40,40,80,Card,Sunny,3.9,Good,Monday
+13-10-2025,19:36,Evening Snacks,23,South Indian Thali,1,90,90,90,UPI,Sunny,4.1,Good,Monday
+13-10-2025,15:55,Evening Snacks,96,Tea,1,30,30,30,UPI,Sunny,4.2,Very Good,Monday
+13-10-2025,19:29,Evening Snacks,82,Juice,1,30,30,30,Cash,Sunny,3.2,Average,Monday
+13-10-2025,16:55,Evening Snacks,71,Bhel Puri,3,30,30,90,Cash,Rainy,4.8,Excellent,Monday
+13-10-2025,15:22,Evening Snacks,46,Sandwich,1,90,90,90,UPI,Sunny,3.7,Good,Monday
+13-10-2025,17:23,Evening Snacks,52,Ice Cream,1,30,30,30,UPI,Sunny,4,Good,Monday
+13-10-2025,19:24,Evening Snacks,21,Upma,2,30,30,60,UPI,Rainy,4,Good,Monday
+13-10-2025,19:43,Evening Snacks,54,Pani Puri,2,25,25,50,UPI,Rainy,4.8,Excellent,Monday
+13-10-2025,09:00,Breakfast,75,Poori,2,30,30,60,Cash,Rainy,4,Good,Monday
+13-10-2025,12:36,Lunch,98,Dosa,1,45,45,45,UPI,Sunny,4.6,Excellent,Monday
+13-10-2025,12:40,Lunch,72,North Indian Thali,1,30,30,30,UPI,Cloudy,4.2,Very Good,Monday
+13-10-2025,19:59,Evening Snacks,71,Dosa,3,40,40,120,UPI,Cloudy,3.6,Average,Monday
+13-10-2025,17:39,Evening Snacks,64,Upma,2,30,30,60,UPI,Cloudy,4.1,Good,Monday
+13-10-2025,12:13,Lunch,83,Bisibele Bath,1,90,90,90,UPI,Sunny,4,Good,Monday
+13-10-2025,19:58,Evening Snacks,29,Tea,3,12,12,36,UPI,Cloudy,3.6,Average,Monday
+13-10-2025,14:00,Lunch,43,Coffee,3,30,30,90,UPI,Cloudy,4.1,Good,Monday
+13-10-2025,18:03,Evening Snacks,51,South Indian Thali,1,90,90,90,Cash,Rainy,4,Good,Monday
+13-10-2025,15:37,Evening Snacks,79,Ice Cream,2,90,90,180,UPI,Sunny,4.2,Very Good,Monday
+13-10-2025,19:19,Evening Snacks,29,South Indian Thali,1,90,90,90,Cash,Rainy,4.1,Good,Monday
+13-10-2025,17:21,Evening Snacks,84,Poori,3,45,45,135,UPI,Rainy,3.7,Good,Monday
+13-10-2025,17:22,Evening Snacks,27,Upma,2,30,30,60,UPI,Rainy,4.3,Very Good,Monday
+13-10-2025,12:07,Lunch,13,Sandwich,3,30,30,90,UPI,Sunny,3.8,Good,Monday
+13-10-2025,15:54,Evening Snacks,92,Bhel Puri,3,90,90,270,UPI,Windy,2.8,Average,Monday
+13-10-2025,15:17,Evening Snacks,27,Bhel Puri,3,45,45,135,UPI,Sunny,4.1,Good,Monday
+13-10-2025,12:15,Lunch,76,Veg Biryani,1,45,45,45,Card,Sunny,3.8,Good,Monday
+13-10-2025,13:38,Lunch,83,Sandwich,3,45,45,135,UPI,Sunny,4.2,Very Good,Monday
+13-10-2025,19:28,Evening Snacks,45,Poori,1,45,45,45,Card,Rainy,4.8,Excellent,Monday
+13-10-2025,13:57,Lunch,59,Coffee,1,40,40,40,UPI,Windy,4.8,Excellent,Monday
+13-10-2025,19:29,Evening Snacks,74,Idly,2,25,25,50,UPI,Cloudy,3.9,Good,Monday
+13-10-2025,16:25,Evening Snacks,24,Coffee,1,15,15,15,Cash,Rainy,3.7,Good,Monday
+13-10-2025,13:56,Lunch,59,Coffee,3,30,30,90,UPI,Sunny,4.2,Very Good,Monday
+13-10-2025,15:57,Evening Snacks,29,Tea,3,25,25,75,UPI,Cloudy,3.9,Good,Monday
+13-10-2025,13:16,Lunch,14,Dosa,2,25,25,50,UPI,Sunny,4.2,Very Good,Monday
+13-10-2025,13:38,Lunch,100,Tea,2,25,25,50,Cash,Sunny,3.7,Good,Monday
+13-10-2025,13:17,Lunch,98,Fried Rice,1,45,45,45,Card,Sunny,4.1,Good,Monday
+13-10-2025,08:28,Breakfast,28,Bisibele Bath,1,30,30,30,UPI,Cloudy,3.7,Good,Monday
+13-10-2025,18:47,Evening Snacks,88,Pani Puri,1,25,25,25,UPI,Sunny,4.5,Excellent,Monday
+13-10-2025,15:12,Evening Snacks,70,French Fries,3,25,25,75,Cash,Sunny,3.8,Good,Monday
+13-10-2025,13:33,Lunch,64,Tea,2,12,12,24,UPI,Sunny,4.3,Very Good,Monday
+13-10-2025,12:09,Lunch,14,Idly,1,40,40,40,UPI,Sunny,3.5,Average,Monday
+13-10-2025,08:36,Breakfast,85,Bisibele Bath,2,25,25,50,Cash,Windy,4.3,Very Good,Monday
+13-10-2025,08:03,Breakfast,5,Idly,1,30,30,30,UPI,Cloudy,3.6,Average,Monday
+14-10-2025,16:46,Evening Snacks,52,Bhel Puri,1,30,30,30,UPI,Cloudy,4.1,Good,Tuesday
+14-10-2025,17:18,Evening Snacks,16,Upma,1,30,30,30,Card,Rainy,4.4,Very Good,Tuesday
+14-10-2025,13:04,Lunch,71,Coffee,1,12,12,12,UPI,Cloudy,3.9,Good,Tuesday
+14-10-2025,17:15,Evening Snacks,55,Bisibele Bath,1,50,50,50,UPI,Rainy,3.6,Average,Tuesday
+14-10-2025,19:24,Evening Snacks,13,South Indian Thali,3,90,90,270,UPI,Rainy,4.2,Very Good,Tuesday
+14-10-2025,18:37,Evening Snacks,13,Idly,2,25,25,50,Cash,Rainy,3.7,Good,Tuesday
+14-10-2025,19:06,Evening Snacks,91,Upma,1,30,30,30,UPI,Rainy,3.8,Good,Tuesday
+14-10-2025,15:39,Evening Snacks,39,Coffee,1,50,50,50,UPI,Windy,4.1,Good,Tuesday
+14-10-2025,17:01,Evening Snacks,72,Coffee,3,15,15,45,Cash,Rainy,4.5,Excellent,Tuesday
+14-10-2025,08:11,Breakfast,59,Bisibele Bath,2,40,40,80,Cash,Sunny,4,Good,Tuesday
+14-10-2025,12:17,Lunch,99,Sandwich,3,12,12,36,UPI,Sunny,4,Good,Tuesday
+14-10-2025,12:55,Lunch,63,Bisibele Bath,1,30,30,30,UPI,Sunny,4.3,Very Good,Tuesday
+14-10-2025,12:54,Lunch,71,Coffee,1,15,15,15,UPI,Sunny,4,Good,Tuesday
+14-10-2025,09:21,Breakfast,85,Coffee,1,50,50,50,UPI,Sunny,4.3,Very Good,Tuesday
+14-10-2025,13:13,Lunch,16,Tea,1,40,40,40,UPI,Sunny,4.4,Very Good,Tuesday
+14-10-2025,12:06,Lunch,43,Juice,1,30,30,30,UPI,Sunny,3.9,Good,Tuesday
+14-10-2025,12:52,Lunch,50,Fried Rice,1,25,25,25,UPI,Sunny,2.7,Average,Tuesday
+14-10-2025,12:32,Lunch,42,Idly,1,50,50,50,UPI,Windy,3.7,Good,Tuesday
+14-10-2025,19:07,Evening Snacks,18,Sandwich,1,40,40,40,Cash,Cloudy,4.5,Excellent,Tuesday
+14-10-2025,13:02,Lunch,75,South Indian Thali,2,50,50,100,UPI,Cloudy,4,Good,Tuesday
+14-10-2025,16:18,Evening Snacks,55,Coffee,1,80,80,80,UPI,Cloudy,3.9,Good,Tuesday
+14-10-2025,16:04,Evening Snacks,48,Tea,1,15,15,15,UPI,Rainy,4.5,Excellent,Tuesday
+14-10-2025,16:20,Evening Snacks,85,Tea,1,90,90,90,UPI,Sunny,4,Good,Tuesday
+14-10-2025,12:46,Lunch,24,Veg Biryani,1,35,35,35,UPI,Windy,3.2,Average,Tuesday
+14-10-2025,15:11,Evening Snacks,18,Pani Puri,2,40,40,80,Card,Sunny,3.4,Average,Tuesday
+14-10-2025,15:51,Evening Snacks,2,Juice,2,25,25,50,UPI,Sunny,4.2,Very Good,Tuesday
+14-10-2025,08:05,Breakfast,15,Dosa,1,50,50,50,UPI,Sunny,4,Good,Tuesday
+14-10-2025,09:44,Breakfast,24,Tea,2,35,35,70,UPI,Cloudy,4.6,Excellent,Tuesday
+14-10-2025,09:29,Breakfast,1,Chapati,1,90,90,90,UPI,Rainy,3.7,Good,Tuesday
+14-10-2025,18:45,Evening Snacks,87,Fried Rice,1,70,70,70,UPI,Cloudy,3.9,Good,Tuesday
+14-10-2025,17:25,Evening Snacks,1,Dosa,1,40,40,40,UPI,Sunny,3.6,Average,Tuesday
+14-10-2025,12:24,Lunch,45,Veg Biryani,1,30,30,30,Cash,Sunny,3.8,Good,Tuesday
+14-10-2025,12:29,Lunch,23,Dosa,1,70,70,70,UPI,Sunny,3.2,Average,Tuesday
+14-10-2025,12:01,Lunch,20,Sandwich,3,30,30,90,UPI,Sunny,3.8,Good,Tuesday
+14-10-2025,13:17,Lunch,1,Ice Cream,2,15,15,30,UPI,Sunny,4,Good,Tuesday
+14-10-2025,09:32,Breakfast,15,Idly,2,30,30,60,UPI,Rainy,3.9,Good,Tuesday
+14-10-2025,13:40,Lunch,45,Tea,1,30,30,30,Cash,Sunny,4.9,Excellent,Tuesday
+14-10-2025,09:49,Breakfast,19,Upma,2,30,30,60,UPI,Rainy,4.7,Excellent,Tuesday
+14-10-2025,19:15,Evening Snacks,56,Tea,1,12,12,12,UPI,Rainy,3.7,Good,Tuesday
+14-10-2025,13:29,Lunch,72,Bisibele Bath,2,50,50,100,UPI,Cloudy,3.2,Average,Tuesday
+14-10-2025,15:59,Evening Snacks,70,Coffee,1,30,30,30,UPI,Sunny,4,Good,Tuesday
+14-10-2025,17:06,Evening Snacks,92,Dosa,1,40,40,40,UPI,Cloudy,4.2,Very Good,Tuesday
+14-10-2025,12:09,Lunch,98,Juice,1,50,50,50,UPI,Sunny,3.7,Good,Tuesday
+14-10-2025,17:24,Evening Snacks,53,Upma,3,30,30,90,UPI,Cloudy,3.7,Good,Tuesday
+14-10-2025,13:53,Lunch,23,Chapati,1,40,40,40,UPI,Cloudy,4.6,Excellent,Tuesday
+14-10-2025,16:26,Evening Snacks,97,Pani Puri,1,25,25,25,UPI,Rainy,3.9,Good,Tuesday
+14-10-2025,16:56,Evening Snacks,60,Pani Puri,1,30,30,30,UPI,Rainy,4.3,Very Good,Tuesday
+14-10-2025,15:14,Evening Snacks,85,Coffee,1,40,40,40,UPI,Cloudy,3.6,Average,Tuesday
+14-10-2025,18:53,Evening Snacks,93,Tea,1,12,12,12,UPI,Cloudy,4,Good,Tuesday
+14-10-2025,15:01,Evening Snacks,42,Sandwich,3,50,50,150,UPI,Sunny,3.9,Good,Tuesday
+14-10-2025,18:35,Evening Snacks,70,Bhel Puri,1,30,30,30,Card,Cloudy,3.7,Good,Tuesday
+14-10-2025,13:13,Lunch,78,South Indian Thali,2,25,25,50,UPI,Cloudy,4.5,Excellent,Tuesday
+14-10-2025,15:06,Evening Snacks,67,Coffee,1,50,50,50,UPI,Cloudy,3.4,Average,Tuesday
+14-10-2025,18:49,Evening Snacks,50,Bisibele Bath,1,50,50,50,UPI,Rainy,4.1,Good,Tuesday
+14-10-2025,12:30,Lunch,48,Juice,1,90,90,90,UPI,Sunny,3.9,Good,Tuesday
+14-10-2025,17:21,Evening Snacks,54,Bisibele Bath,2,50,50,100,UPI,Cloudy,4.2,Very Good,Tuesday
+14-10-2025,18:47,Evening Snacks,8,Bisibele Bath,3,50,50,150,UPI,Rainy,3.9,Good,Tuesday
+14-10-2025,13:21,Lunch,62,Dosa,1,35,35,35,Cash,Sunny,4.3,Very Good,Tuesday
+14-10-2025,13:18,Lunch,38,Sandwich,2,25,25,50,UPI,Sunny,3.6,Average,Tuesday
+14-10-2025,13:39,Lunch,42,Tea,1,90,90,90,UPI,Windy,4.5,Excellent,Tuesday
+14-10-2025,16:26,Evening Snacks,33,Pani Puri,1,30,30,30,UPI,Rainy,4,Good,Tuesday
+14-10-2025,13:05,Lunch,11,Dosa,1,45,45,45,UPI,Sunny,3.5,Average,Tuesday
+14-10-2025,18:18,Evening Snacks,32,Bhel Puri,1,30,30,30,UPI,Rainy,4.3,Very Good,Tuesday
+14-10-2025,15:41,Evening Snacks,37,Juice,3,50,50,150,UPI,Sunny,3.9,Good,Tuesday
+14-10-2025,18:38,Evening Snacks,49,French Fries,3,50,50,150,UPI,Rainy,3.3,Average,Tuesday
+14-10-2025,12:21,Lunch,98,Veg Biryani,1,90,90,90,UPI,Sunny,4.1,Good,Tuesday
+14-10-2025,12:18,Lunch,38,Idly,3,50,50,150,UPI,Sunny,4.4,Very Good,Tuesday
+14-10-2025,12:28,Lunch,18,Dosa,3,25,25,75,UPI,Windy,4.5,Excellent,Tuesday
+14-10-2025,12:05,Lunch,78,Ice Cream,2,25,25,50,UPI,Sunny,3.8,Good,Tuesday
+14-10-2025,13:55,Lunch,57,Coffee,1,25,25,25,UPI,Cloudy,4.1,Good,Tuesday
+14-10-2025,08:37,Breakfast,4,Chapati,1,15,15,15,UPI,Rainy,4,Good,Tuesday
+14-10-2025,08:59,Breakfast,16,Idly,1,12,12,12,UPI,Rainy,4.6,Excellent,Tuesday
+14-10-2025,19:31,Evening Snacks,78,Tea,2,40,40,80,UPI,Rainy,3.7,Good,Tuesday
+14-10-2025,16:46,Evening Snacks,46,Juice,1,45,45,45,Card,Rainy,3.8,Good,Tuesday
+14-10-2025,08:27,Breakfast,21,Coffee,2,50,50,100,UPI,Sunny,3.7,Good,Tuesday
+14-10-2025,09:08,Breakfast,6,Dosa,1,25,25,25,UPI,Rainy,3.4,Average,Tuesday
+14-10-2025,09:14,Breakfast,83,Chapati,1,40,40,40,UPI,Cloudy,4.1,Good,Tuesday
+14-10-2025,13:19,Lunch,11,Sandwich,2,90,90,180,UPI,Sunny,4.6,Excellent,Tuesday
+14-10-2025,08:07,Breakfast,83,Chapati,2,40,40,80,UPI,Cloudy,3.9,Good,Tuesday
+14-10-2025,12:48,Lunch,49,Idly,1,40,40,40,Cash,Sunny,3.6,Average,Tuesday
+15-10-2025,18:11,Evening Snacks,46,Idly,1,25,25,25,UPI,Sunny,4.1,Good,Wednesday
+15-10-2025,13:33,Lunch,19,Juice,3,15,15,45,UPI,Sunny,4.2,Very Good,Wednesday
+15-10-2025,09:41,Breakfast,18,Poori,1,30,30,30,Card,Rainy,3.9,Good,Wednesday
+15-10-2025,12:49,Lunch,69,Coffee,2,25,25,50,Card,Cloudy,4.6,Excellent,Wednesday
+15-10-2025,08:42,Breakfast,32,Upma,1,50,50,50,UPI,Cloudy,3.7,Good,Wednesday
+15-10-2025,09:34,Breakfast,26,Poori,1,15,15,15,Cash,Sunny,3.9,Good,Wednesday
+15-10-2025,16:56,Evening Snacks,64,Tea,2,40,40,80,UPI,Rainy,4.1,Good,Wednesday
+15-10-2025,18:49,Evening Snacks,85,Idly,1,25,25,25,UPI,Sunny,4.2,Very Good,Wednesday
+15-10-2025,16:37,Evening Snacks,74,French Fries,1,25,25,25,UPI,Cloudy,4,Good,Wednesday
+15-10-2025,16:45,Evening Snacks,53,Juice,2,90,90,180,Cash,Sunny,3.5,Average,Wednesday
+15-10-2025,09:32,Breakfast,32,Upma,1,25,25,25,UPI,Windy,4.9,Excellent,Wednesday
+15-10-2025,18:40,Evening Snacks,4,Pani Puri,2,25,25,50,UPI,Sunny,3.9,Good,Wednesday
+15-10-2025,16:01,Evening Snacks,18,Tea,1,30,30,30,UPI,Cloudy,4,Good,Wednesday
+15-10-2025,13:02,Lunch,20,Sandwich,1,70,70,70,UPI,Sunny,4.2,Very Good,Wednesday
+15-10-2025,18:36,Evening Snacks,54,Pani Puri,1,25,25,25,UPI,Cloudy,3.7,Good,Wednesday
+15-10-2025,17:21,Evening Snacks,78,Upma,1,30,30,30,UPI,Rainy,4,Good,Wednesday
+15-10-2025,12:05,Lunch,59,Sandwich,2,12,12,24,UPI,Sunny,3.7,Good,Wednesday
+15-10-2025,18:02,Evening Snacks,27,Juice,1,30,30,30,UPI,Rainy,4.2,Very Good,Wednesday
+15-10-2025,12:44,Lunch,49,Sandwich,1,25,25,25,UPI,Sunny,3.9,Good,Wednesday
+15-10-2025,15:16,Evening Snacks,92,Ice Cream,3,45,45,135,UPI,Sunny,4.1,Good,Wednesday
+15-10-2025,09:24,Breakfast,53,Tea,2,30,30,60,UPI,Rainy,3.6,Average,Wednesday
+15-10-2025,16:52,Evening Snacks,18,French Fries,3,40,40,120,UPI,Sunny,3.7,Good,Wednesday
+15-10-2025,09:39,Breakfast,50,Chapati,1,25,25,25,UPI,Sunny,3.5,Average,Wednesday
+15-10-2025,12:54,Lunch,57,Veg Biryani,2,50,50,100,UPI,Sunny,3.7,Good,Wednesday
+15-10-2025,18:34,Evening Snacks,24,French Fries,2,50,50,100,UPI,Rainy,3,Average,Wednesday
+15-10-2025,12:44,Lunch,63,Tea,1,15,15,15,UPI,Sunny,3.9,Good,Wednesday
+15-10-2025,18:20,Evening Snacks,34,Samosa,2,15,15,30,UPI,Cloudy,3.8,Good,Wednesday
+15-10-2025,12:37,Lunch,36,Ice Cream,1,90,90,90,UPI,Sunny,4.1,Good,Wednesday
+15-10-2025,12:47,Lunch,53,Chapati,1,40,40,40,Cash,Windy,4,Good,Wednesday
+15-10-2025,12:00,Lunch,54,Dosa,3,15,15,45,UPI,Sunny,4.5,Excellent,Wednesday
+15-10-2025,13:58,Lunch,87,Tea,1,30,30,30,UPI,Sunny,5,Excellent,Wednesday
+15-10-2025,17:32,Evening Snacks,23,Juice,2,30,30,60,UPI,Sunny,4.5,Excellent,Wednesday
+15-10-2025,18:21,Evening Snacks,100,Samosa,3,15,15,45,UPI,Rainy,3.8,Good,Wednesday
+15-10-2025,13:52,Lunch,17,Tea,1,30,30,30,UPI,Sunny,3.8,Good,Wednesday
+15-10-2025,08:55,Breakfast,19,Upma,1,40,40,40,UPI,Rainy,4.3,Very Good,Wednesday
+15-10-2025,13:03,Lunch,37,Juice,2,70,70,140,UPI,Sunny,3.3,Average,Wednesday
+15-10-2025,19:25,Evening Snacks,48,Juice,1,30,30,30,UPI,Sunny,3.9,Good,Wednesday
+15-10-2025,18:14,Evening Snacks,30,South Indian Thali,1,90,90,90,Cash,Rainy,3.9,Good,Wednesday
+15-10-2025,15:17,Evening Snacks,88,Tea,3,50,50,150,UPI,Sunny,4.2,Very Good,Wednesday
+15-10-2025,17:49,Evening Snacks,89,Pani Puri,1,25,25,25,UPI,Sunny,4.2,Very Good,Wednesday
+15-10-2025,19:58,Evening Snacks,63,Bisibele Bath,2,50,50,100,UPI,Cloudy,3.7,Good,Wednesday
+15-10-2025,18:53,Evening Snacks,81,Poori,2,45,45,90,UPI,Rainy,3.8,Good,Wednesday
+15-10-2025,19:13,Evening Snacks,9,Upma,1,30,30,30,UPI,Cloudy,4.2,Very Good,Wednesday
+15-10-2025,17:38,Evening Snacks,93,French Fries,1,50,50,50,Cash,Rainy,3.7,Good,Wednesday
+15-10-2025,16:04,Evening Snacks,99,Bhel Puri,1,40,40,40,UPI,Cloudy,4.5,Excellent,Wednesday
+15-10-2025,13:36,Lunch,87,Sandwich,3,90,90,270,UPI,Sunny,4.2,Very Good,Wednesday
+15-10-2025,13:41,Lunch,78,Veg Biryani,3,40,40,120,UPI,Sunny,4.1,Good,Wednesday
+15-10-2025,16:34,Evening Snacks,2,Bhel Puri,2,30,30,60,UPI,Rainy,4.2,Very Good,Wednesday
+15-10-2025,15:32,Evening Snacks,77,Tea,2,40,40,80,UPI,Sunny,3.8,Good,Wednesday
+15-10-2025,08:47,Breakfast,15,Coffee,1,30,30,30,UPI,Cloudy,3.7,Good,Wednesday
+15-10-2025,13:19,Lunch,73,Sandwich,2,45,45,90,UPI,Sunny,3.8,Good,Wednesday
+15-10-2025,13:45,Lunch,10,South Indian Thali,1,15,15,15,UPI,Cloudy,4.2,Very Good,Wednesday
+15-10-2025,18:14,Evening Snacks,68,Dosa,1,40,40,40,Cash,Cloudy,4.1,Good,Wednesday
+15-10-2025,19:44,Evening Snacks,28,Fried Rice,1,70,70,70,UPI,Rainy,3.8,Good,Wednesday
+15-10-2025,19:27,Evening Snacks,8,Upma,1,30,30,30,UPI,Rainy,4.3,Very Good,Wednesday
+15-10-2025,08:30,Breakfast,66,Dosa,2,50,50,100,UPI,Sunny,3.9,Good,Wednesday
+15-10-2025,08:27,Breakfast,36,Dosa,1,40,40,40,UPI,Rainy,3.7,Good,Wednesday
+15-10-2025,16:01,Evening Snacks,65,Bhel Puri,1,90,90,90,UPI,Cloudy,4.1,Good,Wednesday
+15-10-2025,13:19,Lunch,67,Idly,2,25,25,50,UPI,Cloudy,3.6,Average,Wednesday
+15-10-2025,12:57,Lunch,71,Fried Rice,2,90,90,180,UPI,Sunny,3.3,Average,Wednesday
+15-10-2025,09:58,Breakfast,85,Idly,2,25,25,50,UPI,Windy,4,Good,Wednesday
+15-10-2025,13:17,Lunch,62,Juice,1,30,30,30,Cash,Sunny,3.7,Good,Wednesday
+15-10-2025,08:11,Breakfast,55,Dosa,2,50,50,100,UPI,Sunny,3.9,Good,Wednesday
+15-10-2025,17:28,Evening Snacks,50,Samosa,2,15,15,30,UPI,Rainy,3.6,Average,Wednesday
+15-10-2025,13:34,Lunch,21,Veg Biryani,1,80,80,80,UPI,Cloudy,4.5,Excellent,Wednesday
+15-10-2025,09:51,Breakfast,43,Bisibele Bath,1,30,30,30,UPI,Cloudy,3.7,Good,Wednesday
+15-10-2025,12:24,Lunch,9,South Indian Thali,3,50,50,150,UPI,Sunny,3.8,Good,Wednesday
+15-10-2025,12:41,Lunch,48,Sandwich,2,30,30,60,UPI,Sunny,4.2,Very Good,Wednesday
+15-10-2025,12:30,Lunch,99,Ice Cream,2,15,15,30,Card,Sunny,3.4,Average,Wednesday
+15-10-2025,15:36,Evening Snacks,13,Ice Cream,1,45,45,45,UPI,Sunny,3.4,Average,Wednesday
+15-10-2025,19:59,Evening Snacks,9,Bisibele Bath,1,50,50,50,Cash,Sunny,4.2,Very Good,Wednesday
+15-10-2025,13:44,Lunch,71,North Indian Thali,2,12,12,24,UPI,Sunny,3.8,Good,Wednesday
+15-10-2025,15:26,Evening Snacks,1,Juice,1,50,50,50,UPI,Sunny,3.6,Average,Wednesday
+15-10-2025,18:27,Evening Snacks,23,Dosa,2,40,40,80,UPI,Rainy,4.2,Very Good,Wednesday
+15-10-2025,18:50,Evening Snacks,82,Upma,1,30,30,30,UPI,Rainy,3.7,Good,Wednesday
+15-10-2025,17:15,Evening Snacks,48,Bisibele Bath,3,50,50,150,UPI,Rainy,3.9,Good,Wednesday
+15-10-2025,12:30,Lunch,25,Idly,2,50,50,100,UPI,Sunny,3.6,Average,Wednesday
+15-10-2025,16:12,Evening Snacks,82,Bhel Puri,1,40,40,40,UPI,Sunny,4.1,Good,Wednesday
+15-10-2025,17:57,Evening Snacks,61,Tea,2,12,12,24,UPI,Rainy,4.5,Excellent,Wednesday
+15-10-2025,17:29,Evening Snacks,38,Juice,3,30,30,90,UPI,Rainy,3.3,Average,Wednesday
+16-10-2025,13:28,Lunch,50,Fried Rice,3,90,90,270,UPI,Cloudy,4,Good,Thursday
+16-10-2025,09:17,Breakfast,19,Coffee,1,25,25,25,UPI,Cloudy,4.3,Very Good,Thursday
+16-10-2025,08:18,Breakfast,87,Tea,1,40,40,40,UPI,Sunny,3.8,Good,Thursday
+16-10-2025,16:53,Evening Snacks,89,Juice,2,50,50,100,Cash,Rainy,3.5,Average,Thursday
+16-10-2025,16:00,Evening Snacks,16,Sandwich,2,45,45,90,Cash,Rainy,4.2,Very Good,Thursday
+16-10-2025,16:20,Evening Snacks,91,Coffee,1,40,40,40,UPI,Sunny,4.4,Very Good,Thursday
+16-10-2025,13:38,Lunch,53,Juice,3,45,45,135,UPI,Sunny,4.4,Very Good,Thursday
+16-10-2025,09:18,Breakfast,25,Bisibele Bath,1,80,80,80,UPI,Cloudy,4.1,Good,Thursday
+16-10-2025,17:04,Evening Snacks,20,Samosa,1,15,15,15,UPI,Rainy,4,Good,Thursday
+16-10-2025,18:12,Evening Snacks,88,Coffee,2,15,15,30,Cash,Rainy,3.6,Average,Thursday
+16-10-2025,13:39,Lunch,17,Veg Biryani,1,25,25,25,UPI,Sunny,4.3,Very Good,Thursday
+16-10-2025,16:37,Evening Snacks,91,Pani Puri,3,30,30,90,UPI,Cloudy,4.3,Very Good,Thursday
+16-10-2025,15:46,Evening Snacks,54,Coffee,1,30,30,30,UPI,Cloudy,3.5,Average,Thursday
+16-10-2025,18:25,Evening Snacks,15,French Fries,3,50,50,150,UPI,Sunny,4.1,Good,Thursday
+16-10-2025,18:24,Evening Snacks,6,Sandwich,1,45,45,45,UPI,Rainy,4.3,Very Good,Thursday
+16-10-2025,13:46,Lunch,65,Juice,2,90,90,180,UPI,Sunny,4.4,Very Good,Thursday
+16-10-2025,12:44,Lunch,86,South Indian Thali,1,15,15,15,UPI,Sunny,4,Good,Thursday
+16-10-2025,18:26,Evening Snacks,29,Ice Cream,1,30,30,30,UPI,Sunny,3.7,Good,Thursday
+16-10-2025,13:04,Lunch,12,Dosa,2,30,30,60,UPI,Cloudy,3.8,Good,Thursday
+16-10-2025,12:36,Lunch,12,Veg Biryani,3,45,45,135,UPI,Sunny,3.6,Average,Thursday
+16-10-2025,13:54,Lunch,82,Chapati,2,35,35,70,UPI,Cloudy,4,Good,Thursday
+16-10-2025,19:53,Evening Snacks,27,French Fries,1,50,50,50,UPI,Rainy,3.9,Good,Thursday
+16-10-2025,19:06,Evening Snacks,55,French Fries,2,50,50,100,UPI,Rainy,4.9,Excellent,Thursday
+16-10-2025,13:06,Lunch,43,North Indian Thali,3,50,50,150,UPI,Sunny,4.4,Very Good,Thursday
+16-10-2025,19:31,Evening Snacks,86,Coffee,2,15,15,30,UPI,Rainy,4.4,Very Good,Thursday
+16-10-2025,12:05,Lunch,3,Dosa,1,25,25,25,UPI,Windy,4.2,Very Good,Thursday
+16-10-2025,12:06,Lunch,3,Sandwich,1,50,50,50,UPI,Sunny,3.9,Good,Thursday
+16-10-2025,08:03,Breakfast,27,Bisibele Bath,1,45,45,45,UPI,Rainy,3.9,Good,Thursday
+16-10-2025,15:14,Evening Snacks,94,Ice Cream,3,12,12,36,UPI,Sunny,3.9,Good,Thursday
+16-10-2025,19:58,Evening Snacks,54,Coffee,1,15,15,15,Cash,Rainy,4.1,Good,Thursday
+16-10-2025,18:37,Evening Snacks,8,French Fries,1,50,50,50,UPI,Rainy,4.2,Very Good,Thursday
+16-10-2025,19:30,Evening Snacks,76,Veg Biryani,3,80,80,240,UPI,Rainy,4,Good,Thursday
+16-10-2025,08:56,Breakfast,40,Upma,1,40,40,40,UPI,Rainy,3.9,Good,Thursday
+16-10-2025,17:44,Evening Snacks,9,Bisibele Bath,1,50,50,50,UPI,Rainy,3.8,Good,Thursday
+16-10-2025,17:00,Evening Snacks,80,Bhel Puri,1,25,25,25,Cash,Rainy,3.4,Average,Thursday
+16-10-2025,13:58,Lunch,54,Dosa,2,30,30,60,UPI,Sunny,4.5,Excellent,Thursday
+16-10-2025,09:38,Breakfast,83,Chapati,2,45,45,90,UPI,Cloudy,4.9,Excellent,Thursday
+16-10-2025,16:43,Evening Snacks,87,Bhel Puri,1,40,40,40,Cash,Rainy,4.5,Excellent,Thursday
+16-10-2025,12:08,Lunch,39,Ice Cream,1,30,30,30,Card,Sunny,3.5,Average,Thursday
+16-10-2025,16:29,Evening Snacks,45,Sandwich,1,45,45,45,Cash,Cloudy,4.3,Very Good,Thursday
+16-10-2025,13:46,Lunch,45,Dosa,1,15,15,15,Cash,Windy,4.4,Very Good,Thursday
+16-10-2025,15:27,Evening Snacks,2,Sandwich,1,45,45,45,UPI,Cloudy,3.8,Good,Thursday
+16-10-2025,13:59,Lunch,65,Ice Cream,3,15,15,45,UPI,Sunny,4.2,Very Good,Thursday
+16-10-2025,17:24,Evening Snacks,86,Sandwich,1,45,45,45,UPI,Rainy,3.8,Good,Thursday
+16-10-2025,16:00,Evening Snacks,83,Pani Puri,1,45,45,45,UPI,Cloudy,4.6,Excellent,Thursday
+16-10-2025,17:26,Evening Snacks,62,French Fries,2,50,50,100,Cash,Cloudy,4.1,Good,Thursday
+16-10-2025,19:10,Evening Snacks,85,South Indian Thali,1,90,90,90,UPI,Sunny,3.6,Average,Thursday
+16-10-2025,15:27,Evening Snacks,70,Juice,2,12,12,24,UPI,Sunny,4.3,Very Good,Thursday
+16-10-2025,19:50,Evening Snacks,100,Idly,2,25,25,50,Cash,Sunny,4.4,Very Good,Thursday
+16-10-2025,13:58,Lunch,24,Idly,1,40,40,40,UPI,Sunny,4.1,Good,Thursday
+16-10-2025,12:56,Lunch,2,Tea,3,50,50,150,UPI,Sunny,4.2,Very Good,Thursday
+16-10-2025,17:49,Evening Snacks,51,Ice Cream,1,25,25,25,UPI,Sunny,4,Good,Thursday
+16-10-2025,13:10,Lunch,78,Chapati,3,15,15,45,UPI,Cloudy,3.5,Average,Thursday
+16-10-2025,16:14,Evening Snacks,69,Tea,3,50,50,150,UPI,Rainy,3.9,Good,Thursday
+16-10-2025,12:43,Lunch,20,Sandwich,2,90,90,180,UPI,Sunny,4.2,Very Good,Thursday
+16-10-2025,13:17,Lunch,4,Coffee,1,90,90,90,UPI,Windy,3.9,Good,Thursday
+16-10-2025,19:22,Evening Snacks,4,Ice Cream,1,12,12,12,UPI,Sunny,4.3,Very Good,Thursday
+16-10-2025,08:09,Breakfast,14,Tea,2,40,40,80,Card,Sunny,3.8,Good,Thursday
+16-10-2025,13:01,Lunch,9,Chapati,3,15,15,45,UPI,Sunny,3.9,Good,Thursday
+16-10-2025,16:50,Evening Snacks,12,Sandwich,1,30,30,30,UPI,Sunny,4.3,Very Good,Thursday
+16-10-2025,15:10,Evening Snacks,68,Sandwich,1,40,40,40,UPI,Cloudy,4.1,Good,Thursday
+16-10-2025,09:51,Breakfast,92,Idly,1,45,45,45,UPI,Rainy,3.8,Good,Thursday
+16-10-2025,12:34,Lunch,67,Tea,1,30,30,30,UPI,Sunny,4.4,Very Good,Thursday
+16-10-2025,16:53,Evening Snacks,7,Ice Cream,3,50,50,150,Cash,Sunny,3.7,Good,Thursday
+16-10-2025,12:02,Lunch,3,Chapati,1,40,40,40,UPI,Windy,3.7,Good,Thursday
+16-10-2025,09:52,Breakfast,9,Idly,1,50,50,50,Cash,Rainy,2.9,Average,Thursday
+16-10-2025,16:46,Evening Snacks,74,Coffee,1,90,90,90,Card,Rainy,3.8,Good,Thursday
+16-10-2025,18:42,Evening Snacks,21,Dosa,1,40,40,40,UPI,Sunny,4.5,Excellent,Thursday
+16-10-2025,18:44,Evening Snacks,3,French Fries,3,50,50,150,UPI,Rainy,3.2,Average,Thursday
+16-10-2025,12:05,Lunch,82,Coffee,2,45,45,90,UPI,Sunny,3.6,Average,Thursday
+16-10-2025,08:17,Breakfast,84,Coffee,2,45,45,90,Cash,Sunny,4.2,Very Good,Thursday
+16-10-2025,12:33,Lunch,47,Dosa,2,50,50,100,UPI,Cloudy,3.1,Average,Thursday
+16-10-2025,16:41,Evening Snacks,64,Tea,1,15,15,15,Cash,Cloudy,3.8,Good,Thursday
+16-10-2025,09:22,Breakfast,48,Coffee,2,50,50,100,UPI,Sunny,4.5,Excellent,Thursday
+16-10-2025,19:06,Evening Snacks,70,Idly,2,25,25,50,UPI,Cloudy,4.8,Excellent,Thursday
+16-10-2025,18:32,Evening Snacks,29,Upma,1,30,30,30,UPI,Cloudy,4.1,Good,Thursday
+16-10-2025,12:08,Lunch,71,North Indian Thali,2,50,50,100,UPI,Sunny,3.6,Average,Thursday
+16-10-2025,15:53,Evening Snacks,26,Pani Puri,3,12,12,36,Cash,Sunny,3.6,Average,Thursday
+16-10-2025,18:08,Evening Snacks,95,Sandwich,3,45,45,135,UPI,Rainy,4.1,Good,Thursday
+16-10-2025,16:58,Evening Snacks,81,Juice,2,25,25,50,UPI,Sunny,4.1,Good,Thursday
+17-10-2025,19:06,Evening Snacks,39,South Indian Thali,2,90,90,180,UPI,Rainy,4.7,Excellent,Friday
+17-10-2025,12:19,Lunch,61,North Indian Thali,2,30,30,60,UPI,Sunny,4.4,Very Good,Friday
+17-10-2025,15:00,Evening Snacks,32,Ice Cream,1,40,40,40,UPI,Sunny,4,Good,Friday
+17-10-2025,19:46,Evening Snacks,72,Sandwich,3,45,45,135,UPI,Cloudy,3.9,Good,Friday
+17-10-2025,16:23,Evening Snacks,77,Tea,2,50,50,100,Cash,Cloudy,5,Excellent,Friday
+17-10-2025,13:08,Lunch,41,Tea,1,50,50,50,UPI,Sunny,4.3,Very Good,Friday
+17-10-2025,13:32,Lunch,35,Veg Biryani,3,15,15,45,UPI,Sunny,3.7,Good,Friday
+17-10-2025,16:33,Evening Snacks,36,French Fries,1,25,25,25,UPI,Rainy,3.9,Good,Friday
+17-10-2025,19:34,Evening Snacks,58,Samosa,2,15,15,30,UPI,Rainy,3.6,Average,Friday
+17-10-2025,19:05,Evening Snacks,41,French Fries,3,50,50,150,UPI,Rainy,3,Average,Friday
+17-10-2025,16:58,Evening Snacks,31,Ice Cream,3,25,25,75,UPI,Sunny,4.1,Good,Friday
+17-10-2025,17:16,Evening Snacks,45,Dosa,3,40,40,120,UPI,Cloudy,4.7,Excellent,Friday
+17-10-2025,13:26,Lunch,39,Ice Cream,1,30,30,30,UPI,Sunny,3.3,Average,Friday
+17-10-2025,08:23,Breakfast,44,Poori,1,25,25,25,UPI,Rainy,4,Good,Friday
+17-10-2025,17:35,Evening Snacks,29,Samosa,1,15,15,15,Card,Sunny,3.7,Good,Friday
+17-10-2025,16:49,Evening Snacks,15,Ice Cream,1,40,40,40,UPI,Sunny,4.2,Very Good,Friday
+17-10-2025,12:45,Lunch,52,Tea,3,25,25,75,UPI,Sunny,3.9,Good,Friday
+17-10-2025,12:58,Lunch,56,North Indian Thali,3,30,30,90,Cash,Windy,3.5,Average,Friday
+17-10-2025,12:23,Lunch,89,Veg Biryani,1,25,25,25,UPI,Windy,3.6,Average,Friday
+17-10-2025,16:03,Evening Snacks,92,Tea,3,80,80,240,Cash,Rainy,3.7,Good,Friday
+17-10-2025,12:37,Lunch,81,Veg Biryani,1,12,12,12,Card,Sunny,4.5,Excellent,Friday
+17-10-2025,12:05,Lunch,75,South Indian Thali,1,15,15,15,UPI,Windy,4.5,Excellent,Friday
+17-10-2025,12:10,Lunch,45,Juice,1,25,25,25,UPI,Sunny,3.9,Good,Friday
+17-10-2025,13:27,Lunch,98,Tea,3,30,30,90,UPI,Sunny,4.5,Excellent,Friday
+17-10-2025,12:23,Lunch,59,Dosa,2,50,50,100,UPI,Sunny,3.9,Good,Friday
+17-10-2025,12:32,Lunch,12,Fried Rice,1,25,25,25,Cash,Sunny,3.9,Good,Friday
+17-10-2025,13:00,Lunch,98,Fried Rice,1,15,15,15,UPI,Sunny,4,Good,Friday
+17-10-2025,12:12,Lunch,66,Dosa,1,45,45,45,UPI,Sunny,4.1,Good,Friday
+17-10-2025,16:05,Evening Snacks,76,Ice Cream,2,45,45,90,UPI,Sunny,3.8,Good,Friday
+17-10-2025,18:48,Evening Snacks,31,Idly,2,25,25,50,UPI,Rainy,4,Good,Friday
+17-10-2025,18:00,Evening Snacks,96,Tea,2,12,12,24,UPI,Sunny,4.3,Very Good,Friday
+17-10-2025,18:19,Evening Snacks,93,Idly,1,25,25,25,UPI,Sunny,4.1,Good,Friday
+17-10-2025,19:18,Evening Snacks,87,Tea,1,40,40,40,Cash,Rainy,4,Good,Friday
+17-10-2025,18:52,Evening Snacks,23,Bhel Puri,1,30,30,30,Card,Rainy,4.2,Very Good,Friday
+17-10-2025,13:40,Lunch,72,Fried Rice,3,50,50,150,UPI,Sunny,4.3,Very Good,Friday
+17-10-2025,18:18,Evening Snacks,85,Juice,1,30,30,30,UPI,Sunny,4,Good,Friday
+17-10-2025,15:07,Evening Snacks,52,Coffee,1,50,50,50,UPI,Sunny,3.8,Good,Friday
+17-10-2025,13:49,Lunch,93,Bisibele Bath,1,40,40,40,UPI,Cloudy,4.1,Good,Friday
+17-10-2025,08:32,Breakfast,57,Bisibele Bath,1,90,90,90,UPI,Rainy,3.4,Average,Friday
+17-10-2025,16:17,Evening Snacks,38,Pani Puri,1,40,40,40,UPI,Rainy,3.9,Good,Friday
+17-10-2025,08:36,Breakfast,67,Coffee,1,30,30,30,Cash,Sunny,3,Average,Friday
+17-10-2025,12:38,Lunch,48,North Indian Thali,3,90,90,270,UPI,Sunny,3.3,Average,Friday
+17-10-2025,17:21,Evening Snacks,86,Bhel Puri,1,30,30,30,UPI,Rainy,3.3,Average,Friday
+17-10-2025,15:15,Evening Snacks,3,Juice,1,25,25,25,UPI,Cloudy,4.4,Very Good,Friday
+17-10-2025,13:14,Lunch,78,Chapati,2,12,12,24,UPI,Sunny,4,Good,Friday
+17-10-2025,13:40,Lunch,28,Dosa,2,50,50,100,UPI,Sunny,3.5,Average,Friday
+17-10-2025,16:47,Evening Snacks,11,Pani Puri,3,40,40,120,Card,Cloudy,4.2,Very Good,Friday
+17-10-2025,09:04,Breakfast,20,Chapati,2,30,30,60,UPI,Sunny,4.4,Very Good,Friday
+17-10-2025,09:10,Breakfast,42,Idly,1,45,45,45,UPI,Cloudy,4.2,Very Good,Friday
+17-10-2025,12:58,Lunch,99,Ice Cream,3,45,45,135,UPI,Sunny,3.9,Good,Friday
+17-10-2025,13:12,Lunch,1,Ice Cream,3,30,30,90,UPI,Sunny,4.1,Good,Friday
+17-10-2025,15:44,Evening Snacks,94,Pani Puri,3,15,15,45,UPI,Windy,4.4,Very Good,Friday
+17-10-2025,12:25,Lunch,7,Tea,1,30,30,30,UPI,Sunny,3.8,Good,Friday
+17-10-2025,17:45,Evening Snacks,96,Dosa,2,40,40,80,UPI,Rainy,4,Good,Friday
+17-10-2025,13:03,Lunch,96,Tea,1,15,15,15,UPI,Sunny,3.9,Good,Friday
+17-10-2025,16:52,Evening Snacks,65,French Fries,1,40,40,40,UPI,Rainy,3.4,Average,Friday
+17-10-2025,15:50,Evening Snacks,35,Juice,2,30,30,60,UPI,Sunny,4.4,Very Good,Friday
+17-10-2025,16:32,Evening Snacks,87,Coffee,2,30,30,60,UPI,Rainy,4.8,Excellent,Friday
+17-10-2025,12:08,Lunch,31,Ice Cream,1,30,30,30,UPI,Sunny,3.7,Good,Friday
+17-10-2025,15:12,Evening Snacks,71,Sandwich,1,25,25,25,Cash,Sunny,4.4,Very Good,Friday
+23-10-2025,12:22,Lunch,13,Dosa,1,25,25,25,UPI,Sunny,3.7,Good,Thursday
+23-10-2025,12:48,Lunch,21,Tea,1,40,40,40,UPI,Sunny,4.1,Good,Thursday
+23-10-2025,08:30,Breakfast,47,Poori,1,25,25,25,UPI,Rainy,4.6,Excellent,Thursday
+23-10-2025,13:38,Lunch,97,Fried Rice,1,45,45,45,Cash,Sunny,3.8,Good,Thursday
+23-10-2025,12:15,Lunch,29,Veg Biryani,2,45,45,90,UPI,Cloudy,4,Good,Thursday
+23-10-2025,18:00,Evening Snacks,32,Pani Puri,2,25,25,50,Cash,Rainy,3.3,Average,Thursday
+23-10-2025,12:01,Lunch,91,Idly,3,45,45,135,UPI,Sunny,3.7,Good,Thursday
+23-10-2025,15:54,Evening Snacks,3,Juice,3,40,40,120,UPI,Sunny,3.2,Average,Thursday
+23-10-2025,12:32,Lunch,61,Chapati,1,30,30,30,UPI,Cloudy,4.2,Very Good,Thursday
+23-10-2025,15:55,Evening Snacks,4,Coffee,1,30,30,30,Cash,Sunny,4.3,Very Good,Thursday
+23-10-2025,19:35,Evening Snacks,59,Dosa,1,40,40,40,UPI,Sunny,3.9,Good,Thursday
+23-10-2025,15:10,Evening Snacks,97,French Fries,3,40,40,120,UPI,Windy,4.1,Good,Thursday
+23-10-2025,16:42,Evening Snacks,54,French Fries,1,50,50,50,UPI,Cloudy,3.9,Good,Thursday
+23-10-2025,16:18,Evening Snacks,15,Juice,2,50,50,100,UPI,Cloudy,4.3,Very Good,Thursday
+23-10-2025,12:54,Lunch,58,Sandwich,3,25,25,75,Cash,Sunny,4.1,Good,Thursday
+23-10-2025,17:29,Evening Snacks,31,Sandwich,2,45,45,90,UPI,Cloudy,3.2,Average,Thursday
+23-10-2025,12:13,Lunch,100,Ice Cream,1,45,45,45,UPI,Sunny,4.4,Very Good,Thursday
+23-10-2025,17:00,Evening Snacks,27,Coffee,2,50,50,100,UPI,Rainy,3.8,Good,Thursday
+23-10-2025,09:09,Breakfast,6,Tea,1,90,90,90,UPI,Rainy,3.5,Average,Thursday
+23-10-2025,17:55,Evening Snacks,39,Pani Puri,1,25,25,25,UPI,Cloudy,3.8,Good,Thursday
+23-10-2025,18:37,Evening Snacks,94,South Indian Thali,1,90,90,90,UPI,Rainy,3.2,Average,Thursday
+23-10-2025,09:27,Breakfast,54,Coffee,2,25,25,50,Card,Sunny,3.5,Average,Thursday
+23-10-2025,08:38,Breakfast,48,Poori,1,25,25,25,UPI,Rainy,4.1,Good,Thursday
+23-10-2025,12:29,Lunch,95,Idly,3,15,15,45,UPI,Sunny,4.1,Good,Thursday
+23-10-2025,13:58,Lunch,33,Veg Biryani,1,30,30,30,UPI,Sunny,4.1,Good,Thursday
+23-10-2025,13:08,Lunch,62,Veg Biryani,3,45,45,135,UPI,Sunny,4,Good,Thursday
+23-10-2025,13:10,Lunch,1,Fried Rice,1,45,45,45,UPI,Sunny,3.7,Good,Thursday
+23-10-2025,12:28,Lunch,52,Bisibele Bath,1,30,30,30,Cash,Sunny,4,Good,Thursday
+23-10-2025,13:47,Lunch,24,Sandwich,1,45,45,45,Card,Sunny,3.8,Good,Thursday
+23-10-2025,20:00,Evening Snacks,62,Pani Puri,1,25,25,25,UPI,Rainy,3.3,Average,Thursday
+23-10-2025,13:16,Lunch,34,Sandwich,1,30,30,30,UPI,Sunny,3.7,Good,Thursday
+23-10-2025,13:59,Lunch,11,Bisibele Bath,1,40,40,40,UPI,Cloudy,4.4,Very Good,Thursday
+23-10-2025,15:16,Evening Snacks,16,Sandwich,2,40,40,80,UPI,Sunny,4.6,Excellent,Thursday
+23-10-2025,12:11,Lunch,99,Ice Cream,1,40,40,40,UPI,Sunny,4.3,Very Good,Thursday
+23-10-2025,16:48,Evening Snacks,68,Ice Cream,2,50,50,100,UPI,Sunny,4.6,Excellent,Thursday
+23-10-2025,19:13,Evening Snacks,37,French Fries,2,50,50,100,UPI,Cloudy,4,Good,Thursday
+23-10-2025,16:19,Evening Snacks,14,Sandwich,1,50,50,50,UPI,Rainy,4.7,Excellent,Thursday
+23-10-2025,12:35,Lunch,54,Juice,3,30,30,90,UPI,Sunny,4.8,Excellent,Thursday
+23-10-2025,15:12,Evening Snacks,2,Bhel Puri,1,25,25,25,UPI,Sunny,3.3,Average,Thursday
+23-10-2025,08:27,Breakfast,13,Idly,1,90,90,90,UPI,Rainy,4.1,Good,Thursday
+23-10-2025,12:12,Lunch,46,Chapati,1,15,15,15,UPI,Sunny,4,Good,Thursday
+23-10-2025,18:46,Evening Snacks,78,South Indian Thali,1,90,90,90,UPI,Rainy,3.8,Good,Thursday
+23-10-2025,13:56,Lunch,74,North Indian Thali,1,35,35,35,UPI,Sunny,4.2,Very Good,Thursday
+23-10-2025,16:28,Evening Snacks,90,Sandwich,1,45,45,45,UPI,Rainy,4,Good,Thursday
+23-10-2025,12:26,Lunch,10,Idly,2,50,50,100,UPI,Cloudy,3.7,Good,Thursday
+23-10-2025,18:29,Evening Snacks,15,French Fries,1,50,50,50,UPI,Rainy,4,Good,Thursday
+23-10-2025,13:28,Lunch,31,Idly,1,90,90,90,UPI,Sunny,4.5,Excellent,Thursday
+23-10-2025,16:50,Evening Snacks,97,Juice,1,30,30,30,UPI,Sunny,4.1,Good,Thursday
+23-10-2025,13:17,Lunch,87,North Indian Thali,2,25,25,50,UPI,Windy,4.3,Very Good,Thursday
+23-10-2025,16:35,Evening Snacks,65,Juice,1,50,50,50,UPI,Cloudy,3.9,Good,Thursday
+23-10-2025,12:53,Lunch,76,Bisibele Bath,3,30,30,90,UPI,Windy,4.2,Very Good,Thursday
+23-10-2025,17:31,Evening Snacks,94,South Indian Thali,1,90,90,90,UPI,Rainy,3.5,Average,Thursday
+23-10-2025,15:19,Evening Snacks,14,Pani Puri,1,40,40,40,UPI,Sunny,3.8,Good,Thursday
+23-10-2025,17:17,Evening Snacks,81,Bisibele Bath,1,50,50,50,Cash,Rainy,4,Good,Thursday
+23-10-2025,18:05,Evening Snacks,14,Juice,1,30,30,30,Cash,Sunny,3.5,Average,Thursday
+23-10-2025,20:00,Evening Snacks,16,South Indian Thali,1,90,90,90,Cash,Rainy,3.7,Good,Thursday
+23-10-2025,15:29,Evening Snacks,34,Bhel Puri,1,15,15,15,UPI,Sunny,4.1,Good,Thursday
+23-10-2025,19:22,Evening Snacks,41,Bisibele Bath,1,50,50,50,UPI,Cloudy,4.1,Good,Thursday
+23-10-2025,12:06,Lunch,77,Bisibele Bath,2,30,30,60,UPI,Sunny,4.3,Very Good,Thursday
+23-10-2025,16:34,Evening Snacks,6,Tea,3,45,45,135,Cash,Sunny,3.8,Good,Thursday
+23-10-2025,16:29,Evening Snacks,69,Pani Puri,3,50,50,150,UPI,Cloudy,4,Good,Thursday
+23-10-2025,12:35,Lunch,78,Tea,3,25,25,75,UPI,Cloudy,3.7,Good,Thursday
+23-10-2025,18:57,Evening Snacks,43,Pani Puri,1,25,25,25,Cash,Sunny,4.3,Very Good,Thursday
+23-10-2025,17:23,Evening Snacks,9,Poori,1,45,45,45,UPI,Cloudy,4.5,Excellent,Thursday
+23-10-2025,13:19,Lunch,58,Juice,3,40,40,120,UPI,Sunny,4.2,Very Good,Thursday
+23-10-2025,15:17,Evening Snacks,91,French Fries,1,90,90,90,UPI,Sunny,4.4,Very Good,Thursday
+23-10-2025,20:00,Evening Snacks,83,Bisibele Bath,1,50,50,50,UPI,Rainy,4,Good,Thursday
+23-10-2025,18:09,Evening Snacks,93,Bhel Puri,3,30,30,90,UPI,Rainy,4.3,Very Good,Thursday
+23-10-2025,17:15,Evening Snacks,24,Bhel Puri,1,30,30,30,Cash,Cloudy,4,Good,Thursday
+23-10-2025,12:40,Lunch,70,Tea,1,40,40,40,UPI,Sunny,3.6,Average,Thursday
+23-10-2025,15:39,Evening Snacks,98,Ice Cream,1,30,30,30,UPI,Sunny,4.1,Good,Thursday
+23-10-2025,18:09,Evening Snacks,21,Pani Puri,1,25,25,25,Cash,Rainy,3.6,Average,Thursday
+23-10-2025,13:43,Lunch,90,Idly,1,45,45,45,UPI,Windy,4.9,Excellent,Thursday
+23-10-2025,12:52,Lunch,16,Sandwich,1,30,30,30,Cash,Sunny,3.9,Good,Thursday
+23-10-2025,18:49,Evening Snacks,36,Coffee,2,15,15,30,UPI,Rainy,4.3,Very Good,Thursday
+23-10-2025,16:13,Evening Snacks,45,Tea,2,40,40,80,UPI,Cloudy,4,Good,Thursday
+23-10-2025,16:19,Evening Snacks,5,Tea,2,40,40,80,UPI,Rainy,3.5,Average,Thursday
+23-10-2025,13:21,Lunch,12,Dosa,1,50,50,50,Cash,Sunny,3.2,Average,Thursday
+23-10-2025,15:07,Evening Snacks,50,Sandwich,1,40,40,40,UPI,Sunny,4.3,Very Good,Thursday
+23-10-2025,17:18,Evening Snacks,50,Pani Puri,1,25,25,25,UPI,Rainy,4.6,Excellent,Thursday
+24-10-2025,15:23,Evening Snacks,5,Tea,1,15,15,15,Cash,Cloudy,3.7,Good,Friday
+24-10-2025,18:01,Evening Snacks,56,Bisibele Bath,2,50,50,100,UPI,Sunny,3.3,Average,Friday
+24-10-2025,15:54,Evening Snacks,73,Bhel Puri,1,40,40,40,UPI,Sunny,3.9,Good,Friday
+24-10-2025,13:08,Lunch,12,Juice,1,25,25,25,UPI,Sunny,3.6,Average,Friday
+24-10-2025,16:09,Evening Snacks,80,Coffee,1,15,15,15,UPI,Rainy,3.7,Good,Friday
+24-10-2025,18:18,Evening Snacks,38,Upma,1,30,30,30,UPI,Rainy,4.2,Very Good,Friday
+24-10-2025,13:26,Lunch,35,North Indian Thali,1,35,35,35,UPI,Sunny,4,Good,Friday
+24-10-2025,13:43,Lunch,78,Coffee,3,30,30,90,UPI,Sunny,3.7,Good,Friday
+24-10-2025,18:05,Evening Snacks,95,South Indian Thali,1,90,90,90,UPI,Rainy,4.2,Very Good,Friday
+24-10-2025,13:55,Lunch,65,South Indian Thali,1,30,30,30,UPI,Sunny,4.3,Very Good,Friday
+24-10-2025,18:32,Evening Snacks,94,Dosa,1,40,40,40,UPI,Cloudy,3.9,Good,Friday
+24-10-2025,14:00,Lunch,43,Tea,3,12,12,36,UPI,Sunny,4.1,Good,Friday
+24-10-2025,08:34,Breakfast,74,Upma,1,50,50,50,UPI,Cloudy,4.2,Very Good,Friday
+24-10-2025,13:37,Lunch,80,Veg Biryani,3,15,15,45,UPI,Windy,4.2,Very Good,Friday
+24-10-2025,16:52,Evening Snacks,32,Pani Puri,1,50,50,50,UPI,Sunny,4,Good,Friday
+24-10-2025,13:55,Lunch,37,Sandwich,3,30,30,90,UPI,Sunny,4.6,Excellent,Friday
+24-10-2025,13:16,Lunch,52,Ice Cream,3,50,50,150,UPI,Sunny,4.2,Very Good,Friday
+24-10-2025,08:58,Breakfast,26,Dosa,2,50,50,100,UPI,Sunny,3.8,Good,Friday
+24-10-2025,09:15,Breakfast,71,Chapati,1,50,50,50,UPI,Windy,3.8,Good,Friday
+24-10-2025,17:54,Evening Snacks,83,Coffee,3,15,15,45,UPI,Cloudy,3.8,Good,Friday
+24-10-2025,19:12,Evening Snacks,69,South Indian Thali,3,90,90,270,UPI,Cloudy,4.3,Very Good,Friday
+24-10-2025,15:58,Evening Snacks,59,Tea,1,90,90,90,Cash,Sunny,3.8,Good,Friday
+24-10-2025,19:44,Evening Snacks,75,Juice,2,30,30,60,UPI,Rainy,3.8,Good,Friday
+24-10-2025,08:33,Breakfast,11,Bisibele Bath,1,90,90,90,UPI,Windy,4.4,Very Good,Friday
+24-10-2025,17:55,Evening Snacks,14,French Fries,2,50,50,100,UPI,Cloudy,4.1,Good,Friday
+24-10-2025,13:46,Lunch,1,Ice Cream,2,90,90,180,Cash,Sunny,4.5,Excellent,Friday
+24-10-2025,13:09,Lunch,88,Coffee,1,35,35,35,UPI,Cloudy,4.3,Very Good,Friday
+24-10-2025,13:24,Lunch,27,Dosa,1,30,30,30,UPI,Sunny,3.5,Average,Friday
+24-10-2025,18:34,Evening Snacks,3,Samosa,1,15,15,15,UPI,Cloudy,4,Good,Friday
+24-10-2025,13:56,Lunch,53,Chapati,2,25,25,50,Cash,Sunny,4.4,Very Good,Friday
+24-10-2025,15:29,Evening Snacks,18,Pani Puri,1,50,50,50,Cash,Sunny,3.5,Average,Friday
+24-10-2025,18:07,Evening Snacks,10,French Fries,2,50,50,100,UPI,Rainy,4.2,Very Good,Friday
+24-10-2025,19:17,Evening Snacks,16,Coffee,2,40,40,80,UPI,Rainy,4,Good,Friday
+24-10-2025,17:33,Evening Snacks,69,Idly,1,25,25,25,UPI,Sunny,3.3,Average,Friday
+24-10-2025,19:05,Evening Snacks,39,Sandwich,2,45,45,90,UPI,Cloudy,4,Good,Friday
+24-10-2025,17:18,Evening Snacks,67,Sandwich,1,45,45,45,Cash,Cloudy,3.7,Good,Friday
+24-10-2025,12:31,Lunch,7,North Indian Thali,3,45,45,135,Cash,Windy,3.5,Average,Friday
+24-10-2025,12:41,Lunch,93,Juice,1,50,50,50,UPI,Sunny,4,Good,Friday
+24-10-2025,08:10,Breakfast,49,Coffee,2,90,90,180,UPI,Rainy,3.2,Average,Friday
+24-10-2025,13:43,Lunch,98,North Indian Thali,1,25,25,25,UPI,Sunny,3.7,Good,Friday
+24-10-2025,16:04,Evening Snacks,59,Sandwich,2,40,40,80,UPI,Sunny,5,Excellent,Friday
+24-10-2025,16:37,Evening Snacks,50,Ice Cream,3,25,25,75,UPI,Sunny,4.3,Very Good,Friday
+24-10-2025,12:06,Lunch,33,Bisibele Bath,1,45,45,45,UPI,Sunny,3.6,Average,Friday
+24-10-2025,17:54,Evening Snacks,49,Poori,3,45,45,135,Card,Cloudy,4.6,Excellent,Friday
+24-10-2025,18:02,Evening Snacks,87,Dosa,1,40,40,40,UPI,Rainy,3.6,Average,Friday
+24-10-2025,12:47,Lunch,62,Bisibele Bath,1,30,30,30,Cash,Sunny,3.8,Good,Friday
+24-10-2025,17:12,Evening Snacks,58,Juice,1,30,30,30,UPI,Sunny,3.5,Average,Friday
+24-10-2025,12:45,Lunch,23,Sandwich,1,90,90,90,Cash,Sunny,4.1,Good,Friday
+24-10-2025,12:17,Lunch,57,Sandwich,2,30,30,60,UPI,Sunny,4.5,Excellent,Friday
+24-10-2025,12:05,Lunch,78,Ice Cream,1,15,15,15,UPI,Sunny,3.6,Average,Friday
+24-10-2025,18:07,Evening Snacks,79,Coffee,1,15,15,15,UPI,Sunny,3.2,Average,Friday
+24-10-2025,19:46,Evening Snacks,92,Tea,3,12,12,36,UPI,Rainy,4.4,Very Good,Friday
+24-10-2025,12:45,Lunch,33,Veg Biryani,2,40,40,80,UPI,Windy,4.6,Excellent,Friday
+24-10-2025,18:01,Evening Snacks,72,Poori,2,45,45,90,UPI,Sunny,3.2,Average,Friday
+24-10-2025,12:33,Lunch,54,Tea,2,40,40,80,UPI,Windy,4.2,Very Good,Friday
+24-10-2025,12:39,Lunch,39,North Indian Thali,1,90,90,90,UPI,Sunny,4.1,Good,Friday
+24-10-2025,09:36,Breakfast,8,Tea,1,45,45,45,UPI,Sunny,3.7,Good,Friday
+24-10-2025,16:40,Evening Snacks,74,Juice,1,25,25,25,UPI,Rainy,3.4,Average,Friday
+24-10-2025,18:44,Evening Snacks,20,Juice,1,45,45,45,UPI,Sunny,4.4,Very Good,Friday
+24-10-2025,18:07,Evening Snacks,84,Upma,1,30,30,30,Cash,Sunny,4.1,Good,Friday
+25-10-2025,12:31,Lunch,87,Coffee,1,12,12,12,UPI,Sunny,4.1,Good,Saturday
+25-10-2025,18:50,Evening Snacks,5,Pani Puri,1,25,25,25,UPI,Rainy,3.8,Good,Saturday
+25-10-2025,16:49,Evening Snacks,40,Bhel Puri,1,25,25,25,UPI,Rainy,3.7,Good,Saturday
+25-10-2025,19:50,Evening Snacks,11,French Fries,1,50,50,50,UPI,Sunny,3,Average,Saturday
+25-10-2025,19:33,Evening Snacks,12,French Fries,1,50,50,50,UPI,Cloudy,3.9,Good,Saturday
+25-10-2025,09:53,Breakfast,36,Poori,2,35,35,70,UPI,Rainy,4.6,Excellent,Saturday
+25-10-2025,12:39,Lunch,55,North Indian Thali,2,50,50,100,UPI,Cloudy,3.6,Average,Saturday
+25-10-2025,16:37,Evening Snacks,36,Tea,1,35,35,35,Cash,Cloudy,3.4,Average,Saturday
+25-10-2025,16:14,Evening Snacks,71,Coffee,2,45,45,90,UPI,Cloudy,4.2,Very Good,Saturday
+25-10-2025,17:04,Evening Snacks,52,Ice Cream,3,30,30,90,UPI,Sunny,4.2,Very Good,Saturday
+25-10-2025,19:30,Evening Snacks,9,Ice Cream,2,25,25,50,UPI,Sunny,3.8,Good,Saturday
+25-10-2025,19:59,Evening Snacks,94,Bhel Puri,1,30,30,30,UPI,Rainy,3.9,Good,Saturday
+25-10-2025,15:23,Evening Snacks,3,French Fries,1,90,90,90,UPI,Sunny,4.1,Good,Saturday
+25-10-2025,13:01,Lunch,55,North Indian Thali,3,30,30,90,UPI,Cloudy,3.9,Good,Saturday
+25-10-2025,17:17,Evening Snacks,28,Idly,1,25,25,25,UPI,Cloudy,4.4,Very Good,Saturday
+25-10-2025,15:48,Evening Snacks,58,Sandwich,1,50,50,50,UPI,Sunny,5,Excellent,Saturday
+25-10-2025,13:15,Lunch,94,Fried Rice,2,25,25,50,Cash,Windy,3.3,Average,Saturday
+25-10-2025,15:21,Evening Snacks,17,Bhel Puri,1,90,90,90,UPI,Sunny,4.5,Excellent,Saturday
+25-10-2025,13:17,Lunch,96,Veg Biryani,1,30,30,30,Cash,Sunny,4,Good,Saturday
+25-10-2025,13:32,Lunch,83,Coffee,2,45,45,90,UPI,Sunny,4.6,Excellent,Saturday
+25-10-2025,17:21,Evening Snacks,62,South Indian Thali,2,90,90,180,UPI,Cloudy,4.3,Very Good,Saturday
+25-10-2025,08:11,Breakfast,65,Chapati,1,40,40,40,Cash,Cloudy,4,Good,Saturday
+25-10-2025,12:18,Lunch,35,Juice,1,35,35,35,UPI,Sunny,4.3,Very Good,Saturday
+25-10-2025,19:16,Evening Snacks,68,Bisibele Bath,3,50,50,150,Card,Rainy,3.8,Good,Saturday
+25-10-2025,16:21,Evening Snacks,71,Juice,2,30,30,60,UPI,Rainy,3.7,Good,Saturday
+25-10-2025,13:52,Lunch,74,Juice,1,50,50,50,UPI,Sunny,4.3,Very Good,Saturday
+25-10-2025,13:53,Lunch,22,Bisibele Bath,1,50,50,50,UPI,Cloudy,3.7,Good,Saturday
+25-10-2025,18:24,Evening Snacks,49,Ice Cream,2,50,50,100,UPI,Sunny,4.3,Very Good,Saturday
+25-10-2025,13:19,Lunch,13,Tea,1,30,30,30,UPI,Sunny,4,Good,Saturday
+25-10-2025,13:08,Lunch,71,Idly,1,12,12,12,Cash,Windy,3.1,Average,Saturday
+27-10-2025,17:14,Evening Snacks,34,Tea,1,12,12,12,UPI,Rainy,3.8,Good,Monday
+27-10-2025,12:16,Lunch,40,Coffee,1,15,15,15,UPI,Cloudy,4.1,Good,Monday
+27-10-2025,09:17,Breakfast,98,Tea,1,15,15,15,UPI,Rainy,3.8,Good,Monday
+27-10-2025,17:26,Evening Snacks,20,Idly,1,25,25,25,UPI,Rainy,3,Average,Monday
+27-10-2025,18:15,Evening Snacks,93,Coffee,1,15,15,15,UPI,Rainy,4.5,Excellent,Monday
+27-10-2025,08:31,Breakfast,47,Idly,1,50,50,50,UPI,Sunny,4.1,Good,Monday
+27-10-2025,17:16,Evening Snacks,8,Ice Cream,1,30,30,30,UPI,Sunny,4.2,Very Good,Monday
+27-10-2025,12:57,Lunch,7,Sandwich,1,80,80,80,UPI,Sunny,3.8,Good,Monday
+27-10-2025,18:44,Evening Snacks,85,Samosa,1,15,15,15,Card,Sunny,4.2,Very Good,Monday
+27-10-2025,12:58,Lunch,31,Sandwich,2,45,45,90,Card,Sunny,4.7,Excellent,Monday
+27-10-2025,18:23,Evening Snacks,95,Dosa,3,40,40,120,UPI,Cloudy,3.7,Good,Monday
+27-10-2025,15:12,Evening Snacks,77,French Fries,3,90,90,270,UPI,Sunny,4.7,Excellent,Monday
+27-10-2025,12:07,Lunch,80,Juice,3,50,50,150,Cash,Sunny,4.2,Very Good,Monday
+27-10-2025,17:05,Evening Snacks,83,Coffee,2,15,15,30,UPI,Cloudy,3.7,Good,Monday
+27-10-2025,17:23,Evening Snacks,82,Idly,3,25,25,75,UPI,Rainy,4.9,Excellent,Monday
+27-10-2025,12:32,Lunch,52,Ice Cream,1,50,50,50,UPI,Sunny,4.2,Very Good,Monday
+27-10-2025,13:45,Lunch,88,Sandwich,1,12,12,12,UPI,Sunny,4.3,Very Good,Monday
+27-10-2025,16:03,Evening Snacks,22,Bhel Puri,2,12,12,24,Cash,Sunny,3.9,Good,Monday
+27-10-2025,19:38,Evening Snacks,68,Tea,1,12,12,12,UPI,Cloudy,3.7,Good,Monday
+27-10-2025,16:03,Evening Snacks,45,French Fries,1,45,45,45,UPI,Rainy,4.1,Good,Monday
+27-10-2025,13:24,Lunch,64,Chapati,1,25,25,25,UPI,Windy,4.6,Excellent,Monday
+27-10-2025,19:21,Evening Snacks,21,Idly,1,25,25,25,UPI,Sunny,3.9,Good,Monday
+27-10-2025,09:22,Breakfast,72,Idly,1,40,40,40,UPI,Sunny,4,Good,Monday
+27-10-2025,16:34,Evening Snacks,72,Sandwich,1,30,30,30,UPI,Rainy,4.6,Excellent,Monday
+27-10-2025,17:37,Evening Snacks,24,Ice Cream,2,25,25,50,Cash,Sunny,3.9,Good,Monday
+27-10-2025,18:24,Evening Snacks,81,Bhel Puri,1,30,30,30,UPI,Rainy,4.2,Very Good,Monday
+27-10-2025,13:43,Lunch,4,Ice Cream,3,25,25,75,UPI,Sunny,4.4,Very Good,Monday
+27-10-2025,17:46,Evening Snacks,39,Idly,1,25,25,25,UPI,Cloudy,3.9,Good,Monday
+27-10-2025,13:42,Lunch,44,Coffee,3,30,30,90,UPI,Sunny,4.1,Good,Monday
+27-10-2025,17:05,Evening Snacks,94,Juice,3,30,30,90,UPI,Cloudy,4.3,Very Good,Monday
+27-10-2025,15:55,Evening Snacks,27,Juice,3,15,15,45,UPI,Sunny,3.8,Good,Monday
+27-10-2025,08:49,Breakfast,56,Poori,1,25,25,25,UPI,Rainy,4.3,Very Good,Monday
+27-10-2025,13:11,Lunch,57,Fried Rice,3,80,80,240,Cash,Sunny,3.8,Good,Monday
+27-10-2025,18:28,Evening Snacks,80,Bhel Puri,3,30,30,90,UPI,Cloudy,3.7,Good,Monday
+27-10-2025,08:49,Breakfast,18,Coffee,1,90,90,90,UPI,Cloudy,3.4,Average,Monday
+27-10-2025,08:11,Breakfast,72,Coffee,1,50,50,50,UPI,Sunny,3.8,Good,Monday
+27-10-2025,08:35,Breakfast,86,Bisibele Bath,1,50,50,50,Card,Sunny,3.7,Good,Monday
+27-10-2025,16:52,Evening Snacks,2,French Fries,3,45,45,135,UPI,Rainy,3.8,Good,Monday
+27-10-2025,15:26,Evening Snacks,67,Juice,1,40,40,40,UPI,Sunny,4.2,Very Good,Monday
+27-10-2025,18:22,Evening Snacks,38,Samosa,3,15,15,45,UPI,Rainy,3.3,Average,Monday
+27-10-2025,09:31,Breakfast,94,Tea,2,30,30,60,UPI,Sunny,3.2,Average,Monday
+27-10-2025,17:59,Evening Snacks,31,South Indian Thali,3,90,90,270,UPI,Cloudy,3.7,Good,Monday
+27-10-2025,12:11,Lunch,82,Tea,1,90,90,90,UPI,Cloudy,4.2,Very Good,Monday
+27-10-2025,18:24,Evening Snacks,64,Dosa,2,40,40,80,UPI,Rainy,4.1,Good,Monday
+27-10-2025,18:05,Evening Snacks,96,French Fries,3,50,50,150,Card,Cloudy,3.7,Good,Monday
+27-10-2025,13:42,Lunch,76,Dosa,1,50,50,50,UPI,Sunny,4.5,Excellent,Monday
+27-10-2025,13:24,Lunch,21,Veg Biryani,1,80,80,80,UPI,Cloudy,3.7,Good,Monday
+27-10-2025,19:17,Evening Snacks,68,Sandwich,1,45,45,45,UPI,Rainy,4.2,Very Good,Monday
+27-10-2025,12:47,Lunch,66,Chapati,3,25,25,75,UPI,Sunny,3.9,Good,Monday
+27-10-2025,13:33,Lunch,63,Coffee,2,30,30,60,UPI,Sunny,3.7,Good,Monday
+27-10-2025,16:04,Evening Snacks,36,French Fries,2,15,15,30,UPI,Rainy,3.8,Good,Monday
+27-10-2025,17:56,Evening Snacks,74,Coffee,1,15,15,15,UPI,Sunny,4.3,Very Good,Monday
+27-10-2025,19:01,Evening Snacks,46,Ice Cream,1,40,40,40,Cash,Sunny,4.1,Good,Monday
+27-10-2025,14:00,Lunch,88,North Indian Thali,1,50,50,50,Cash,Sunny,4.4,Very Good,Monday
+27-10-2025,13:20,Lunch,63,Sandwich,2,12,12,24,UPI,Sunny,4.1,Good,Monday
+27-10-2025,15:58,Evening Snacks,91,Juice,1,25,25,25,Cash,Sunny,3.4,Average,Monday
+27-10-2025,13:07,Lunch,55,Ice Cream,1,30,30,30,UPI,Sunny,4.8,Excellent,Monday
+27-10-2025,12:15,Lunch,79,Chapati,1,45,45,45,UPI,Windy,4.2,Very Good,Monday
+27-10-2025,15:32,Evening Snacks,53,Sandwich,3,30,30,90,UPI,Sunny,4.2,Very Good,Monday
+27-10-2025,17:18,Evening Snacks,40,Sandwich,2,45,45,90,UPI,Sunny,3.8,Good,Monday
+27-10-2025,15:56,Evening Snacks,93,Tea,1,15,15,15,UPI,Sunny,4.4,Very Good,Monday
+27-10-2025,17:12,Evening Snacks,24,Bisibele Bath,3,50,50,150,UPI,Rainy,3.6,Average,Monday
+27-10-2025,18:41,Evening Snacks,98,French Fries,1,50,50,50,Cash,Rainy,4.2,Very Good,Monday
+27-10-2025,13:00,Lunch,36,South Indian Thali,1,25,25,25,UPI,Cloudy,3.2,Average,Monday
+27-10-2025,12:35,Lunch,40,Dosa,1,70,70,70,Card,Windy,4.3,Very Good,Monday
+27-10-2025,15:21,Evening Snacks,7,Ice Cream,3,50,50,150,UPI,Sunny,3.6,Average,Monday
+27-10-2025,16:38,Evening Snacks,11,Pani Puri,1,90,90,90,Cash,Cloudy,4.1,Good,Monday
+27-10-2025,17:08,Evening Snacks,26,Idly,1,25,25,25,UPI,Cloudy,4.5,Excellent,Monday
+27-10-2025,15:09,Evening Snacks,57,Tea,1,30,30,30,Card,Windy,4.3,Very Good,Monday
+27-10-2025,13:41,Lunch,14,Chapati,2,45,45,90,UPI,Sunny,4.5,Excellent,Monday
+27-10-2025,12:34,Lunch,32,Sandwich,2,30,30,60,UPI,Sunny,4.4,Very Good,Monday
+27-10-2025,12:50,Lunch,63,Bisibele Bath,2,15,15,30,UPI,Sunny,3.8,Good,Monday
+27-10-2025,18:43,Evening Snacks,81,South Indian Thali,1,90,90,90,UPI,Rainy,4.2,Very Good,Monday
+27-10-2025,18:41,Evening Snacks,14,Pani Puri,1,25,25,25,UPI,Cloudy,3.3,Average,Monday
+27-10-2025,19:15,Evening Snacks,65,South Indian Thali,1,90,90,90,UPI,Sunny,3.7,Good,Monday
+27-10-2025,17:43,Evening Snacks,42,Juice,1,30,30,30,Cash,Rainy,4.6,Excellent,Monday
+27-10-2025,19:46,Evening Snacks,87,Fried Rice,1,70,70,70,UPI,Rainy,3.8,Good,Monday
+27-10-2025,16:51,Evening Snacks,21,French Fries,1,70,70,70,UPI,Sunny,3.3,Average,Monday
+27-10-2025,12:33,Lunch,51,Fried Rice,1,12,12,12,UPI,Sunny,4.8,Excellent,Monday
+27-10-2025,15:34,Evening Snacks,58,Juice,1,45,45,45,UPI,Sunny,4.2,Very Good,Monday
+28-10-2025,16:46,Evening Snacks,11,Bhel Puri,1,50,50,50,Cash,Rainy,4.3,Very Good,Tuesday
+28-10-2025,19:24,Evening Snacks,59,Samosa,1,15,15,15,UPI,Rainy,3.6,Average,Tuesday
+28-10-2025,12:08,Lunch,39,Veg Biryani,1,15,15,15,UPI,Sunny,4.1,Good,Tuesday
+28-10-2025,19:34,Evening Snacks,55,Bisibele Bath,1,50,50,50,UPI,Rainy,4.1,Good,Tuesday
+28-10-2025,15:22,Evening Snacks,67,Sandwich,1,45,45,45,Card,Sunny,3.7,Good,Tuesday
+28-10-2025,16:24,Evening Snacks,56,Tea,2,30,30,60,UPI,Sunny,3.9,Good,Tuesday
+28-10-2025,12:40,Lunch,3,Ice Cream,3,40,40,120,UPI,Sunny,3.4,Average,Tuesday
+28-10-2025,13:32,Lunch,82,Sandwich,1,30,30,30,UPI,Sunny,3.9,Good,Tuesday
+28-10-2025,13:38,Lunch,14,Dosa,2,80,80,160,UPI,Sunny,4.4,Very Good,Tuesday
+28-10-2025,19:24,Evening Snacks,75,Tea,1,12,12,12,UPI,Rainy,3.7,Good,Tuesday
+28-10-2025,17:13,Evening Snacks,39,South Indian Thali,1,90,90,90,UPI,Sunny,4.8,Excellent,Tuesday
+28-10-2025,12:46,Lunch,7,South Indian Thali,1,90,90,90,Cash,Sunny,3.4,Average,Tuesday
+28-10-2025,08:15,Breakfast,59,Dosa,2,25,25,50,UPI,Rainy,3.9,Good,Tuesday
+28-10-2025,19:37,Evening Snacks,85,Upma,1,30,30,30,UPI,Cloudy,3.7,Good,Tuesday
+28-10-2025,19:03,Evening Snacks,60,Dosa,1,40,40,40,UPI,Rainy,3.9,Good,Tuesday
+28-10-2025,12:32,Lunch,83,Sandwich,1,30,30,30,Cash,Sunny,4.5,Excellent,Tuesday
+28-10-2025,15:39,Evening Snacks,84,Bhel Puri,1,45,45,45,UPI,Sunny,3.6,Average,Tuesday
+28-10-2025,16:19,Evening Snacks,69,Sandwich,1,40,40,40,UPI,Sunny,3.8,Good,Tuesday
+28-10-2025,18:29,Evening Snacks,45,French Fries,3,50,50,150,UPI,Rainy,4.3,Very Good,Tuesday
+28-10-2025,18:17,Evening Snacks,13,Bisibele Bath,3,50,50,150,Cash,Sunny,4,Good,Tuesday
+28-10-2025,12:05,Lunch,99,Sandwich,3,45,45,135,UPI,Sunny,4.1,Good,Tuesday
+28-10-2025,15:15,Evening Snacks,31,Coffee,1,30,30,30,UPI,Windy,3.6,Average,Tuesday
+28-10-2025,19:47,Evening Snacks,3,South Indian Thali,1,90,90,90,UPI,Cloudy,4,Good,Tuesday
+28-10-2025,08:51,Breakfast,82,Bisibele Bath,2,15,15,30,Cash,Windy,4.5,Excellent,Tuesday
+28-10-2025,09:33,Breakfast,93,Bisibele Bath,2,25,25,50,Cash,Sunny,3.4,Average,Tuesday
+28-10-2025,12:37,Lunch,74,Coffee,1,70,70,70,UPI,Sunny,3.7,Good,Tuesday
+28-10-2025,19:12,Evening Snacks,48,South Indian Thali,1,90,90,90,Cash,Rainy,3.3,Average,Tuesday
+28-10-2025,17:09,Evening Snacks,78,South Indian Thali,1,90,90,90,UPI,Rainy,4.2,Very Good,Tuesday
+28-10-2025,08:09,Breakfast,85,Chapati,1,50,50,50,UPI,Sunny,4.5,Excellent,Tuesday
+28-10-2025,18:52,Evening Snacks,74,Tea,2,12,12,24,Cash,Rainy,3.9,Good,Tuesday
+28-10-2025,12:04,Lunch,23,Ice Cream,1,70,70,70,UPI,Sunny,3.6,Average,Tuesday
+28-10-2025,13:27,Lunch,15,Ice Cream,2,45,45,90,Card,Sunny,3.6,Average,Tuesday
+28-10-2025,19:28,Evening Snacks,55,Pani Puri,3,25,25,75,UPI,Rainy,3.9,Good,Tuesday
+28-10-2025,12:31,Lunch,63,Tea,2,15,15,30,UPI,Sunny,3.9,Good,Tuesday
+28-10-2025,13:26,Lunch,77,North Indian Thali,3,50,50,150,UPI,Windy,4.4,Very Good,Tuesday
+28-10-2025,08:07,Breakfast,69,Poori,2,40,40,80,UPI,Sunny,3.7,Good,Tuesday
+28-10-2025,12:10,Lunch,14,Juice,1,30,30,30,Card,Sunny,4.2,Very Good,Tuesday
+28-10-2025,12:00,Lunch,78,Juice,3,30,30,90,UPI,Sunny,3.9,Good,Tuesday
+28-10-2025,18:19,Evening Snacks,79,South Indian Thali,1,90,90,90,UPI,Rainy,3.7,Good,Tuesday
+28-10-2025,13:48,Lunch,62,Dosa,1,40,40,40,Cash,Cloudy,3.9,Good,Tuesday
+28-10-2025,19:25,Evening Snacks,89,South Indian Thali,1,90,90,90,UPI,Cloudy,4.1,Good,Tuesday
+28-10-2025,15:02,Evening Snacks,86,French Fries,1,30,30,30,UPI,Sunny,4.4,Very Good,Tuesday
+28-10-2025,19:52,Evening Snacks,47,French Fries,2,50,50,100,UPI,Rainy,3.9,Good,Tuesday
+28-10-2025,18:39,Evening Snacks,24,Chapati,1,35,35,35,Cash,Rainy,3.5,Average,Tuesday
+28-10-2025,13:54,Lunch,34,Chapati,3,90,90,270,Cash,Cloudy,4.4,Very Good,Tuesday
+28-10-2025,17:17,Evening Snacks,50,Sandwich,3,40,40,120,UPI,Rainy,3.6,Average,Tuesday
+28-10-2025,17:26,Evening Snacks,26,French Fries,1,50,50,50,UPI,Rainy,4.1,Good,Tuesday
+28-10-2025,09:20,Breakfast,49,Chapati,1,50,50,50,UPI,Rainy,4,Good,Tuesday
+28-10-2025,19:29,Evening Snacks,73,Ice Cream,2,50,50,100,UPI,Sunny,3.9,Good,Tuesday
+28-10-2025,19:38,Evening Snacks,58,Poori,1,45,45,45,UPI,Cloudy,3.8,Good,Tuesday
+28-10-2025,15:34,Evening Snacks,24,Sandwich,1,40,40,40,UPI,Sunny,4.2,Very Good,Tuesday
+28-10-2025,18:21,Evening Snacks,15,Upma,1,30,30,30,UPI,Cloudy,2.6,Average,Tuesday
+28-10-2025,09:38,Breakfast,11,Dosa,1,25,25,25,UPI,Rainy,4.5,Excellent,Tuesday
+28-10-2025,12:57,Lunch,88,Coffee,1,35,35,35,UPI,Sunny,3.6,Average,Tuesday
+28-10-2025,12:26,Lunch,13,Bisibele Bath,3,50,50,150,Cash,Sunny,4.2,Very Good,Tuesday
+28-10-2025,15:56,Evening Snacks,66,French Fries,2,12,12,24,UPI,Windy,4.1,Good,Tuesday
+28-10-2025,19:17,Evening Snacks,34,Juice,1,30,30,30,UPI,Cloudy,4.5,Excellent,Tuesday
+28-10-2025,17:42,Evening Snacks,85,Tea,1,12,12,12,UPI,Rainy,4.1,Good,Tuesday
+28-10-2025,12:31,Lunch,13,Chapati,1,30,30,30,UPI,Sunny,3.7,Good,Tuesday
+28-10-2025,12:21,Lunch,2,Tea,2,30,30,60,UPI,Sunny,3.4,Average,Tuesday
+28-10-2025,09:01,Breakfast,62,Bisibele Bath,2,40,40,80,UPI,Cloudy,3.9,Good,Tuesday
+28-10-2025,17:02,Evening Snacks,56,Pani Puri,2,25,25,50,UPI,Cloudy,3.2,Average,Tuesday
+28-10-2025,18:00,Evening Snacks,48,Bisibele Bath,3,50,50,150,UPI,Sunny,3.7,Good,Tuesday
+28-10-2025,16:23,Evening Snacks,82,Pani Puri,1,30,30,30,UPI,Sunny,3.9,Good,Tuesday
+28-10-2025,12:12,Lunch,70,Ice Cream,3,40,40,120,UPI,Sunny,3.7,Good,Tuesday
+28-10-2025,18:41,Evening Snacks,65,Pani Puri,1,25,25,25,UPI,Rainy,4,Good,Tuesday
+28-10-2025,17:56,Evening Snacks,50,Upma,1,30,30,30,UPI,Rainy,3.9,Good,Tuesday
+28-10-2025,16:41,Evening Snacks,60,Juice,2,30,30,60,UPI,Cloudy,3.9,Good,Tuesday
+28-10-2025,09:18,Breakfast,92,Chapati,1,45,45,45,Cash,Sunny,3,Average,Tuesday
+28-10-2025,19:35,Evening Snacks,73,Poori,1,45,45,45,UPI,Rainy,3.5,Average,Tuesday
+28-10-2025,19:04,Evening Snacks,44,Upma,1,30,30,30,Cash,Rainy,4.3,Very Good,Tuesday
+28-10-2025,20:00,Evening Snacks,71,Bhel Puri,1,30,30,30,UPI,Sunny,4.3,Very Good,Tuesday
+28-10-2025,18:35,Evening Snacks,19,Dosa,3,40,40,120,UPI,Rainy,3.3,Average,Tuesday
+28-10-2025,12:01,Lunch,43,North Indian Thali,1,30,30,30,UPI,Sunny,3.7,Good,Tuesday
+28-10-2025,08:31,Breakfast,22,Idly,1,30,30,30,UPI,Cloudy,4.4,Very Good,Tuesday
+28-10-2025,17:35,Evening Snacks,95,Dosa,3,40,40,120,Card,Rainy,3.7,Good,Tuesday
+28-10-2025,09:30,Breakfast,66,Chapati,1,90,90,90,UPI,Rainy,4,Good,Tuesday
+28-10-2025,13:47,Lunch,70,South Indian Thali,1,30,30,30,UPI,Sunny,4.6,Excellent,Tuesday
+28-10-2025,18:16,Evening Snacks,82,Bhel Puri,3,30,30,90,UPI,Rainy,3.9,Good,Tuesday
+28-10-2025,08:46,Breakfast,11,Chapati,1,30,30,30,UPI,Sunny,3.8,Good,Tuesday
+29-10-2025,13:57,Lunch,99,Juice,3,50,50,150,Cash,Sunny,3.9,Good,Wednesday
+29-10-2025,17:31,Evening Snacks,39,Juice,1,30,30,30,UPI,Rainy,4.7,Excellent,Wednesday
+29-10-2025,17:22,Evening Snacks,25,Bhel Puri,1,40,40,40,UPI,Rainy,4.2,Very Good,Wednesday
+29-10-2025,15:47,Evening Snacks,91,Juice,3,12,12,36,UPI,Sunny,4,Good,Wednesday
+29-10-2025,15:01,Evening Snacks,59,Sandwich,3,50,50,150,UPI,Sunny,3.8,Good,Wednesday
+29-10-2025,16:03,Evening Snacks,25,Juice,1,30,30,30,UPI,Rainy,4.2,Very Good,Wednesday
+29-10-2025,13:04,Lunch,39,Chapati,3,40,40,120,UPI,Sunny,4.3,Very Good,Wednesday
+29-10-2025,13:56,Lunch,12,Tea,1,50,50,50,UPI,Cloudy,3.6,Average,Wednesday
+29-10-2025,13:43,Lunch,76,Sandwich,3,45,45,135,UPI,Sunny,4.3,Very Good,Wednesday
+29-10-2025,12:57,Lunch,97,Ice Cream,3,15,15,45,UPI,Sunny,3.9,Good,Wednesday
+29-10-2025,16:46,Evening Snacks,8,Coffee,2,90,90,180,UPI,Cloudy,4,Good,Wednesday
+29-10-2025,12:28,Lunch,92,Chapati,3,50,50,150,UPI,Sunny,3.6,Average,Wednesday
+29-10-2025,19:51,Evening Snacks,98,French Fries,2,50,50,100,UPI,Rainy,3.8,Good,Wednesday
+29-10-2025,08:28,Breakfast,96,Dosa,2,30,30,60,Cash,Rainy,3.6,Average,Wednesday
+29-10-2025,18:25,Evening Snacks,44,Ice Cream,1,40,40,40,UPI,Sunny,3.6,Average,Wednesday
+29-10-2025,18:17,Evening Snacks,76,Bhel Puri,1,40,40,40,UPI,Cloudy,4.2,Very Good,Wednesday
+29-10-2025,18:52,Evening Snacks,12,French Fries,3,50,50,150,UPI,Rainy,3.9,Good,Wednesday
+29-10-2025,13:49,Lunch,62,Juice,2,50,50,100,UPI,Sunny,3.5,Average,Wednesday
+29-10-2025,16:39,Evening Snacks,62,Ice Cream,3,50,50,150,UPI,Sunny,4.9,Excellent,Wednesday
+29-10-2025,17:26,Evening Snacks,61,Idly,3,25,25,75,UPI,Rainy,3.6,Average,Wednesday
+29-10-2025,12:57,Lunch,54,Ice Cream,1,50,50,50,UPI,Sunny,4.4,Very Good,Wednesday
+29-10-2025,16:05,Evening Snacks,88,Sandwich,2,40,40,80,UPI,Sunny,3.4,Average,Wednesday
+29-10-2025,13:04,Lunch,98,Ice Cream,3,30,30,90,UPI,Sunny,4.2,Very Good,Wednesday
+29-10-2025,16:17,Evening Snacks,68,Tea,2,12,12,24,UPI,Cloudy,3.9,Good,Wednesday
+29-10-2025,17:02,Evening Snacks,94,Bisibele Bath,3,50,50,150,UPI,Cloudy,3.7,Good,Wednesday
+29-10-2025,13:50,Lunch,9,Idly,2,30,30,60,UPI,Cloudy,4.1,Good,Wednesday
+29-10-2025,16:59,Evening Snacks,5,Sandwich,2,45,45,90,UPI,Cloudy,4,Good,Wednesday
+29-10-2025,18:53,Evening Snacks,77,Ice Cream,2,40,40,80,UPI,Sunny,3.7,Good,Wednesday
+29-10-2025,16:36,Evening Snacks,19,French Fries,2,15,15,30,UPI,Rainy,3.7,Good,Wednesday
+29-10-2025,12:59,Lunch,9,North Indian Thali,2,40,40,80,Cash,Sunny,3.4,Average,Wednesday
+29-10-2025,17:14,Evening Snacks,16,Ice Cream,2,45,45,90,UPI,Sunny,4.1,Good,Wednesday
+29-10-2025,15:53,Evening Snacks,53,Sandwich,1,40,40,40,UPI,Sunny,3.5,Average,Wednesday
+29-10-2025,19:47,Evening Snacks,30,Upma,1,30,30,30,UPI,Rainy,4,Good,Wednesday
+29-10-2025,18:01,Evening Snacks,79,Sandwich,1,45,45,45,UPI,Rainy,4.2,Very Good,Wednesday
+29-10-2025,18:04,Evening Snacks,91,Bisibele Bath,2,50,50,100,UPI,Cloudy,4.1,Good,Wednesday
+29-10-2025,18:36,Evening Snacks,52,Bhel Puri,1,30,30,30,UPI,Cloudy,3.7,Good,Wednesday
+29-10-2025,12:16,Lunch,51,Sandwich,2,50,50,100,UPI,Sunny,4.4,Very Good,Wednesday
+29-10-2025,19:33,Evening Snacks,44,Idly,3,25,25,75,UPI,Cloudy,3.8,Good,Wednesday
+29-10-2025,16:46,Evening Snacks,34,Coffee,2,25,25,50,UPI,Rainy,3.5,Average,Wednesday
+29-10-2025,16:45,Evening Snacks,100,Coffee,2,30,30,60,UPI,Sunny,3.9,Good,Wednesday
+29-10-2025,12:14,Lunch,2,Juice,3,25,25,75,UPI,Sunny,4.2,Very Good,Wednesday
+29-10-2025,12:44,Lunch,1,Bisibele Bath,3,40,40,120,UPI,Sunny,3.7,Good,Wednesday
+29-10-2025,12:56,Lunch,17,North Indian Thali,1,45,45,45,UPI,Sunny,4.4,Very Good,Wednesday
+29-10-2025,12:03,Lunch,71,Tea,2,70,70,140,UPI,Sunny,3.7,Good,Wednesday
+29-10-2025,15:57,Evening Snacks,6,Bhel Puri,1,45,45,45,UPI,Sunny,3.7,Good,Wednesday
+29-10-2025,17:33,Evening Snacks,62,Dosa,1,40,40,40,UPI,Rainy,3.6,Average,Wednesday
+29-10-2025,17:23,Evening Snacks,27,Juice,2,15,15,30,UPI,Sunny,4.3,Very Good,Wednesday
+29-10-2025,19:49,Evening Snacks,73,Fried Rice,2,70,70,140,UPI,Rainy,4,Good,Wednesday
+29-10-2025,17:40,Evening Snacks,33,Upma,1,30,30,30,UPI,Sunny,3.6,Average,Wednesday
+29-10-2025,19:25,Evening Snacks,74,French Fries,1,50,50,50,UPI,Sunny,3.8,Good,Wednesday
+29-10-2025,16:25,Evening Snacks,55,Juice,1,50,50,50,UPI,Cloudy,2.8,Average,Wednesday
+29-10-2025,13:37,Lunch,1,Bisibele Bath,3,70,70,210,UPI,Sunny,4.3,Very Good,Wednesday
+29-10-2025,08:41,Breakfast,68,Tea,1,30,30,30,UPI,Sunny,3.9,Good,Wednesday
+29-10-2025,13:27,Lunch,19,Juice,3,40,40,120,Cash,Sunny,3,Average,Wednesday
+29-10-2025,13:30,Lunch,93,Bisibele Bath,1,45,45,45,UPI,Cloudy,3.4,Average,Wednesday
+29-10-2025,12:46,Lunch,68,Sandwich,1,25,25,25,UPI,Sunny,3.8,Good,Wednesday
+29-10-2025,16:24,Evening Snacks,52,Sandwich,1,25,25,25,UPI,Rainy,3.5,Average,Wednesday
+29-10-2025,12:59,Lunch,100,Fried Rice,1,25,25,25,UPI,Sunny,4.3,Very Good,Wednesday
+29-10-2025,12:51,Lunch,33,Dosa,2,30,30,60,UPI,Cloudy,4.2,Very Good,Wednesday
+29-10-2025,12:06,Lunch,8,South Indian Thali,2,30,30,60,UPI,Sunny,4.1,Good,Wednesday
+29-10-2025,16:38,Evening Snacks,25,Ice Cream,3,50,50,150,UPI,Sunny,3,Average,Wednesday
+29-10-2025,08:47,Breakfast,31,Poori,1,12,12,12,Cash,Rainy,3.8,Good,Wednesday
+29-10-2025,15:50,Evening Snacks,55,Pani Puri,1,30,30,30,UPI,Sunny,3.7,Good,Wednesday
+29-10-2025,18:06,Evening Snacks,20,South Indian Thali,3,90,90,270,UPI,Sunny,3.6,Average,Wednesday
+29-10-2025,13:02,Lunch,44,Dosa,3,30,30,90,UPI,Sunny,3.8,Good,Wednesday
+29-10-2025,19:38,Evening Snacks,6,Ice Cream,2,25,25,50,Cash,Sunny,3.5,Average,Wednesday
+29-10-2025,08:55,Breakfast,86,Dosa,2,15,15,30,UPI,Sunny,4.1,Good,Wednesday
+29-10-2025,08:16,Breakfast,6,Coffee,1,25,25,25,UPI,Rainy,4.3,Very Good,Wednesday
+29-10-2025,17:39,Evening Snacks,91,Dosa,1,40,40,40,UPI,Sunny,4.3,Very Good,Wednesday
+29-10-2025,18:55,Evening Snacks,83,French Fries,3,50,50,150,UPI,Rainy,3.9,Good,Wednesday
+29-10-2025,19:29,Evening Snacks,14,Chapati,3,35,35,105,UPI,Sunny,4.8,Excellent,Wednesday
+29-10-2025,17:00,Evening Snacks,10,French Fries,1,40,40,40,UPI,Sunny,4.5,Excellent,Wednesday
+29-10-2025,19:34,Evening Snacks,22,Idly,3,25,25,75,UPI,Sunny,4,Good,Wednesday
+29-10-2025,18:59,Evening Snacks,39,French Fries,2,50,50,100,Cash,Sunny,3.8,Good,Wednesday
+29-10-2025,18:19,Evening Snacks,31,Bisibele Bath,2,50,50,100,UPI,Rainy,4.5,Excellent,Wednesday
+29-10-2025,12:49,Lunch,67,Tea,3,50,50,150,UPI,Sunny,4.4,Very Good,Wednesday
+29-10-2025,12:08,Lunch,61,Sandwich,3,50,50,150,Cash,Sunny,3.4,Average,Wednesday
+29-10-2025,16:37,Evening Snacks,62,French Fries,2,30,30,60,UPI,Cloudy,4.4,Very Good,Wednesday
+29-10-2025,18:06,Evening Snacks,26,Dosa,1,40,40,40,Cash,Cloudy,3.9,Good,Wednesday
+29-10-2025,18:17,Evening Snacks,78,Ice Cream,1,35,35,35,UPI,Sunny,3.7,Good,Wednesday
+30-10-2025,12:14,Lunch,29,South Indian Thali,1,40,40,40,UPI,Sunny,3.2,Average,Thursday
+30-10-2025,19:45,Evening Snacks,74,French Fries,3,50,50,150,UPI,Rainy,3.9,Good,Thursday
+30-10-2025,17:57,Evening Snacks,83,Tea,1,12,12,12,UPI,Cloudy,4,Good,Thursday
+30-10-2025,13:00,Lunch,81,North Indian Thali,1,30,30,30,UPI,Sunny,4.6,Excellent,Thursday
+30-10-2025,19:25,Evening Snacks,54,Idly,1,25,25,25,Cash,Cloudy,4.4,Very Good,Thursday
+30-10-2025,12:29,Lunch,22,South Indian Thali,1,90,90,90,UPI,Sunny,3.8,Good,Thursday
+30-10-2025,13:39,Lunch,47,Tea,1,50,50,50,UPI,Cloudy,4.2,Very Good,Thursday
+30-10-2025,16:58,Evening Snacks,30,Tea,3,30,30,90,UPI,Rainy,4.3,Very Good,Thursday
+30-10-2025,15:10,Evening Snacks,13,Pani Puri,1,12,12,12,Cash,Cloudy,4,Good,Thursday
+30-10-2025,12:59,Lunch,97,Fried Rice,1,40,40,40,UPI,Sunny,3.8,Good,Thursday
+30-10-2025,12:23,Lunch,34,Dosa,1,50,50,50,UPI,Sunny,3.8,Good,Thursday
+30-10-2025,18:24,Evening Snacks,2,Samosa,1,15,15,15,Cash,Cloudy,4.2,Very Good,Thursday
+30-10-2025,08:34,Breakfast,28,Upma,1,40,40,40,UPI,Rainy,4.2,Very Good,Thursday
+30-10-2025,16:34,Evening Snacks,21,French Fries,1,90,90,90,UPI,Cloudy,3.9,Good,Thursday
+30-10-2025,16:21,Evening Snacks,79,Bhel Puri,1,50,50,50,UPI,Rainy,3,Average,Thursday
+30-10-2025,19:57,Evening Snacks,46,Sandwich,1,45,45,45,UPI,Sunny,3.5,Average,Thursday
+30-10-2025,17:05,Evening Snacks,95,Dosa,1,40,40,40,UPI,Rainy,4.2,Very Good,Thursday
+30-10-2025,16:39,Evening Snacks,6,Bhel Puri,1,45,45,45,Cash,Rainy,3.1,Average,Thursday
+30-10-2025,13:17,Lunch,91,South Indian Thali,1,25,25,25,Cash,Sunny,4.5,Excellent,Thursday
+30-10-2025,08:38,Breakfast,39,Idly,1,90,90,90,UPI,Sunny,4.4,Very Good,Thursday
+30-10-2025,16:02,Evening Snacks,41,Coffee,1,50,50,50,UPI,Rainy,4,Good,Thursday
+30-10-2025,15:06,Evening Snacks,83,Sandwich,1,40,40,40,UPI,Cloudy,4.2,Very Good,Thursday
+30-10-2025,13:19,Lunch,95,Bisibele Bath,1,15,15,15,UPI,Sunny,4.2,Very Good,Thursday
+30-10-2025,12:46,Lunch,29,South Indian Thali,3,30,30,90,UPI,Windy,4,Good,Thursday
+30-10-2025,12:29,Lunch,3,Idly,3,15,15,45,UPI,Cloudy,3.5,Average,Thursday
+30-10-2025,12:27,Lunch,24,Bisibele Bath,3,45,45,135,Cash,Cloudy,4.4,Very Good,Thursday
+30-10-2025,13:05,Lunch,43,Sandwich,2,15,15,30,UPI,Sunny,4.6,Excellent,Thursday
+30-10-2025,13:45,Lunch,29,Idly,1,50,50,50,UPI,Windy,3.5,Average,Thursday
+30-10-2025,09:01,Breakfast,81,Tea,1,30,30,30,Cash,Cloudy,3.4,Average,Thursday
+30-10-2025,12:23,Lunch,23,Veg Biryani,1,90,90,90,UPI,Sunny,3.9,Good,Thursday
+30-10-2025,13:00,Lunch,69,Bisibele Bath,3,25,25,75,UPI,Sunny,3.7,Good,Thursday
+30-10-2025,13:44,Lunch,30,Dosa,1,40,40,40,UPI,Sunny,4.1,Good,Thursday
+30-10-2025,09:57,Breakfast,32,Coffee,1,45,45,45,UPI,Sunny,4.5,Excellent,Thursday
+30-10-2025,13:44,Lunch,47,Coffee,1,90,90,90,UPI,Sunny,3.1,Average,Thursday
+30-10-2025,13:49,Lunch,35,Sandwich,2,25,25,50,Cash,Sunny,4.6,Excellent,Thursday
+30-10-2025,17:13,Evening Snacks,44,Dosa,1,40,40,40,UPI,Cloudy,3.8,Good,Thursday
+30-10-2025,12:10,Lunch,48,Ice Cream,3,25,25,75,UPI,Sunny,4.2,Very Good,Thursday
+30-10-2025,12:29,Lunch,63,Sandwich,1,50,50,50,Card,Sunny,4.2,Very Good,Thursday
+30-10-2025,16:15,Evening Snacks,3,Tea,1,50,50,50,UPI,Rainy,4.3,Very Good,Thursday
+30-10-2025,17:57,Evening Snacks,98,Samosa,1,15,15,15,UPI,Cloudy,4,Good,Thursday
+30-10-2025,16:51,Evening Snacks,97,Coffee,2,40,40,80,UPI,Sunny,4.1,Good,Thursday
+30-10-2025,12:15,Lunch,23,Chapati,1,90,90,90,UPI,Sunny,4.1,Good,Thursday
+30-10-2025,15:16,Evening Snacks,56,Pani Puri,1,90,90,90,UPI,Sunny,3.7,Good,Thursday
+30-10-2025,17:34,Evening Snacks,85,Pani Puri,3,25,25,75,UPI,Rainy,3.3,Average,Thursday
+30-10-2025,18:50,Evening Snacks,100,Bisibele Bath,1,50,50,50,UPI,Rainy,3.5,Average,Thursday
+30-10-2025,17:00,Evening Snacks,20,Tea,1,50,50,50,UPI,Rainy,4,Good,Thursday
+30-10-2025,13:11,Lunch,86,Dosa,1,45,45,45,Cash,Cloudy,3.7,Good,Thursday
+30-10-2025,12:57,Lunch,25,Bisibele Bath,1,30,30,30,Cash,Sunny,3.7,Good,Thursday
+30-10-2025,12:54,Lunch,6,Coffee,3,40,40,120,Card,Sunny,4.7,Excellent,Thursday
+30-10-2025,17:09,Evening Snacks,98,Idly,1,25,25,25,Card,Rainy,4.3,Very Good,Thursday
+30-10-2025,12:12,Lunch,77,Fried Rice,1,25,25,25,UPI,Windy,3.9,Good,Thursday
+30-10-2025,16:05,Evening Snacks,5,Bhel Puri,1,80,80,80,UPI,Rainy,4.3,Very Good,Thursday
+30-10-2025,18:40,Evening Snacks,72,Poori,1,45,45,45,UPI,Rainy,3.8,Good,Thursday
+30-10-2025,13:05,Lunch,12,Sandwich,3,30,30,90,UPI,Sunny,4,Good,Thursday
+30-10-2025,18:30,Evening Snacks,45,Tea,1,12,12,12,Cash,Cloudy,4.2,Very Good,Thursday
+30-10-2025,09:15,Breakfast,98,Tea,2,50,50,100,UPI,Cloudy,3.8,Good,Thursday
+30-10-2025,15:20,Evening Snacks,5,Pani Puri,3,90,90,270,UPI,Sunny,3.7,Good,Thursday
+30-10-2025,15:19,Evening Snacks,93,Sandwich,1,90,90,90,Cash,Cloudy,4.5,Excellent,Thursday
+30-10-2025,17:28,Evening Snacks,59,South Indian Thali,1,90,90,90,UPI,Cloudy,4.2,Very Good,Thursday
+30-10-2025,12:36,Lunch,94,Dosa,1,90,90,90,Cash,Sunny,3.1,Average,Thursday
+30-10-2025,17:07,Evening Snacks,78,Idly,2,25,25,50,UPI,Rainy,3.7,Good,Thursday
+30-10-2025,19:13,Evening Snacks,45,Dosa,1,40,40,40,UPI,Sunny,3.7,Good,Thursday
+30-10-2025,15:26,Evening Snacks,34,Tea,1,90,90,90,UPI,Sunny,3.8,Good,Thursday
+30-10-2025,16:12,Evening Snacks,68,Juice,2,12,12,24,UPI,Rainy,4.3,Very Good,Thursday
+30-10-2025,18:55,Evening Snacks,44,Idly,3,25,25,75,Card,Sunny,4,Good,Thursday
+30-10-2025,15:12,Evening Snacks,56,Coffee,1,90,90,90,UPI,Sunny,3.4,Average,Thursday
+30-10-2025,13:17,Lunch,27,Bisibele Bath,2,50,50,100,UPI,Windy,3.8,Good,Thursday
+30-10-2025,13:36,Lunch,27,South Indian Thali,2,35,35,70,UPI,Sunny,4.2,Very Good,Thursday
+30-10-2025,17:04,Evening Snacks,45,Dosa,3,40,40,120,UPI,Rainy,3.9,Good,Thursday
+30-10-2025,13:41,Lunch,91,Bisibele Bath,2,30,30,60,UPI,Sunny,3.7,Good,Thursday
+30-10-2025,15:30,Evening Snacks,49,Tea,1,30,30,30,UPI,Sunny,4.1,Good,Thursday
+30-10-2025,19:03,Evening Snacks,54,Samosa,1,15,15,15,UPI,Rainy,4.6,Excellent,Thursday
+30-10-2025,13:10,Lunch,14,Ice Cream,3,30,30,90,UPI,Sunny,4.2,Very Good,Thursday
+30-10-2025,12:07,Lunch,44,Sandwich,1,12,12,12,UPI,Sunny,4.5,Excellent,Thursday
+30-10-2025,08:07,Breakfast,65,Tea,1,50,50,50,Card,Rainy,3.8,Good,Thursday
+30-10-2025,19:50,Evening Snacks,52,Samosa,2,15,15,30,Cash,Rainy,4,Good,Thursday
+30-10-2025,16:06,Evening Snacks,13,Pani Puri,2,40,40,80,UPI,Sunny,4,Good,Thursday
+30-10-2025,12:25,Lunch,32,North Indian Thali,1,50,50,50,UPI,Windy,4,Good,Thursday
+30-10-2025,13:25,Lunch,11,Veg Biryani,3,25,25,75,UPI,Sunny,4.2,Very Good,Thursday
+30-10-2025,12:20,Lunch,3,Tea,1,50,50,50,UPI,Sunny,3.6,Average,Thursday
+31-10-2025,18:11,Evening Snacks,73,South Indian Thali,3,90,90,270,Cash,Rainy,4.3,Very Good,Friday
+31-10-2025,12:34,Lunch,66,Idly,1,45,45,45,UPI,Sunny,3.3,Average,Friday
+31-10-2025,15:24,Evening Snacks,49,Juice,3,40,40,120,UPI,Sunny,3.5,Average,Friday
+31-10-2025,12:19,Lunch,8,North Indian Thali,2,45,45,90,UPI,Sunny,4.9,Excellent,Friday
+31-10-2025,12:31,Lunch,5,Sandwich,1,40,40,40,UPI,Sunny,3.8,Good,Friday
+31-10-2025,12:59,Lunch,24,Chapati,1,30,30,30,UPI,Sunny,4.3,Very Good,Friday
+31-10-2025,08:47,Breakfast,34,Dosa,1,15,15,15,UPI,Rainy,4.7,Excellent,Friday
+31-10-2025,19:41,Evening Snacks,2,Sandwich,3,45,45,135,UPI,Rainy,3.1,Average,Friday
+31-10-2025,08:51,Breakfast,15,Coffee,2,25,25,50,UPI,Cloudy,4.5,Excellent,Friday
+31-10-2025,12:16,Lunch,99,Ice Cream,1,80,80,80,UPI,Sunny,4.3,Very Good,Friday
+31-10-2025,16:18,Evening Snacks,25,French Fries,2,15,15,30,UPI,Rainy,4.7,Excellent,Friday
+31-10-2025,08:17,Breakfast,71,Upma,1,45,45,45,UPI,Sunny,3.5,Average,Friday
+31-10-2025,12:19,Lunch,89,Idly,1,40,40,40,UPI,Sunny,4.6,Excellent,Friday
+31-10-2025,13:08,Lunch,93,Idly,1,50,50,50,UPI,Sunny,3.7,Good,Friday
+31-10-2025,12:59,Lunch,47,Fried Rice,1,90,90,90,UPI,Sunny,4.4,Very Good,Friday
+31-10-2025,12:09,Lunch,69,Chapati,1,50,50,50,UPI,Windy,4,Good,Friday
+31-10-2025,18:37,Evening Snacks,34,Pani Puri,1,25,25,25,UPI,Cloudy,4.3,Very Good,Friday
+31-10-2025,15:31,Evening Snacks,50,Tea,1,15,15,15,UPI,Cloudy,4,Good,Friday
+31-10-2025,08:58,Breakfast,96,Bisibele Bath,2,30,30,60,UPI,Sunny,3.3,Average,Friday
+31-10-2025,19:28,Evening Snacks,85,Sandwich,2,45,45,90,Cash,Rainy,2.8,Average,Friday
+31-10-2025,16:53,Evening Snacks,72,Pani Puri,2,30,30,60,UPI,Cloudy,4.1,Good,Friday
+31-10-2025,17:54,Evening Snacks,29,Idly,1,25,25,25,UPI,Cloudy,3.9,Good,Friday
+31-10-2025,08:11,Breakfast,14,Coffee,2,45,45,90,UPI,Cloudy,4.2,Very Good,Friday
+31-10-2025,19:23,Evening Snacks,11,Bisibele Bath,1,50,50,50,Cash,Rainy,3.9,Good,Friday
+31-10-2025,17:40,Evening Snacks,76,Pani Puri,2,25,25,50,Cash,Sunny,4.8,Excellent,Friday
+31-10-2025,08:39,Breakfast,54,Dosa,1,25,25,25,UPI,Sunny,4.1,Good,Friday
+31-10-2025,15:35,Evening Snacks,59,Pani Puri,2,25,25,50,UPI,Windy,3.8,Good,Friday
+31-10-2025,13:44,Lunch,9,Tea,1,90,90,90,UPI,Sunny,4.1,Good,Friday
+31-10-2025,12:33,Lunch,35,Dosa,2,50,50,100,UPI,Windy,3.8,Good,Friday
+31-10-2025,16:37,Evening Snacks,77,Coffee,2,90,90,180,UPI,Rainy,4,Good,Friday
+31-10-2025,18:56,Evening Snacks,58,Idly,1,25,25,25,UPI,Cloudy,3.5,Average,Friday
+31-10-2025,13:20,Lunch,58,Coffee,3,15,15,45,UPI,Sunny,4,Good,Friday
+31-10-2025,15:29,Evening Snacks,51,Ice Cream,1,15,15,15,Card,Sunny,3.8,Good,Friday
+31-10-2025,19:37,Evening Snacks,39,Idly,2,25,25,50,UPI,Cloudy,3.6,Average,Friday
+31-10-2025,08:49,Breakfast,98,Idly,2,30,30,60,UPI,Cloudy,4.8,Excellent,Friday
+31-10-2025,14:00,Lunch,6,Tea,3,30,30,90,UPI,Sunny,3.6,Average,Friday
+31-10-2025,15:50,Evening Snacks,11,Juice,2,25,25,50,UPI,Sunny,4,Good,Friday
+31-10-2025,19:34,Evening Snacks,53,Pani Puri,1,25,25,25,UPI,Cloudy,3.7,Good,Friday
+31-10-2025,12:28,Lunch,3,Veg Biryani,1,25,25,25,UPI,Sunny,4.1,Good,Friday
+31-10-2025,12:37,Lunch,39,Idly,3,45,45,135,UPI,Sunny,3.5,Average,Friday
+31-10-2025,13:21,Lunch,76,Bisibele Bath,3,15,15,45,UPI,Cloudy,4.3,Very Good,Friday
+31-10-2025,16:06,Evening Snacks,52,Coffee,1,90,90,90,UPI,Rainy,4.8,Excellent,Friday
+31-10-2025,08:06,Breakfast,97,Idly,1,50,50,50,UPI,Sunny,3.7,Good,Friday
+31-10-2025,16:37,Evening Snacks,74,Coffee,1,25,25,25,UPI,Rainy,4.5,Excellent,Friday
+31-10-2025,16:43,Evening Snacks,57,Sandwich,1,50,50,50,UPI,Rainy,3.8,Good,Friday
+31-10-2025,09:59,Breakfast,91,Upma,2,90,90,180,Card,Sunny,4.6,Excellent,Friday
+31-10-2025,12:06,Lunch,22,Ice Cream,1,30,30,30,UPI,Sunny,4.9,Excellent,Friday
+31-10-2025,12:37,Lunch,43,Sandwich,1,12,12,12,UPI,Sunny,3.9,Good,Friday
+31-10-2025,12:35,Lunch,39,Idly,3,30,30,90,Cash,Sunny,3.4,Average,Friday
+31-10-2025,15:52,Evening Snacks,21,Juice,1,12,12,12,UPI,Cloudy,4.4,Very Good,Friday
+31-10-2025,15:13,Evening Snacks,28,Pani Puri,1,45,45,45,Cash,Sunny,4.1,Good,Friday
+31-10-2025,12:31,Lunch,40,Tea,1,30,30,30,UPI,Sunny,4.2,Very Good,Friday
+31-10-2025,19:29,Evening Snacks,45,Poori,2,45,45,90,UPI,Rainy,3.9,Good,Friday
+31-10-2025,17:28,Evening Snacks,31,Pani Puri,2,25,25,50,UPI,Sunny,3.6,Average,Friday
+31-10-2025,17:55,Evening Snacks,35,Sandwich,1,45,45,45,UPI,Cloudy,4.5,Excellent,Friday
+31-10-2025,16:32,Evening Snacks,96,Tea,1,12,12,12,UPI,Rainy,4.1,Good,Friday
+31-10-2025,19:14,Evening Snacks,80,Juice,1,30,30,30,UPI,Cloudy,3.4,Average,Friday
+31-10-2025,19:48,Evening Snacks,34,Fried Rice,1,70,70,70,Cash,Cloudy,4.3,Very Good,Friday
+31-10-2025,09:58,Breakfast,16,Coffee,1,30,30,30,Card,Cloudy,4.2,Very Good,Friday
+31-10-2025,16:17,Evening Snacks,56,Coffee,1,90,90,90,UPI,Cloudy,3.9,Good,Friday
