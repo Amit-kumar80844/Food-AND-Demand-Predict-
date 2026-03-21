@@ -57,6 +57,14 @@ png(file.path(out_dir, "boxplot_price_cost.png"), width=800, height=600)
 boxplot(df[, c("Price", "UnitCost")], main="Boxplot of Price and Unit Cost", col=c("orange", "yellow"), ylab="Amount (₹)")
 dev.off()
 
+png(file.path(out_dir, "boxplot_quantity_vs_weather.png"), width=800, height=600)
+boxplot(Quantity ~ Weather, data=df, main="Boxplot of Quantity by Weather", col="cyan", xlab="Weather", ylab="Quantity")
+dev.off()
+
+png(file.path(out_dir, "boxplot_quantity_vs_price.png"), width=800, height=600)
+boxplot(Quantity ~ as.factor(Price), data=df, main="Boxplot of Quantity by Price", col="pink", xlab="Price (₹)", ylab="Quantity")
+dev.off()
+
 # 2. Scatter Plots
 print("Generating Scatter Plots...")
 png(file.path(out_dir, "scatter_quantity_vs_total_amount.png"), width=800, height=600)
@@ -69,6 +77,10 @@ dev.off()
 
 png(file.path(out_dir, "scatter_unit_cost_vs_price.png"), width=800, height=600)
 plot(df$UnitCost, df$Price, main="Unit Cost vs Price", xlab="Unit Cost", ylab="Price", col="darkgreen", pch=16, cex=1.5)
+dev.off()
+
+png(file.path(out_dir, "scatter_quantity_vs_price.png"), width=800, height=600)
+plot(df$Price, df$Quantity, main="Quantity vs Price", xlab="Price (₹)", ylab="Quantity", col="magenta", pch=16, cex=1.5)
 dev.off()
 
 # 3. Histograms

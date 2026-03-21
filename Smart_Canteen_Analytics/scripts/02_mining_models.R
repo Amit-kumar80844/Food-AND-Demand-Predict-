@@ -58,10 +58,27 @@ if (!dir.exists(models_dir)) dir.create(models_dir)
 # -----------------------------------------------------
 print("Training Demand Forecasting Model (Random Forest)...")
 
-# Feature Engineering: Aggregate daily demand per item
+# Feature Engineering: Aggregate daily demand per item for realistic daily totals
+# Since a single day has multiple transactions (possibly with conflicting 'weather'),
+# find the Dominant Weather per day first to avoid fragmenting the daily total
+daily_weather <- sales_data %>%
+  group_by(FullDate) %>%
+  count(Weather) %>%
+  slice_max(n, n = 1, with_ties = FALSE) %>%
+  select(FullDate, DominantWeather = Weather)
+
+# Also find the most common price per day for an item if it fluctuated
+daily_price <- sales_data %>%
+  group_by(FullDate, ItemName) %>%
+  summarise(MedianPrice = median(Price, na.rm=TRUE), .groups='drop')
+
+# Calculate the actual total daily quantity
 demand_data <- sales_data %>%
-  group_by(FullDate, ItemName, Category, DayOfWeek, Weather, Price) %>%
+  group_by(FullDate, ItemName, Category, DayOfWeek) %>%
   summarise(DailyQuantity = sum(Quantity, na.rm=TRUE), .groups = 'drop') %>%
+  left_join(daily_weather, by = "FullDate") %>%
+  left_join(daily_price, by = c("FullDate", "ItemName")) %>%
+  rename(Weather = DominantWeather, Price = MedianPrice) %>%
   arrange(ItemName, FullDate)
 
 # Convert strings to factors for Random Forest
