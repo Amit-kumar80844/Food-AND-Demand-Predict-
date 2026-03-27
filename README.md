@@ -410,11 +410,19 @@ install.packages(c("dplyr", "lubridate", "DBI", "RSQLite", "caret",
 ```r
 Rscript scripts/01_etl_load.R
 ```
+For R studio
+```r
+source("scripts/01_etl_load.R")
+```
 > This reads from `data/rowData/merged_canteen_final.csv`, cleans and transforms the data, and loads it into the SQLite star schema in `data/canteen_dw.sqlite`.
 
 ### Step 3 — Train ML Models
 ```r
 Rscript scripts/02_mining_models.R
+```
+For R studio
+```r
+source("scripts/02_mining_models.R")
 ```
 > Trains the Random Forest, Apriori, and K-Means models. Saves results to `models/`.
 
@@ -422,17 +430,31 @@ Rscript scripts/02_mining_models.R
 ```r
 Rscript scripts/03_visual_analysis.R
 ```
+For R studio
+```r
+source("scripts/03_visual_analysis.R")
+```
 > Generates 18 plots and saves them to `results/figures/`.
 
 ### Step 5 — Evaluate Models
 ```r
 Rscript scripts/04_model_evaluation.R
 ```
+For R studio
+```r
+source("scripts/04_model_evaluation.R")
+```
+
 > Prints metrics to console and saves `results/tables/model_performance.csv`.
 
 ### Step 6 — Launch Shiny Dashboard
 ```powershell
 Rscript -e "shiny::runApp('app', launch.browser=TRUE)"
+```
+For R studio
+```r
+# Launch Shiny app
+shiny::runApp("app", launch.browser = TRUE)
 ```
 > Starts the local web server and opens the dashboard automatically in your default browser.
 
