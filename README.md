@@ -503,25 +503,21 @@ The system reduces guesswork in inventory management and provides a scalable tem
 
 | 2023BCS0144| Contribution |
 |:------------|:-------------|
-<!--
 | **001** | Dataset sourcing (Kaggle), Star Schema design |
 | **002** | visualization design|
 | **003** | Shiny dashboard (`app/app.R`) |
--->
-| 2023BCS0138| Contribution |
-PDF BY GAMMA AI
-<!--
-| **001** | Exploratory Data Analysis (`03_visual_analysis.R`)|
-| **002** | report writing |
--->
 
+| 2023BCS0138| Contribution |
+|:------------|:-------------|
+| **001** | Implemented data visualization in R (03_visual_analysis.R) |
+| **002** | Created box plots, scatter plots, and histograms for analysis |
+| **003** | Performed Exploratory Data Analysis (EDA) to identify patterns and trends |
+| **004** | Analyzed relationships between price, quantity, weather, and revenue |
 
 
 | 2023BCS0177| Contribution |
 |:------------|:-------------|
-<!--
 | **001** | Dataset sourcing (Kaggle), data merging script (`dataSetMerger.R`). Star Schema design |
--->
 ---
 
 ## 📚 References
